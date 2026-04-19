@@ -2,9 +2,9 @@ import { useState, useCallback, useEffect, useRef } from "react";
 
 const CATEGORIES = [
   "All",
-  "The Luminous","The Dark","The Wandering","The Reckoning",
+  "The Luminous","The Dark","The Weather","The Wandering","The Reckoning",
   "The Speaking","The Spent","The Sounding","The Knowing",
-  "The Bodied","The Bound",
+  "The Bodied","The Bound","The Creaturely",
 ];
 
 const C = {
