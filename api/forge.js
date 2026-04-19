@@ -4,15 +4,14 @@ export default async function handler(req, res) {
   const { a, b } = req.body;
   if (!a?.trim() || !b?.trim()) return res.status(400).json({ error: "a and b are required" });
 
-  const response = await fetch("https://api.anthropic.com/v1/messages", {
+  const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "x-api-key": process.env.ANTHROPIC_API_KEY,
-      "anthropic-version": "2023-06-01",
+      "Authorization": `Bearer ${process.env.OPENROUTER_API_KEY}`,
     },
     body: JSON.stringify({
-      model: "claude-sonnet-4-20250514",
+      model: "meta-llama/llama-3.1-8b-instruct:free",
       max_tokens: 1000,
       messages: [{
         role: "user",
@@ -36,7 +35,7 @@ Use genuine poetic logic. Aim for surprise.`,
   if (!response.ok) return res.status(502).json({ error: "Upstream error" });
 
   try {
-    const raw = data.content[0].text.trim().replace(/```json|```/g, "").trim();
+    const raw = data.choices[0].message.content.trim().replace(/```json|```/g, "").trim();
     res.json(JSON.parse(raw));
   } catch {
     res.status(502).json({ error: "Parse error" });
