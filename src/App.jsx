@@ -80,6 +80,20 @@ const Rule = ({ style }) => (
   <div style={{ height:1, background:`linear-gradient(90deg, transparent, ${C.borderBright}, transparent)`, ...style }} />
 );
 
+// Card section divider: label left, rule extends right
+const CardSection = ({ label }) => (
+  <div style={{
+    display:"flex", alignItems:"center", gap:10,
+    padding:"12px 22px", borderTop:`1px solid ${C.border}`,
+  }}>
+    <span style={{
+      fontFamily:mono, fontSize:7, letterSpacing:"0.28em",
+      color:C.textDim, whiteSpace:"nowrap",
+    }}>{label}</span>
+    <div style={{ flex:1, height:1, background:C.border }} />
+  </div>
+);
+
 export default function Glimrede() {
   const [corpus,        setCorpus]       = useState([]);
   const [loading,       setLoading]      = useState(true);
@@ -347,74 +361,75 @@ export default function Glimrede() {
         <div
           key={flashKey}
           className={flashKey > 0 ? "encounter-flash" : ""}
-          style={{ padding:"28px 32px", overflowY:"auto", position:"relative" }}
+          style={{ padding:"24px 28px", overflowY:"auto", position:"relative" }}
         >
           {selected && !writerMode && (
-            <Brackets
+            <div
               key={wordKey}
-              style={{ padding:"24px 28px", minHeight:220 }}
-              color={C.amberFaint}
+              className="word-reveal"
+              style={{
+                maxWidth:560,
+                border:`1px solid ${C.borderBright}`,
+                background:C.bgPanel,
+                boxShadow:`0 4px 32px rgba(0,0,0,0.7), 0 0 1px rgba(180,120,10,0.2)`,
+              }}
             >
-              {/* Specimen label */}
-              <div style={{
-                position:"absolute", top:-1, left:20,
-                background:C.bg, padding:"0 8px",
-              }}>
-                <Label style={{ fontSize:7, letterSpacing:"0.3em", color:C.amberGhost }}>
-                  ◈ SPECIMEN
-                </Label>
-              </div>
-
               {/* Word + hoard */}
-              <div className="word-reveal" style={{ display:"flex", alignItems:"flex-start", justifyContent:"space-between", marginBottom:4 }}>
+              <div style={{
+                padding:"20px 22px 16px",
+                borderBottom:`1px solid ${C.border}`,
+                display:"flex", justifyContent:"space-between", alignItems:"flex-start",
+              }}>
                 <div className="word-glow" style={{
-                  fontFamily:serif, fontSize:52, fontWeight:400,
-                  color:C.amberHot, lineHeight:1, letterSpacing:"0.01em",
+                  fontFamily:serif, fontSize:38, fontWeight:400,
+                  color:C.amberHot, lineHeight:1.05, letterSpacing:"0.01em",
                 }}>
                   {selected.word}
                 </div>
                 <button onClick={() => toggleHoard(selected.word)} style={{
-                  background:"none", border:"none", marginTop:4,
-                  fontSize:20, color: hoards.has(selected.word) ? C.amberGlow : C.amberFaint,
+                  background:"none", border:"none", marginTop:2,
+                  fontSize:18, color: hoards.has(selected.word) ? C.amberGlow : C.amberFaint,
                   textShadow: hoards.has(selected.word) ? "0 0 8px rgba(255,175,30,0.9)" : "none",
-                  padding:"4px 6px",
+                  padding:"2px 4px", flexShrink:0,
                 }}>
                   {hoards.has(selected.word) ? "★" : "☆"}
                 </button>
               </div>
 
-              {/* Meta */}
-              <div style={{ display:"flex", gap:16, marginBottom:22, alignItems:"center" }}>
+              {/* Meta row */}
+              <div style={{
+                padding:"9px 22px",
+                borderBottom:`1px solid ${C.border}`,
+                display:"flex", gap:12, alignItems:"center", flexWrap:"wrap",
+              }}>
                 <Label style={{ color:C.amberDim }}>/{selected.pronunciation}/</Label>
-                <span style={{ width:1, height:10, background:C.border, display:"inline-block" }} />
+                <span style={{ color:C.border }}>·</span>
                 <Label>{selected.era?.toUpperCase()}</Label>
-                <span style={{ width:1, height:10, background:C.border, display:"inline-block" }} />
+                <span style={{ color:C.border }}>·</span>
                 <Label>{selected.category?.toUpperCase()}</Label>
               </div>
 
-              <Rule style={{ marginBottom:20 }} />
-
               {/* Definition */}
-              <div className="hoverable" style={{
-                fontFamily:serif, fontSize:14.5, color:C.amberBright,
-                lineHeight:1.85, marginBottom:28, maxWidth:620,
-              }}>
-                {selected.definition}
+              <div style={{ padding:"18px 22px" }}>
+                <div className="hoverable" style={{
+                  fontFamily:serif, fontSize:13.5, color:C.amberBright,
+                  lineHeight:1.82,
+                }}>
+                  {selected.definition}
+                </div>
               </div>
 
               {/* What was lost */}
               {selected.lost && (
                 <>
-                  <div style={{ display:"flex", alignItems:"center", gap:12, marginBottom:14 }}>
-                    <Label style={{ whiteSpace:"nowrap" }}>WHAT WAS LOST</Label>
-                    <div style={{ flex:1, height:1, background:C.border }} />
-                  </div>
-                  <div className="hoverable-dim" style={{
-                    fontFamily:mono, fontStyle:"normal",
-                    fontSize:11, color:C.amberDim, lineHeight:1.9,
-                    marginBottom:28, maxWidth:580, letterSpacing:"0.04em",
-                  }}>
-                    {selected.lost}
+                  <CardSection label="WHAT WAS LOST" />
+                  <div style={{ padding:"0 22px 16px" }}>
+                    <div className="hoverable-dim" style={{
+                      fontFamily:mono, fontSize:10.5, color:C.amberDim,
+                      lineHeight:1.9, letterSpacing:"0.04em",
+                    }}>
+                      {selected.lost}
+                    </div>
                   </div>
                 </>
               )}
@@ -422,26 +437,25 @@ export default function Glimrede() {
               {/* In use */}
               {selected.usage && (
                 <>
-                  <div style={{ display:"flex", alignItems:"center", gap:12, marginBottom:14 }}>
-                    <Label style={{ whiteSpace:"nowrap" }}>IN USE</Label>
-                    <div style={{ flex:1, height:1, background:C.border }} />
-                  </div>
-                  <div className="hoverable-dim" style={{
-                    fontFamily:mono, fontSize:11, color:C.amberDim,
-                    lineHeight:1.9, maxWidth:580, letterSpacing:"0.04em",
-                  }}>
-                    "{selected.usage}"
+                  <CardSection label="IN USE" />
+                  <div style={{ padding:"0 22px 18px" }}>
+                    <div className="hoverable-dim" style={{
+                      fontFamily:mono, fontSize:10.5, color:C.amberDim,
+                      lineHeight:1.9, letterSpacing:"0.04em",
+                    }}>
+                      "{selected.usage}"
+                    </div>
                   </div>
                 </>
               )}
-            </Brackets>
+            </div>
           )}
 
           {/* Writer mode */}
           {selected && writerMode && (
             <div style={{ maxWidth:520 }}>
               <div className="word-glow" style={{
-                fontFamily:serif, fontSize:58, fontWeight:400,
+                fontFamily:serif, fontSize:42, fontWeight:400,
                 color:C.amberHot, lineHeight:1, marginBottom:12,
               }}>
                 {selected.word}
