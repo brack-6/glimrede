@@ -410,9 +410,9 @@ export default function Glimrede() {
                     <div style={{ flex:1, height:1, background:C.border }} />
                   </div>
                   <div className="hoverable-dim" style={{
-                    fontFamily:serif, fontStyle:"italic",
-                    fontSize:13, color:C.amberDim, lineHeight:1.8,
-                    marginBottom:28, maxWidth:580,
+                    fontFamily:mono, fontStyle:"normal",
+                    fontSize:11, color:C.amberDim, lineHeight:1.9,
+                    marginBottom:28, maxWidth:580, letterSpacing:"0.04em",
                   }}>
                     {selected.lost}
                   </div>
@@ -427,8 +427,8 @@ export default function Glimrede() {
                     <div style={{ flex:1, height:1, background:C.border }} />
                   </div>
                   <div className="hoverable-dim" style={{
-                    fontFamily:serif, fontSize:13, color:C.amberDim,
-                    lineHeight:1.8, maxWidth:580,
+                    fontFamily:mono, fontSize:11, color:C.amberDim,
+                    lineHeight:1.9, maxWidth:580, letterSpacing:"0.04em",
                   }}>
                     "{selected.usage}"
                   </div>
@@ -460,9 +460,9 @@ export default function Glimrede() {
               </div>
               {selected.lost && (
                 <div style={{
-                  fontFamily:serif, fontStyle:"italic",
-                  fontSize:13, color:C.amberDim, lineHeight:1.8,
-                  marginBottom:32, paddingLeft:16,
+                  fontFamily:mono, fontStyle:"normal",
+                  fontSize:11, color:C.amberDim, lineHeight:1.9,
+                  marginBottom:32, paddingLeft:16, letterSpacing:"0.04em",
                   borderLeft:`2px solid ${C.amberFaint}`,
                 }}>
                   {selected.lost}
