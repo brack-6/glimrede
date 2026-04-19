@@ -35,8 +35,11 @@ Use genuine poetic logic. Aim for surprise.`,
   if (!response.ok) return res.status(502).json({ error: "Upstream error" });
 
   try {
-    const raw = data.choices[0].message.content.trim().replace(/```json|```/g, "").trim();
-    res.json(JSON.parse(raw));
+    const text = data.choices[0].message.content.trim();
+    const start = text.indexOf("{");
+    const end = text.lastIndexOf("}");
+    if (start === -1 || end === -1) throw new Error("No JSON");
+    res.json(JSON.parse(text.slice(start, end + 1)));
   } catch {
     res.status(502).json({ error: "Parse error" });
   }

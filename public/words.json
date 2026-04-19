@@ -162,6 +162,15 @@
     "usage": "By what name do they clepe this road in the old maps?"
   },
   {
+    "word": "collogue",
+    "pronunciation": "kə-LOHG",
+    "era": "Early Modern English",
+    "category": "The Speaking",
+    "definition": "To converse privately; to conspire or intrigue through whispered talk; to flatter with intent.",
+    "lost": "Named conversation with a motive — collogue implies the talk has a purpose being kept from the room.",
+    "usage": "He collogued with the steward for an hour before the meeting, and the result showed."
+  },
+  {
     "word": "comely",
     "pronunciation": "KUM-lee",
     "era": "Old English",
@@ -187,6 +196,15 @@
     "definition": "Of the same blood; related by birth; sharing a common ancestor.",
     "lost": "Named blood relation as a legal and moral category, not merely a biological fact — consanguinity created obligations.",
     "usage": "They were consanguine, which the law treated as a fact and they treated as a complication."
+  },
+  {
+    "word": "coper",
+    "pronunciation": "KOH-pər",
+    "era": "Early Modern English",
+    "category": "The Reckoning",
+    "definition": "A horse dealer; a trader in cattle or livestock; one who deals and barters, especially with sharp practice implied.",
+    "lost": "Named a specific commercial type that required its own word — the coper was not merely a seller but one who knew every trick the animal could hide.",
+    "usage": "He bought the horse from a coper at the Michaelmas fair and spent the following winter regretting it."
   },
   {
     "word": "coruscate",
@@ -223,6 +241,15 @@
     "definition": "The brief, specific moment of twilight — neither day nor night, the threshold state. A temporal condition of radical uncertainty.",
     "lost": "\"Dusk\" is the result. Crepuscule is the event, with all its instability intact.",
     "usage": "He always made his approach at crepuscule, when shapes were still uncertain."
+  },
+  {
+    "word": "dandiprat",
+    "pronunciation": "DAN-dih-prat",
+    "era": "Early Modern English",
+    "category": "The Speaking",
+    "definition": "A small, insignificant person; a pert little fellow; originally a small coin of negligible value.",
+    "lost": "Named insignificance with a specific contempt — a dandiprat is not merely small but trivially so, worth about threepence.",
+    "usage": "Some dandiprat from the counting house had been given the contract, and no one could explain why."
   },
   {
     "word": "darkle",
@@ -313,6 +340,15 @@
     "definition": "Willing, content to, eager — but carrying a quality of resigned willingness; the acceptance of what must be done, stated as preference because preference and necessity have converged.",
     "lost": "\"Willing\" is neutral. Fain implies the willingness has been thought through, perhaps reluctantly.",
     "usage": "\"I am fain to let it go,\" she said, and she meant it, though it had cost her considerable effort to mean it."
+  },
+  {
+    "word": "fane",
+    "pronunciation": "fayn",
+    "era": "Old English",
+    "category": "The Knowing",
+    "definition": "A temple or shrine; a consecrated place; any building set apart for worship or sacred purpose.",
+    "lost": "Gave the sacred place a word of its own that predates the Latin church vocabulary — fane is older than cathedral and carries a different weight.",
+    "usage": "They found the fane in the wood long before they found the village it had served."
   },
   {
     "word": "fealty",
@@ -414,6 +450,15 @@
     "usage": "None who had seen it could gainsay the account, though it required believing difficult things."
   },
   {
+    "word": "glebe",
+    "pronunciation": "gleeb",
+    "era": "Middle English",
+    "category": "The Bound",
+    "definition": "Land belonging to a parish church, worked to support the incumbent; also: any open meadow or cultivated soil.",
+    "lost": "Named the land that sustained the priest — glebe was the ground that fed the institution, tying spirituality to soil in a way the modern church has abandoned.",
+    "usage": "The glebe had not been ploughed in a generation; the living was too poor to attract anyone who cared."
+  },
+  {
     "word": "glim",
     "pronunciation": "glɪm",
     "era": "Early Modern English",
@@ -441,6 +486,15 @@
     "usage": "It was not something she could explain; it arrived as gnosis, complete and uninvited."
   },
   {
+    "word": "grimalkin",
+    "pronunciation": "grih-MAL-kin",
+    "era": "Early Modern English",
+    "category": "The Dark",
+    "definition": "An old grey she-cat; a familiar spirit in the form of a cat; a malicious or imperious old woman.",
+    "lost": "Held the cat and the witch and the imperious elder together in one word — grimalkin understood that all three were variations of the same force.",
+    "usage": "The grimalkin on the hearth regarded the new arrival with a contempt that seemed wholly considered."
+  },
+  {
     "word": "guerdon",
     "pronunciation": "GER-dən",
     "era": "Middle English",
@@ -448,6 +502,15 @@
     "definition": "A reward given for service rendered; recompense of a formal or ceremonial kind.",
     "lost": "Named reward as something earned and witnessed, not merely given — a guerdon is a public acknowledgment.",
     "usage": "He asked no guerdon for the crossing except the name of the man he carried."
+  },
+  {
+    "word": "gyve",
+    "pronunciation": "jyv",
+    "era": "Middle English",
+    "category": "The Bound",
+    "definition": "A shackle or fetter, especially for the leg; to shackle; to bind at the ankle.",
+    "lost": "Named the restraint that moved with you — gyves were not a wall or a cell but a weight you carried at every step.",
+    "usage": "He walked with the careful gait of a man who had worn gyves and had not entirely forgotten the weight."
   },
   {
     "word": "haruspicy",
@@ -495,6 +558,15 @@
     "usage": "He paid homage without irony, which surprised everyone who thought they knew him."
   },
   {
+    "word": "howbeit",
+    "pronunciation": "how-BEE-it",
+    "era": "Middle English",
+    "category": "The Speaking",
+    "definition": "Nevertheless; however that may be; notwithstanding — a concession that holds its ground.",
+    "lost": "Nevertheless is blunter; howbeit carried a note of philosophical resignation — however things may stand, here is what remains true.",
+    "usage": "The evidence was thin, howbeit sufficient for the purposes of the court."
+  },
+  {
     "word": "imprecation",
     "pronunciation": "im-preh-KAY-shən",
     "era": "Classical Borrowing",
@@ -522,6 +594,15 @@
     "usage": "Standing there in the rain, she seemed to be grief incarnate, stripped of everything incidental."
   },
   {
+    "word": "indite",
+    "pronunciation": "in-DYT",
+    "era": "Middle English",
+    "category": "The Speaking",
+    "definition": "To compose or write; to set down in literary form; to dictate the terms of a written text.",
+    "lost": "Named writing as a compositional act distinct from mere transcription — to indite is to give form, not just to record.",
+    "usage": "She indited the letter herself, which was unusual, and the handwriting showed it."
+  },
+  {
     "word": "itinerant",
     "pronunciation": "eye-TIN-er-ənt",
     "era": "Classical Borrowing",
@@ -529,6 +610,24 @@
     "definition": "Traveling from place to place without fixed habitation; defined by motion rather than destination.",
     "lost": "Named the condition of permanent transit — an itinerant is not between places but has made transit itself the address.",
     "usage": "He had been itinerant so long that the question of where he lived produced a small, rehearsed hesitation."
+  },
+  {
+    "word": "kine",
+    "pronunciation": "kyn",
+    "era": "Old English",
+    "category": "The Wandering",
+    "definition": "Cows collectively; cattle; the archaic plural of cow, carrying the pastoral weight of a world organized around livestock.",
+    "lost": "The loss of kine is the loss of a plural that felt like a multitude — cows is a count, kine was a collective presence.",
+    "usage": "The kine moved across the valley floor in the evening light, slow and certain as weather."
+  },
+  {
+    "word": "kirtle",
+    "pronunciation": "KER-təl",
+    "era": "Old English",
+    "category": "The Bodied",
+    "definition": "A woman's gown or outer petticoat; a man's tunic reaching to the knees; a garment that defined the body's public shape.",
+    "lost": "Named a garment that no longer exists — the kirtle was a foundational layer of dress, neither underwear nor outerwear, with no modern equivalent.",
+    "usage": "She had a kirtle of Lincoln green that she wore to market and kept folded the rest of the year."
   },
   {
     "word": "kith",
@@ -565,6 +664,15 @@
     "definition": "Physical or mental weariness; exhaustion that goes deeper than sleep can reach.",
     "lost": "Distinguished exhaustion from tiredness — lassitude is not solved by rest, which is why it requires its own word.",
     "usage": "A lassitude had settled into her bones that she recognized as something other than lack of sleep."
+  },
+  {
+    "word": "leech",
+    "pronunciation": "leech",
+    "era": "Old English",
+    "category": "The Bodied",
+    "definition": "A physician or healer; one skilled in the medical arts; a doctor before that word carried its current authority.",
+    "lost": "We kept leech only as the worm — lost the healer, kept the parasite, which says something about how medicine evolved.",
+    "usage": "The leech came at dawn and spent an hour in silence before pronouncing, unhelpfully, that time would tell."
   },
   {
     "word": "lief",
@@ -612,6 +720,33 @@
     "usage": "The stone was lucent in moonlight, as though it had spent the day storing warmth."
   },
   {
+    "word": "lucifer",
+    "pronunciation": "LOO-sih-fər",
+    "era": "Early Modern English",
+    "category": "The Luminous",
+    "definition": "A friction match; the first cheap match that could be struck on any rough surface, named for the light-bearer.",
+    "lost": "Named the match with full awareness of the metaphor — a lucifer was a small private act of creation, fire from nothing, which is either mundane or theological depending on your mood.",
+    "usage": "He struck a lucifer against the doorframe and held it to the lamp without looking up from the page."
+  },
+  {
+    "word": "malapert",
+    "pronunciation": "MAL-ə-pert",
+    "era": "Middle English",
+    "category": "The Speaking",
+    "definition": "Presumptuously bold; impudent in a way that exceeds one's station; forward without warrant.",
+    "lost": "Named the specific social crime of speaking above yourself — malapert is impudence calibrated to hierarchy, a word that required a class system to mean anything.",
+    "usage": "The boy was malapert in a way his father had been too, and the resemblance was not flattering."
+  },
+  {
+    "word": "malison",
+    "pronunciation": "MAL-ih-zən",
+    "era": "Middle English",
+    "category": "The Speaking",
+    "definition": "A curse; a formal invocation of evil upon a person; the opposite of a benison.",
+    "lost": "Named the curse as a performed speech act with moral weight — a malison was not an oath but a prayer directed downward.",
+    "usage": "She left without violence, but the malison she whispered at the gate was heard by enough people that it traveled."
+  },
+  {
     "word": "manumit",
     "pronunciation": "man-yoo-MIT",
     "era": "Classical Borrowing",
@@ -628,6 +763,15 @@
     "definition": "Low spirits; depression without spectacular cause; a heaviness that settles in without event.",
     "lost": "Named the condition of being simply, dully low — megrims has no drama, which is precisely the point.",
     "usage": "He could not explain the megrims to anyone; it seemed too small a thing to name and too large to carry."
+  },
+  {
+    "word": "melodist",
+    "pronunciation": "MEL-ə-dist",
+    "era": "Early Modern English",
+    "category": "The Sounding",
+    "definition": "A singer; one who creates or performs melodies; a composer of song.",
+    "lost": "Named the singer as an artist rather than a technician — a melodist makes melody, which is a different claim than merely producing it.",
+    "usage": "The melodist they'd hired for the evening had a voice that made the room go quiet in a way that felt involuntary."
   },
   {
     "word": "mirk",
@@ -702,6 +846,15 @@
     "usage": "What the noctuary contained, he never shared with morning company."
   },
   {
+    "word": "numbles",
+    "pronunciation": "NUM-bəlz",
+    "era": "Middle English",
+    "category": "The Bodied",
+    "definition": "The entrails of a deer, especially as prepared for eating; the humble offal served to those below the lord's table.",
+    "lost": "The source of 'humble pie' — umble pie was numble pie, the offal dish given to servants. The humility was literal, edible, and deliberately staged.",
+    "usage": "The numbles were set at the lower end of the table and eaten without comment by those who understood their position."
+  },
+  {
     "word": "numinous",
     "pronunciation": "NYOO-min-us",
     "era": "Early Modern English",
@@ -747,6 +900,24 @@
     "usage": "Her thoughts were otherwhere long before her body followed."
   },
   {
+    "word": "overbrim",
+    "pronunciation": "oh-vər-BRIM",
+    "era": "Early Modern English",
+    "category": "The Wandering",
+    "definition": "To flow over the brim; to spill beyond the rim of a vessel; to exceed the containing limit.",
+    "lost": "Named overflow as a specific moment — the instant the surface breaks its boundary. Spill describes the aftermath; overbrim names the threshold.",
+    "usage": "The river had overbrimmed its banks in the night and was now conducting its own survey of the lower fields."
+  },
+  {
+    "word": "pale",
+    "pronunciation": "payl",
+    "era": "Middle English",
+    "category": "The Bound",
+    "definition": "An area within determined bounds or subject to a particular jurisdiction; the fence or boundary that marks what is governed.",
+    "lost": "The phrase 'beyond the pale' kept the concept alive but removed the geography — the pale was a real administrative boundary, and crossing it meant leaving law itself.",
+    "usage": "Beyond the pale there were no sheriffs and no assizes; there was only what you could hold."
+  },
+  {
     "word": "pallor",
     "pronunciation": "PAL-ər",
     "era": "Classical Borrowing",
@@ -763,6 +934,33 @@
     "definition": "A sudden, sharp pain — physical or emotional; a quick, piercing sensation that arrives without warning.",
     "lost": "Named the quality of sudden-onset pain: its brevity and its completeness — a pang is over almost before you register it.",
     "usage": "A pang of something — guilt, or its near neighbor — crossed his face before he looked away."
+  },
+  {
+    "word": "paynim",
+    "pronunciation": "PAY-nim",
+    "era": "Middle English",
+    "category": "The Knowing",
+    "definition": "A pagan; a non-Christian, especially a Saracen or Muslim in the context of crusade literature; the heathen other.",
+    "lost": "Named the theological outsider with a word that acknowledged a world divided by faith rather than nation — paynim is a category of belief, not of race.",
+    "usage": "The romances were full of paynims who fought honorably and believed wrongly, which was understood to be a tragedy."
+  },
+  {
+    "word": "peccant",
+    "pronunciation": "PEK-ənt",
+    "era": "Classical Borrowing",
+    "category": "The Spent",
+    "definition": "Sinning; guilty of moral offense; also: causing disease, as a peccant humor in the body.",
+    "lost": "Held sin and sickness as the same structural disorder — peccant understood that the body and the soul could both go wrong in the same way.",
+    "usage": "He listed his peccant hours with a precision that suggested he'd been keeping count for some time."
+  },
+  {
+    "word": "peradventure",
+    "pronunciation": "per-ad-VEN-chər",
+    "era": "Middle English",
+    "category": "The Speaking",
+    "definition": "Perhaps; possibly; by chance — a modal word that holds a door open without walking through it.",
+    "lost": "Maybe is too casual; perhaps is too neutral; peradventure carried the weight of genuine uncertainty, as if the speaker understood what was at stake in not knowing.",
+    "usage": "He had not come, and peradventure would not come, and she began to make her arrangements accordingly."
   },
   {
     "word": "peregrinate",
@@ -792,6 +990,15 @@
     "usage": "He delivered his philippic calmly, which made it considerably worse to receive."
   },
   {
+    "word": "pistoleer",
+    "pronunciation": "pis-tə-LEER",
+    "era": "Early Modern English",
+    "category": "The Bound",
+    "definition": "A cavalry soldier armed with pistols; a fighter who carried the new handgun into close battle on horseback.",
+    "lost": "Named a military type that existed only briefly — the pistoleer was the cavalry's answer to the arquebus, a role that gunpowder made and then rapidly unmade.",
+    "usage": "The pistoleers came through the gap in the hedge before the musketeers had finished reloading."
+  },
+  {
     "word": "plenilune",
     "pronunciation": "PLEN-ih-loon",
     "era": "Classical Borrowing",
@@ -808,6 +1015,24 @@
     "definition": "To pledge solemnly; to bind oneself by promise; a solemn engagement.",
     "lost": "Named the act of pledging as distinct from the pledge — to plight your troth was to perform a binding, not merely to feel one.",
     "usage": "He had plighted himself to her before witnesses, and he was not the kind of man to regard that as a formality."
+  },
+  {
+    "word": "posy",
+    "pronunciation": "POH-zee",
+    "era": "Early Modern English",
+    "category": "The Speaking",
+    "definition": "A short motto or verse inscribed inside a ring or on a small gift; a concise text meant to be carried and reread.",
+    "lost": "Named the personal inscription as a literary form — a posy was a poem reduced to its most portable size, intended to travel inside a piece of jewelry.",
+    "usage": "The ring had a posy worn almost smooth: something beginning 'whilst I live' and ending with her name."
+  },
+  {
+    "word": "potation",
+    "pronunciation": "poh-TAY-shən",
+    "era": "Classical Borrowing",
+    "category": "The Bodied",
+    "definition": "A drink, especially an alcoholic one; the act of drinking; a draught taken with some deliberation.",
+    "lost": "Named drinking as a considered act rather than a reflex — a potation is chosen, poured, and consumed with the awareness that one is consuming it.",
+    "usage": "He required his morning potation before he was prepared to discuss anything of consequence."
   },
   {
     "word": "presage",
@@ -837,6 +1062,15 @@
     "usage": "His pulchritude was the kind that photographs never quite caught, which meant it was entirely in the movement."
   },
   {
+    "word": "quean",
+    "pronunciation": "kween",
+    "era": "Old English",
+    "category": "The Speaking",
+    "definition": "An impudent or badly behaved girl or woman; a bold, forward female — not a queen, but its older, rougher cognate.",
+    "lost": "Queen and quean were once two spellings of related words; queen rose and quean fell, which tells you everything about which qualities were rewarded.",
+    "usage": "She was called a quean for the same behavior that would have earned a man a reputation for spirit."
+  },
+  {
     "word": "quicken",
     "pronunciation": "KWIK-ən",
     "era": "Old English",
@@ -846,6 +1080,15 @@
     "usage": "She felt it quicken on a Tuesday, and afterward the whole pregnancy was different."
   },
   {
+    "word": "quidnunc",
+    "pronunciation": "KWID-nunk",
+    "era": "Classical Borrowing",
+    "category": "The Speaking",
+    "definition": "An inquisitive, gossipy person; one perpetually asking 'what now?' — from the Latin for that exact question.",
+    "lost": "Named the gossip with a precision that 'busybody' lacks — a quidnunc is specifically addicted to news, to the next thing, to the currency of information.",
+    "usage": "Every village kept its quidnunc the way it kept its blacksmith: necessary, occasionally useful, best approached with care."
+  },
+  {
     "word": "quittance",
     "pronunciation": "KWIT-əns",
     "era": "Middle English",
@@ -853,6 +1096,15 @@
     "definition": "A discharge from a debt or obligation; a receipt that closes the account.",
     "lost": "Named the specific moment when something is fully paid and therefore done — quittance is the sound of a ledger closing.",
     "usage": "She demanded quittance in writing before she would leave the room."
+  },
+  {
+    "word": "rack",
+    "pronunciation": "rak",
+    "era": "Old English",
+    "category": "The Wandering",
+    "definition": "To be driven before the wind, as a cloud or mist; to drift in visible movement across the sky.",
+    "lost": "We kept rack only as a torture device and a ruin — lost the cloud-word, which named movement that was neither directed nor aimless but simply carried.",
+    "usage": "The clouds racked overhead all morning, shredding and reforming without ever quite becoming rain."
   },
   {
     "word": "rede",
@@ -882,6 +1134,15 @@
     "usage": "He dressed in sable from collar to heel, and no one asked why."
   },
   {
+    "word": "sanative",
+    "pronunciation": "SAN-ə-tiv",
+    "era": "Classical Borrowing",
+    "category": "The Bodied",
+    "definition": "Having the power to heal; tending to cure; pertaining to the restorative properties of a substance or place.",
+    "lost": "Healing is a verb; sanative is a quality — it describes what a thing inherently is, not what it does on a given occasion.",
+    "usage": "The air of the coast was considered sanative, which was why the wealthy went there and the poor stayed behind."
+  },
+  {
     "word": "sanguine",
     "pronunciation": "SANG-gwin",
     "era": "Middle English",
@@ -891,6 +1152,24 @@
     "usage": "He was sanguine about the delay in a way that suggested he knew something the rest of them didn't."
   },
   {
+    "word": "scantling",
+    "pronunciation": "SKANT-ling",
+    "era": "Early Modern English",
+    "category": "The Reckoning",
+    "definition": "A small portion or specimen; a sample used to judge the whole; also: a thin timber of specified dimensions.",
+    "lost": "Named the representative fragment — a scantling is not the thing itself but sufficient to know the thing by, which is a precise and useful epistemological concept.",
+    "usage": "A scantling of his conversation was enough; she had heard everything she needed to hear."
+  },
+  {
+    "word": "scapegrace",
+    "pronunciation": "SKAYP-grays",
+    "era": "Early Modern English",
+    "category": "The Speaking",
+    "definition": "A reckless, mischievous person who has escaped the grace of God; a rascal beyond redemption's reach.",
+    "lost": "Named the charming irredeemable — a scapegrace is not a villain but someone who has simply outrun every available blessing.",
+    "usage": "He was the family scapegrace, beloved and unreliable in equal measure, and everyone had long since stopped expecting otherwise."
+  },
+  {
     "word": "scintilla",
     "pronunciation": "sin-TIL-ə",
     "era": "Classical Borrowing",
@@ -898,6 +1177,15 @@
     "definition": "A spark; the smallest possible trace or fragment of something.",
     "lost": "Named the unit of light that makes fire conceivable — a scintilla is light at the threshold of existence.",
     "usage": "There was not a scintilla of warmth in his reply, and everyone present understood."
+  },
+  {
+    "word": "sciolist",
+    "pronunciation": "SY-ə-list",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "One who pretends to knowledge they do not possess; a superficial scholar; someone who mistakes familiarity for understanding.",
+    "lost": "Named the specific failure of half-learning — a sciolist has read enough to sound convincing and not enough to know they shouldn't.",
+    "usage": "The lecture circuit was full of sciolists that year, each one fluent in the vocabulary of fields they'd visited once."
   },
   {
     "word": "scry",
@@ -925,6 +1213,24 @@
     "definition": "A period of seven nights; a week — but measured by darkness rather than days. Time as endurance rather than administration.",
     "lost": "\"Week\" is administrative. Sennight implies the weight of seven sleeps endured.",
     "usage": "He had not eaten in a sennight, and the forest showed no signs of ending."
+  },
+  {
+    "word": "shambles",
+    "pronunciation": "SHAM-bəlz",
+    "era": "Old English",
+    "category": "The Dark",
+    "definition": "A slaughterhouse; a place of butchery; a scene of blood and disorder — before it became merely a synonym for mess.",
+    "lost": "The word survived its meaning's collapse — shambles now means any disorder, but it once meant the specific violent disorder of a place designed for killing.",
+    "usage": "The street that ran behind the shambles smelled of what it was adjacent to, and the property values showed it."
+  },
+  {
+    "word": "shrive",
+    "pronunciation": "shryv",
+    "era": "Old English",
+    "category": "The Knowing",
+    "definition": "To hear a confession and grant absolution; to impose penance; to cleanse a soul through the formal act of a priest.",
+    "lost": "Named absolution as a specific priestly technology — to shrive someone was to perform a sacramental act, not merely to forgive them, which is a very different thing.",
+    "usage": "He had not been shriven in years and carried the weight of that accumulation in a way that showed in his posture."
   },
   {
     "word": "sibilation",
