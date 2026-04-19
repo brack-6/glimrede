@@ -57,6 +57,26 @@
       input:focus { outline: none; }
       button { cursor: pointer; }
       button:focus { outline: none; }
+
+      .hoverable {
+        transition: color 0.2s ease, text-shadow 0.2s ease;
+        cursor: default;
+      }
+      .hoverable:hover {
+        color: #e8a012 !important;
+        text-shadow:
+          0 0 6px rgba(255,170,30,0.7),
+          0 0 18px rgba(240,140,10,0.35);
+      }
+      .hoverable-dim {
+        transition: color 0.2s ease, text-shadow 0.2s ease;
+      }
+      .hoverable-dim:hover {
+        color: #c88010 !important;
+        text-shadow:
+          0 0 5px rgba(220,150,20,0.55),
+          0 0 14px rgba(200,120,10,0.25);
+      }
     </style>
   </head>
   <body>

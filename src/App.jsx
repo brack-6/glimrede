@@ -395,7 +395,7 @@ export default function Glimrede() {
               <Rule style={{ marginBottom:20 }} />
 
               {/* Definition */}
-              <div style={{
+              <div className="hoverable" style={{
                 fontFamily:serif, fontSize:14.5, color:C.amberBright,
                 lineHeight:1.85, marginBottom:28, maxWidth:620,
               }}>
@@ -409,7 +409,7 @@ export default function Glimrede() {
                     <Label style={{ whiteSpace:"nowrap" }}>WHAT WAS LOST</Label>
                     <div style={{ flex:1, height:1, background:C.border }} />
                   </div>
-                  <div style={{
+                  <div className="hoverable-dim" style={{
                     fontFamily:serif, fontStyle:"italic",
                     fontSize:13, color:C.amberDim, lineHeight:1.8,
                     marginBottom:28, maxWidth:580,
@@ -426,7 +426,7 @@ export default function Glimrede() {
                     <Label style={{ whiteSpace:"nowrap" }}>IN USE</Label>
                     <div style={{ flex:1, height:1, background:C.border }} />
                   </div>
-                  <div style={{
+                  <div className="hoverable-dim" style={{
                     fontFamily:serif, fontSize:13, color:C.amberDim,
                     lineHeight:1.8, maxWidth:580,
                   }}>
