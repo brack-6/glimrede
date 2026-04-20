@@ -27,6 +27,7 @@ const C = {
 
 const mono   = "'Share Tech Mono', 'Courier New', monospace";
 const serif  = "'IM Fell English', Georgia, serif";
+const plex   = "'IBM Plex Mono', 'Courier New', monospace";
 
 const HOARD_KEY = "glimrede-saved-words";
 
@@ -55,7 +56,7 @@ const Scanlines = () => (
       rgba(0,0,0,0.22) 2px,
       rgba(0,0,0,0.22) 4px
     )`,
-    position:"fixed", inset:0, pointerEvents:"none", zIndex:200, opacity:0.55,
+    position:"fixed", inset:0, pointerEvents:"none", zIndex:200, opacity:0.35,
   }} />
 );
 
@@ -372,6 +373,7 @@ export default function Glimrede() {
                 border:`1px solid ${C.borderBright}`,
                 background:C.bgPanel,
                 boxShadow:`0 4px 32px rgba(0,0,0,0.7), 0 0 1px rgba(180,120,10,0.2)`,
+                position:"relative", zIndex:201,
               }}
             >
               {/* Word + hoard */}
@@ -412,8 +414,9 @@ export default function Glimrede() {
               {/* Definition */}
               <div style={{ padding:"18px 22px" }}>
                 <div className="hoverable" style={{
-                  fontFamily:serif, fontSize:13.5, color:C.amberBright,
-                  lineHeight:1.82,
+                  fontFamily:plex, fontSize:12, color:C.amberBright,
+                  lineHeight:1.9, letterSpacing:"0.02em",
+                  textDecoration:"none",
                 }}>
                   {selected.definition}
                 </div>
@@ -425,8 +428,9 @@ export default function Glimrede() {
                   <CardSection label="WHAT WAS LOST" />
                   <div style={{ padding:"0 22px 16px" }}>
                     <div className="hoverable-dim" style={{
-                      fontFamily:mono, fontSize:10.5, color:C.amberDim,
-                      lineHeight:1.9, letterSpacing:"0.04em",
+                      fontFamily:plex, fontSize:11, color:C.amberDim,
+                      lineHeight:1.9, letterSpacing:"0.02em",
+                      textDecoration:"none",
                     }}>
                       {selected.lost}
                     </div>
@@ -440,8 +444,9 @@ export default function Glimrede() {
                   <CardSection label="IN USE" />
                   <div style={{ padding:"0 22px 18px" }}>
                     <div className="hoverable-dim" style={{
-                      fontFamily:mono, fontSize:10.5, color:C.amberDim,
-                      lineHeight:1.9, letterSpacing:"0.04em",
+                      fontFamily:plex, fontSize:11, color:C.amberDim,
+                      lineHeight:1.9, letterSpacing:"0.02em",
+                      textDecoration:"none",
                     }}>
                       "{selected.usage}"
                     </div>
@@ -467,17 +472,19 @@ export default function Glimrede() {
               </div>
               <Rule style={{ marginBottom:24 }} />
               <div style={{
-                fontFamily:serif, fontSize:15, color:C.amberBright,
+                fontFamily:plex, fontSize:12.5, color:C.amberBright,
                 lineHeight:1.9, marginBottom:32,
+                letterSpacing:"0.02em", textDecoration:"none",
               }}>
                 {selected.definition}
               </div>
               {selected.lost && (
                 <div style={{
-                  fontFamily:mono, fontStyle:"normal",
+                  fontFamily:plex, fontStyle:"normal",
                   fontSize:11, color:C.amberDim, lineHeight:1.9,
-                  marginBottom:32, paddingLeft:16, letterSpacing:"0.04em",
+                  marginBottom:32, paddingLeft:16, letterSpacing:"0.02em",
                   borderLeft:`2px solid ${C.amberFaint}`,
+                  textDecoration:"none",
                 }}>
                   {selected.lost}
                 </div>
