@@ -56,7 +56,7 @@ const Scanlines = () => (
       rgba(0,0,0,0.22) 2px,
       rgba(0,0,0,0.22) 4px
     )`,
-    position:"fixed", inset:0, pointerEvents:"none", zIndex:200, opacity:0.35,
+    position:"fixed", inset:0, pointerEvents:"none", zIndex:200, opacity:0.22,
   }} />
 );
 
@@ -325,22 +325,22 @@ export default function Glimrede() {
             {filtered.map(w => {
               const isSelected = selected?.word===w.word;
               return (
-                <div key={w.word} onClick={() => selectWord(w)} style={{
+                <div key={w.word} className="list-item" onClick={() => selectWord(w)} style={{
                   padding:"8px 12px",
                   cursor:"pointer",
                   background: isSelected ? C.bgSelected : "transparent",
                   borderBottom:`1px solid ${C.border}`,
                   borderLeft: isSelected ? `2px solid ${C.amberGlow}` : "2px solid transparent",
                   display:"flex", justifyContent:"space-between", alignItems:"center",
-                  transition:"background 0.1s",
                 }}>
                   <div>
-                    <div style={{
+                    <div className={isSelected ? "word-glow" : "list-word"} style={{
                       fontSize:13, fontFamily:serif,
-                      color: isSelected ? C.amberHot : C.amberBright,
+                      color: isSelected ? C.amberHot : C.amberGlow,
                       textShadow: isSelected ? "0 0 8px rgba(255,175,30,0.7)" : "none",
+                      transition:"color 0.15s, text-shadow 0.15s",
                     }}>{w.word}</div>
-                    <div style={{ fontSize:7, color:C.textDim, letterSpacing:"0.12em", marginTop:2 }}>
+                    <div style={{ fontSize:7, color:C.amberDim, letterSpacing:"0.12em", marginTop:2 }}>
                       {w.category?.replace("The ","").toUpperCase()}
                     </div>
                   </div>
@@ -362,18 +362,17 @@ export default function Glimrede() {
         <div
           key={flashKey}
           className={flashKey > 0 ? "encounter-flash" : ""}
-          style={{ padding:"24px 28px", overflowY:"auto", position:"relative" }}
+          style={{ padding:"24px 28px", overflowY:"auto", position:"relative", display:"flex", justifyContent:"center", alignItems:"flex-start" }}
         >
           {selected && !writerMode && (
             <div
               key={wordKey}
               className="word-reveal"
               style={{
-                maxWidth:560,
+                width:"100%", maxWidth:640,
                 border:`1px solid ${C.borderBright}`,
                 background:C.bgPanel,
                 boxShadow:`0 4px 32px rgba(0,0,0,0.7), 0 0 1px rgba(180,120,10,0.2)`,
-                position:"relative", zIndex:201,
               }}
             >
               {/* Word + hoard */}
