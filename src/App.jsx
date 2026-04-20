@@ -63,14 +63,14 @@ const Scanlines = () => (
 // Vignette
 const Vignette = () => (
   <div style={{
-    background:`radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,0.75) 100%)`,
+    background:`radial-gradient(ellipse at center, transparent 60%, rgba(0,0,0,0.38) 100%)`,
     position:"fixed", inset:0, pointerEvents:"none", zIndex:199,
   }} />
 );
 
 // Readout label
-const Label = ({ children, style }) => (
-  <span className="label-glow" style={{
+const Label = ({ children, style, className }) => (
+  <span className={["label-glow", className].filter(Boolean).join(" ")} style={{
     fontFamily:mono, fontSize:8, letterSpacing:"0.28em",
     color:C.textDim, ...style,
   }}>{children}</span>
@@ -87,7 +87,7 @@ const CardSection = ({ label }) => (
     display:"flex", alignItems:"center", gap:10,
     padding:"12px 22px", borderTop:`1px solid ${C.border}`,
   }}>
-    <span style={{
+    <span className="hoverable" style={{
       fontFamily:mono, fontSize:7, letterSpacing:"0.28em",
       color:C.textDim, whiteSpace:"nowrap",
     }}>{label}</span>
@@ -242,7 +242,7 @@ export default function Glimrede() {
               fontFamily:mono, fontSize:14, letterSpacing:"0.35em", color:C.amberGlow,
             }}>GLIMREDE</span>
           </div>
-          <Label style={{ letterSpacing:"0.2em" }}>A THESAURUS OF LOST LANGUAGE</Label>
+          <Label className="hoverable-dim" style={{ letterSpacing:"0.2em" }}>A THESAURUS OF LOST LANGUAGE</Label>
         </div>
         {/* Right: controls */}
         <div style={{ display:"flex", alignItems:"stretch", gap:0 }}>
@@ -255,7 +255,7 @@ export default function Glimrede() {
             display:"flex", alignItems:"center",
             padding:"0 16px", borderLeft:`1px solid ${C.border}`,
           }}>
-            <Label>
+            <Label className="hoverable-dim">
               <span style={{ color:C.amberDim }}>{corpus.length}</span>
               {" "}ENTRIES
             </Label>
@@ -273,7 +273,7 @@ export default function Glimrede() {
         {CATEGORIES.map(cat => {
           const active = activeCat===cat;
           return (
-            <button key={cat} onClick={() => setActiveCat(cat)} style={{
+            <button key={cat} onClick={() => setActiveCat(cat)} className="cat-btn" style={{
               background:"none", border:"none",
               borderBottom: active ? `2px solid ${C.amberGlow}` : "2px solid transparent",
               borderRight: `1px solid ${C.border}`,
@@ -404,11 +404,11 @@ export default function Glimrede() {
                 borderBottom:`1px solid ${C.border}`,
                 display:"flex", gap:12, alignItems:"center", flexWrap:"wrap",
               }}>
-                <Label style={{ color:C.amberDim }}>/{selected.pronunciation}/</Label>
+                <Label className="hoverable-dim" style={{ color:C.amberDim }}>/{selected.pronunciation}/</Label>
                 <span style={{ color:C.border }}>·</span>
-                <Label>{selected.era?.toUpperCase()}</Label>
+                <Label className="hoverable-dim">{selected.era?.toUpperCase()}</Label>
                 <span style={{ color:C.border }}>·</span>
-                <Label>{selected.category?.toUpperCase()}</Label>
+                <Label className="hoverable-dim">{selected.category?.toUpperCase()}</Label>
               </div>
 
               {/* Definition */}
@@ -523,7 +523,7 @@ export default function Glimrede() {
           ].map(([id, label]) => {
             const active = activePanel===id;
             return (
-              <button key={id} onClick={() => setActivePanel(id)} style={{
+              <button key={id} onClick={() => setActivePanel(id)} className="cat-btn" style={{
                 background:"none", border:"none",
                 borderRight:`1px solid ${C.border}`,
                 borderBottom: active ? `2px solid ${C.amberGlow}` : "2px solid transparent",
@@ -572,12 +572,13 @@ export default function Glimrede() {
                 {[["oe","ARCHAIC"],["naut","NAUTICAL"],["leg","LEGALISM"]].map(([key,label]) => (
                   <Brackets key={key} style={{ padding:"14px 16px" }} color={C.amberGhost}>
                     <Label style={{ marginBottom:10, display:"block" }}>{label}</Label>
-                    <div className="word-glow" style={{
+                    <div className="word-glow word-hover" style={{
                       fontFamily:serif, fontSize:22, color:C.amberGlow, marginBottom:6,
+                      cursor:"default", transition:"text-shadow 0.2s",
                     }}>{crossResult[key]?.word}</div>
-                    <div style={{
-                      fontFamily:serif, fontSize:11, color:C.amberDim,
-                      fontStyle:"italic", lineHeight:1.6,
+                    <div className="hoverable-dim" style={{
+                      fontFamily:plex, fontSize:11, color:C.amberDim,
+                      lineHeight:1.6,
                     }}>{crossResult[key]?.gloss}</div>
                   </Brackets>
                 ))}
@@ -589,7 +590,7 @@ export default function Glimrede() {
               </div>
             )}
             <div style={{ marginTop:14 }}>
-              <Label style={{ fontSize:7, color:C.textGhost }}>
+              <Label className="hoverable-dim" style={{ fontSize:7, color:C.textGhost }}>
                 ↑ ENTER A MODERN WORD · RECEIVE THREE ARCHAIC SHADOWS
               </Label>
             </div>
@@ -643,16 +644,17 @@ export default function Glimrede() {
               <div style={{ marginTop:18, display:"grid", gridTemplateColumns:"1fr 1fr", gap:12 }}>
                 {kennResult.kennings.map((k,i) => (
                   <Brackets key={i} style={{ padding:"14px 16px" }} color={C.amberGhost}>
-                    <div className="word-glow" style={{
+                    <div className="word-glow word-hover" style={{
                       fontFamily:serif, fontSize:22, color:C.amberGlow, marginBottom:4,
+                      cursor:"default", transition:"text-shadow 0.2s",
                     }}>{k.compound}</div>
-                    <div style={{
+                    <div className="hoverable-dim" style={{
                       fontFamily:mono, fontSize:8, color:C.amberBright,
                       letterSpacing:"0.16em", marginBottom:8,
                     }}>{k.names?.toUpperCase()}</div>
-                    <div style={{
-                      fontFamily:serif, fontSize:11, color:C.amberDim,
-                      fontStyle:"italic", lineHeight:1.7,
+                    <div className="hoverable-dim" style={{
+                      fontFamily:plex, fontSize:11, color:C.amberDim,
+                      lineHeight:1.7,
                     }}>{k.logic}</div>
                   </Brackets>
                 ))}
@@ -664,7 +666,7 @@ export default function Glimrede() {
               </div>
             )}
             <div style={{ marginTop:14 }}>
-              <Label style={{ fontSize:7, color:C.textGhost }}>
+              <Label className="hoverable-dim" style={{ fontSize:7, color:C.textGhost }}>
                 ↑ TWO CONCEPTS ENTER · FOUR KENNINGS EMERGE
               </Label>
             </div>
