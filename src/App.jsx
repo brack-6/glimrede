@@ -590,7 +590,7 @@ export default function Glimrede() {
               </div>
             )}
             <div style={{ marginTop:14 }}>
-              <Label className="hoverable-dim" style={{ fontSize:7, color:C.textGhost }}>
+              <Label className="hoverable" style={{ fontSize:7, color:C.textDim }}>
                 ↑ ENTER A MODERN WORD · RECEIVE THREE ARCHAIC SHADOWS
               </Label>
             </div>
@@ -666,7 +666,7 @@ export default function Glimrede() {
               </div>
             )}
             <div style={{ marginTop:14 }}>
-              <Label className="hoverable-dim" style={{ fontSize:7, color:C.textGhost }}>
+              <Label className="hoverable" style={{ fontSize:7, color:C.textDim }}>
                 ↑ TWO CONCEPTS ENTER · FOUR KENNINGS EMERGE
               </Label>
             </div>
