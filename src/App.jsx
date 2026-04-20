@@ -27,7 +27,7 @@ const C = {
 
 const mono   = "'Share Tech Mono', 'Courier New', monospace";
 const serif  = "'IM Fell English', Georgia, serif";
-const plex   = "'IBM Plex Mono', 'Courier New', monospace";
+const plex   = "'JetBrains Mono', 'Courier New', monospace";
 
 const HOARD_KEY = "glimrede-saved-words";
 
@@ -223,7 +223,7 @@ export default function Glimrede() {
   );
 
   return (
-    <div style={{ background:C.bg, color:C.amber, fontFamily:mono, minHeight:"100vh", position:"relative" }}>
+    <div style={{ background:C.bg, color:C.amber, fontFamily:mono, height:"100vh", display:"flex", flexDirection:"column", overflow:"hidden", position:"relative" }}>
       <Scanlines />
       <Vignette />
 
@@ -291,10 +291,10 @@ export default function Glimrede() {
       </div>
 
       {/* ── BODY ────────────────────────────────────────────────── */}
-      <div style={{ display:"grid", gridTemplateColumns:"200px 1fr", minHeight:"calc(100vh - 250px)" }}>
+      <div style={{ display:"grid", gridTemplateColumns:"200px 1fr", flex:1, overflow:"hidden", minHeight:0 }}>
 
         {/* Word list */}
-        <div style={{ borderRight:`1px solid ${C.border}`, display:"flex", flexDirection:"column" }}>
+        <div style={{ borderRight:`1px solid ${C.border}`, display:"flex", flexDirection:"column", overflow:"hidden", minHeight:0 }}>
           {/* Search */}
           <div style={{ padding:"10px 12px", borderBottom:`1px solid ${C.border}` }}>
             <div style={{ display:"flex", alignItems:"center", gap:6 }}>
@@ -316,7 +316,7 @@ export default function Glimrede() {
             </div>
           </div>
           {/* List */}
-          <div ref={listRef} style={{ overflowY:"auto", flex:1 }}>
+          <div ref={listRef} style={{ overflowY:"auto", flex:1, minHeight:0 }}>
             {filtered.length===0 && (
               <div style={{ padding:"16px 12px", fontSize:9, color:C.textDim, letterSpacing:"0.12em" }}>
                 NO MATCH
@@ -362,14 +362,14 @@ export default function Glimrede() {
         <div
           key={flashKey}
           className={flashKey > 0 ? "encounter-flash" : ""}
-          style={{ padding:"24px 28px", overflowY:"auto", position:"relative", display:"flex", justifyContent:"center", alignItems:"flex-start" }}
+          style={{ padding:"24px 28px", overflowY:"auto", position:"relative", minHeight:0 }}
         >
           {selected && !writerMode && (
             <div
               key={wordKey}
               className="word-reveal"
               style={{
-                width:"100%", maxWidth:640,
+                width:"100%",
                 border:`1px solid ${C.borderBright}`,
                 background:C.bgPanel,
                 boxShadow:`0 4px 32px rgba(0,0,0,0.7), 0 0 1px rgba(180,120,10,0.2)`,
@@ -381,9 +381,10 @@ export default function Glimrede() {
                 borderBottom:`1px solid ${C.border}`,
                 display:"flex", justifyContent:"space-between", alignItems:"flex-start",
               }}>
-                <div className="word-glow" style={{
+                <div className="word-glow word-hover" style={{
                   fontFamily:serif, fontSize:38, fontWeight:400,
                   color:C.amberHot, lineHeight:1.05, letterSpacing:"0.01em",
+                  cursor:"default", transition:"text-shadow 0.2s",
                 }}>
                   {selected.word}
                 </div>
@@ -511,7 +512,7 @@ export default function Glimrede() {
       </div>
 
       {/* ── BOTTOM PANEL ────────────────────────────────────────── */}
-      <div style={{ borderTop:`1px solid ${C.borderBright}`, background:C.bgPanel }}>
+      <div style={{ borderTop:`1px solid ${C.borderBright}`, background:C.bgPanel, flexShrink:0 }}>
         {/* Tabs */}
         <div style={{ display:"flex", borderBottom:`1px solid ${C.border}` }}>
           {[
