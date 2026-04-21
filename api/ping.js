@@ -1,18 +1,25 @@
 export default async function handler(req, res) {
   const key = process.env.OPENROUTER_API_KEY;
-  if (!key) return res.json({ status: "missing", message: "OPENROUTER_API_KEY not set in Vercel env vars" });
+  if (!key) return res.json({ status: "missing", message: "OPENROUTER_API_KEY not set" });
 
-  // Just check models endpoint - no tokens used
   try {
-    const r = await fetch("https://openrouter.ai/api/v1/models", {
-      headers: { "Authorization": `Bearer ${key}` }
+    // Test with a minimal actual completion to see exact error
+    const r = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${key}`,
+        "HTTP-Referer": "https://glimrede.vercel.app",
+        "X-Title": "Glimrede",
+      },
+      body: JSON.stringify({
+        model: "mistralai/mistral-7b-instruct:free",
+        max_tokens: 10,
+        messages: [{ role: "user", content: "say hi" }],
+      }),
     });
-    if (r.ok) {
-      res.json({ status: "ok", message: "Key is valid and OpenRouter reachable" });
-    } else {
-      const d = await r.json();
-      res.json({ status: "invalid", code: r.status, detail: d?.error?.message });
-    }
+    const data = await r.json();
+    res.json({ status: r.ok ? "ok" : "fail", code: r.status, data });
   } catch (err) {
     res.json({ status: "error", message: err.message });
   }

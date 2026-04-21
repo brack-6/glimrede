@@ -40,7 +40,7 @@ Use genuine archaic vocabulary only.`
     const data = await response.json();
 
     if (!response.ok) {
-      return res.status(502).json({ error: "Upstream error", detail: data?.error?.message });
+      return res.status(502).json({ error: "Upstream error", code: response.status, detail: data?.error?.message, full: data });
     }
 
     const text = data.choices?.[0]?.message?.content?.trim();
