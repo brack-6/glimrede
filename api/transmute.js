@@ -17,7 +17,7 @@ export default async function handler(req, res) {
         "X-Title": "Glimrede",
       },
       body: JSON.stringify({
-        model: "mistralai/mistral-7b-instruct:free",
+        model: "meta-llama/llama-3.1-8b-instruct:free",
         max_tokens: 300,
         temperature: 0.8,
         messages: [{
