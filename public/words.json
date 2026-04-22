@@ -45,6 +45,15 @@
     "usage": "The grief was amaranthine; it did not soften with the years."
   },
   {
+    "word": "ambry",
+    "pronunciation": "AM-bree",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A cupboard or recess in a wall for storing food or utensils; also: a niche in a church wall for sacred vessels.",
+    "lost": "Named the storage space that had both sacred and domestic uses — the ambry was wherever you kept the things that mattered, whether bread or chalice.",
+    "usage": "The ambry in the kitchen wall held the salt and the good knives and a small flask of something that had been there since before anyone could remember."
+  },
+  {
     "word": "anon",
     "pronunciation": "ə-NON",
     "era": "Old English",
@@ -63,6 +72,15 @@
     "usage": "He was known for his apophthegms; people collected them the way others collect wounds."
   },
   {
+    "word": "apotropaic",
+    "pronunciation": "ap-oh-troh-PAY-ik",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "Having the power to ward off evil or bad luck; designed to avert malevolent forces; the quality of objects kept for protection.",
+    "lost": "Named a function that objects can perform — apotropaic things are not decorative or useful in any material sense but are kept because they are believed to push something bad away.",
+    "usage": "The horseshoe above the door was apotropaic rather than decorative, which she knew because it had been there before she was born and would stay there after she was gone."
+  },
+  {
     "word": "apricity",
     "pronunciation": "ah-PRIS-ih-tee",
     "era": "Early Modern English",
@@ -70,6 +88,15 @@
     "definition": "The specific warmth of winter sunlight — warmth that touches the skin without persuading the season, that promises nothing and yet is welcome for exactly what it is.",
     "lost": "\"Winter sunshine\" is meteorological. Apricity names the particular quality: warmth without conviction.",
     "usage": "She turned her face to the apricity and did not open her eyes."
+  },
+  {
+    "word": "atrabilious",
+    "pronunciation": "at-rə-BIL-ee-əs",
+    "era": "Classical Borrowing",
+    "category": "The Spent",
+    "definition": "Of a melancholy and gloomy temperament; afflicted with black bile; constitutionally dark in mood and outlook.",
+    "lost": "Named the temperament that the humoral system understood as a physical condition — atrabilious people were not choosing their gloom, it was in their blood, which was either more or less forgiving than the modern understanding.",
+    "usage": "He grew atrabilious in autumn as reliably as the leaves changed, and his family adjusted their plans accordingly."
   },
   {
     "word": "attainder",
@@ -225,6 +252,15 @@
     "usage": "His accent bewrayed him before he had said three sentences, and after that the conversation was different."
   },
   {
+    "word": "bilbo",
+    "pronunciation": "BIL-boh",
+    "era": "Early Modern English",
+    "category": "The Martial",
+    "definition": "A finely tempered sword from Bilbao; a blade known for its flexibility and edge; also: a bar with sliding shackles used to confine prisoners.",
+    "lost": "Named the sword by its city of origin, as the best blades always were — a bilbo was a specific quality of steel, a reputation made metal.",
+    "usage": "He carried a bilbo he had taken at Cadiz and never found its equal in thirty years of looking."
+  },
+  {
     "word": "blenk",
     "pronunciation": "blenk",
     "era": "Middle English",
@@ -232,6 +268,15 @@
     "definition": "A gleam of sunshine breaking through cloud; a brief, hopeful clearing in overcast sky.",
     "lost": "Named the exact moment of weather reversing — blenk is sunshine not as condition but as event, the instant the grey gives way.",
     "usage": "A blenk in the afternoon raised everyone's spirits briefly before the clouds closed again."
+  },
+  {
+    "word": "bluster",
+    "pronunciation": "BLUS-tər",
+    "era": "Middle English",
+    "category": "The Weather",
+    "definition": "To blow in strong, irregular gusts; wind that makes noise and movement without the steadiness of a true gale.",
+    "lost": "Named wind that is performing rather than committed — bluster is wind that makes a great deal of fuss without the sustained force that would make it genuinely dangerous.",
+    "usage": "A blustering day that threw handfuls of rain against the windows without managing proper precipitation."
   },
   {
     "word": "boon",
@@ -313,6 +358,15 @@
     "definition": "A despicable coward; a wretched prisoner; a person base enough in character to have forfeited the right to sympathy.",
     "lost": "Named cowardice at its lowest register — a caitiff is not merely afraid but contemptibly so, the kind of coward who makes others feel their own fear is a different thing entirely.",
     "usage": "He had thought himself capable of courage; the moment proved him a caitiff, and he did not forget it."
+  },
+  {
+    "word": "caltrop",
+    "pronunciation": "KAL-trop",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A device with four metal spikes arranged so one always points upward; scattered on ground to lame horses and men; cruelty made geometric.",
+    "lost": "Named a weapon that required no wielder — a caltrop works without anyone present, which is either ingenious or a specific kind of dishonesty depending on your view of war.",
+    "usage": "They found the caltrops in the ford at the cost of two horses and one man, which was the point."
   },
   {
     "word": "calumny",
@@ -594,6 +648,51 @@
     "usage": "The destrier stood sixteen hands and had been trained to kick and bite; he was valued accordingly and treated with more care than most men."
   },
   {
+    "word": "dirge",
+    "pronunciation": "derj",
+    "era": "Middle English",
+    "category": "The Sounding",
+    "definition": "A mournful song sung at a funeral; any slow, sad piece of music; from the Latin 'dirige', the first word of a funeral antiphon.",
+    "lost": "Named the lament as a specific musical form — a dirge has structure, tempo, purpose; it is grief organised into something that can be performed, which is a way of making it bearable.",
+    "usage": "They sang a dirge that nobody present knew the words to, which meant they hummed it, which was more affecting."
+  },
+  {
+    "word": "disconsolate",
+    "pronunciation": "dis-KON-sə-lit",
+    "era": "Classical Borrowing",
+    "category": "The Spent",
+    "definition": "Without consolation; beyond the reach of comfort; grief so complete that nothing offered can touch it.",
+    "lost": "Named the condition where help has run out — disconsolate is not merely sad but inconsolable, the state in which the usual remedies have been tried and have failed.",
+    "usage": "She was disconsolate in a way that made her friends feel helpless, because they were."
+  },
+  {
+    "word": "distaff",
+    "pronunciation": "DIS-taf",
+    "era": "Old English",
+    "category": "The Domestic",
+    "definition": "A stick for holding wool during spinning; by extension: the female side of a family; women's work as a category.",
+    "lost": "Named a tool and made it a metaphor — the distaff side of the family is the maternal line, women's inheritance, which the word encoded as naturally as breathing and we have since stopped noticing.",
+    "usage": "On the distaff side the family had money going back four generations, which the male line had spent with impressive consistency."
+  },
+  {
+    "word": "divination",
+    "pronunciation": "div-ih-NAY-shən",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "The practice of seeking knowledge of the future through supernatural means; reading the world as if it were a text written for you.",
+    "lost": "Named a practice that assumed the world was legible — divination required believing that events had meaning beyond themselves, that the flight of birds or the fall of lots was addressed to someone.",
+    "usage": "She practiced divination with the same methodical care she applied to everything else, which made it either more or less convincing depending on your prior beliefs."
+  },
+  {
+    "word": "dole",
+    "pronunciation": "dohl",
+    "era": "Old English",
+    "category": "The Domestic",
+    "definition": "A charitable distribution of food or money to the poor; one's portion or lot; grief and mourning — the word carried all three meanings.",
+    "lost": "Named giving and receiving and sorrow in one word — dole understood that charity was connected to grief, that distribution happened at deaths and disasters, that your portion was also your fate.",
+    "usage": "They gave dole at the gate every Friday, which brought the same faces every week and a few new ones when times worsened."
+  },
+  {
     "word": "dolesome",
     "pronunciation": "DOHL-səm",
     "era": "Middle English",
@@ -628,6 +727,15 @@
     "definition": "To search for underground water or minerals using a divining rod; to seek hidden things through bodily sensitivity rather than reason.",
     "lost": "Named a form of knowing that bypasses the mind — dowsing assumes the body knows what the intellect can't reach, which is either superstition or phenomenology depending on your sympathies.",
     "usage": "He could dowse for water with a hazel fork with a reliability that three generations of his family had noticed and one generation of engineers had tried to disprove."
+  },
+  {
+    "word": "dreich",
+    "pronunciation": "dreekh",
+    "era": "Middle English",
+    "category": "The Weather",
+    "definition": "Dull, overcast, drizzly, and bleak; the specific Scottish quality of a cold, grey, wet day that refuses to commit to anything as dramatic as a storm.",
+    "lost": "Named the weather that isn't bad enough to complain about properly — dreich is the weather of low-grade persistent misery, the day that is simply grey all the way through with no relief and no drama.",
+    "usage": "A dreich morning that made staying indoors feel like a moral position rather than a choice."
   },
   {
     "word": "dusk",
@@ -729,6 +837,15 @@
     "usage": "By eventide the harvest was in and the last light lay flat across the field in a way that made everyone stand still for a moment."
   },
   {
+    "word": "ewery",
+    "pronunciation": "YOO-ər-ee",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "The room or cupboard in a great house where ewers and basins for handwashing were kept; the department responsible for water and linen.",
+    "lost": "Named a domestic institution that required its own space and its own staff — the ewery understood that hand-washing before and after meals was important enough to need dedicated management.",
+    "usage": "The ewery boy had filled the basins before the guests arrived, which was noticed only when he had failed to do it, which was how most domestic work was noticed."
+  },
+  {
     "word": "fain",
     "pronunciation": "fayn",
     "era": "Old English",
@@ -808,6 +925,15 @@
     "definition": "Limp and heavy with moisture; of air: flat, oppressive, and still; weather that sits on you rather than moving.",
     "lost": "Named the specific misery of hot, damp, motionless air — flaggy is the weather of illness and inertia, heat without its compensation of movement.",
     "usage": "A flaggy August afternoon, the kind that made the horses irritable and the children fall asleep in unexpected places."
+  },
+  {
+    "word": "foray",
+    "pronunciation": "FOR-ay",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A sudden raid into enemy territory; a brief incursion made to plunder rather than hold ground.",
+    "lost": "Named the raid with precision — a foray is not an invasion or a battle but a fast, targeted strike, in and out before response is possible.",
+    "usage": "They made a foray across the river before dawn and were back before the garrison knew they had gone."
   },
   {
     "word": "fordone",
@@ -891,6 +1017,24 @@
     "usage": "The franklin sat below the knight at table and above the merchants, and was comfortable in both directions."
   },
   {
+    "word": "freebooter",
+    "pronunciation": "FREE-boo-tər",
+    "era": "Early Modern English",
+    "category": "The Martial",
+    "definition": "A pirate or plunderer; one who fights for plunder rather than allegiance; a soldier whose loyalty is to whatever pays.",
+    "lost": "Named the soldier who has dispensed with ideology — a freebooter serves whoever pays and takes whatever they can carry, which is war reduced to its economic essentials.",
+    "usage": "The army that arrived was half regulars and half freebooters, and the difference was visible in how they behaved in the town."
+  },
+  {
+    "word": "fret",
+    "pronunciation": "fret",
+    "era": "Middle English",
+    "category": "The Weather",
+    "definition": "A sea mist rolling inland; a cold fog from the North Sea; the specific coastal mist that makes lighthouses necessary.",
+    "lost": "Named the coastal fog by the sea it comes from — a fret is haar's near relation, the fog of fishing communities and lighthouse keepers, weather that knows the coast.",
+    "usage": "A fret had come in off the sea by afternoon, reducing visibility to twenty yards and making the cliffs invisible from the beach."
+  },
+  {
     "word": "frore",
     "pronunciation": "frohr",
     "era": "Old English",
@@ -943,6 +1087,24 @@
     "definition": "To deny, contradict, or speak against something that has been declared — specifically to refuse what has been publicly stated, to stand against it with words.",
     "lost": "\"Contradict\" is clinical. Gainsay implies a public act — a refusal of what has been put forward, with all the consequence that entails.",
     "usage": "None who had seen it could gainsay the account, though it required believing difficult things."
+  },
+  {
+    "word": "gambeson",
+    "pronunciation": "GAM-bih-zən",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A quilted padded jacket worn under armour or alone; the poor soldier's defence; armour made of cloth and hope.",
+    "lost": "Named the garment that most soldiers actually wore — not the gleaming knight but the foot soldier in quilted linen, which stopped less but was what most people had.",
+    "usage": "The gambeson was soaked through by noon; fighting in wet padding was its own kind of torment."
+  },
+  {
+    "word": "garderobe",
+    "pronunciation": "GAR-dər-ohb",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A wardrobe or small private room; also: the medieval toilet, a shaft in the castle wall — named for the theory that ammonia fumes preserved clothes.",
+    "lost": "Named both the wardrobe and the toilet in one word because they were architecturally adjacent and functionally related — the etymology is either practical or optimistic depending on how you read it.",
+    "usage": "The garderobe was positioned over the outer wall, which solved one problem and created another for anyone approaching from the east."
   },
   {
     "word": "gasconade",
@@ -1006,6 +1168,15 @@
     "definition": "The period of twilight after sunset — not the moment of dusk but the slow interval that follows, when daylight has ended but darkness has not yet committed to anything.",
     "lost": "\"Dusk\" is the moment. Gloaming is the atmosphere — the quality of light that makes shapes uncertain and distances unreliable.",
     "usage": "By gloaming the roads were empty and the distances had become impossible to judge."
+  },
+  {
+    "word": "glogg",
+    "pronunciation": "glog",
+    "era": "Middle English",
+    "category": "The Weather",
+    "definition": "A pool of standing water; a muddy puddle left by rain; the wet residue of weather that has passed.",
+    "lost": "Named the puddle as a specific object — glogg is not abstract wetness but a particular standing water, a named thing you step around or into.",
+    "usage": "The lane was a series of gloggs after three days of rain, and the horses picked their way through with the resignation of long experience."
   },
   {
     "word": "gloom",
@@ -1107,6 +1278,15 @@
     "usage": "Haply she would come, haply not; he prepared for both and tried to keep his face arranged for either."
   },
   {
+    "word": "harness",
+    "pronunciation": "HAR-nis",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A knight's complete armour; the full equipment of a man-at-arms; also the gear of a working horse — the word served both.",
+    "lost": "Named the equipment of war and labour in one word — harness understood that arming a knight and harnessing a horse were structurally the same act, dressing something powerful for use.",
+    "usage": "He died in his harness, which was how he had always said he wanted to go, and nobody who knew him doubted it."
+  },
+  {
     "word": "haruspicy",
     "pronunciation": "ha-RUS-pih-see",
     "era": "Classical Borrowing",
@@ -1116,6 +1296,24 @@
     "usage": "She had no patience for haruspicy but could not argue with the results."
   },
   {
+    "word": "hauberk",
+    "pronunciation": "HAW-berk",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A coat of chainmail extending to the knees; the principal armour of the medieval knight before plate took over.",
+    "lost": "Named the garment that made a man into a different kind of object — in a hauberk you moved differently, thought differently, were differently vulnerable.",
+    "usage": "He had worn the hauberk so long he slept in it toward the end, and the rings left their pattern in his skin."
+  },
+  {
+    "word": "hearth",
+    "pronunciation": "harth",
+    "era": "Old English",
+    "category": "The Domestic",
+    "definition": "The floor of a fireplace; the fire itself as the centre of domestic life; home understood as a place with warmth at its middle.",
+    "lost": "We kept hearth but lost its weight — it now means home in a sentimental sense, but it once meant the actual fire that cooked the food and heated the room and around which the family organised itself.",
+    "usage": "The hearth had gone cold before dawn; whoever rose first would have to coax it back, which was understood without being said."
+  },
+  {
     "word": "hebetude",
     "pronunciation": "HEB-ih-tyood",
     "era": "Classical Borrowing",
@@ -1123,6 +1321,15 @@
     "definition": "Mental dullness; bluntness of feeling and perception; the state of having been worn smooth.",
     "lost": "Named dullness as a condition rather than a trait — hebetude is something that happens to you, not something you are.",
     "usage": "The months of paperwork had produced in him a thorough hebetude that no amount of sleep could shift."
+  },
+  {
+    "word": "hegira",
+    "pronunciation": "heh-JY-rə",
+    "era": "Borrowed",
+    "category": "The Wandering",
+    "definition": "A journey made for safety from a dangerous situation; a flight or exodus; departure as survival.",
+    "lost": "Named the departure that is not a choice — a hegira is forced travel, the journey you make because staying has become impossible.",
+    "usage": "The family's hegira took three months and three countries and ended somewhere none of them had planned on."
   },
   {
     "word": "heretofore",
@@ -1197,6 +1404,15 @@
     "usage": "She left without violence, but the imprecation she murmured at the threshold was heard by three people."
   },
   {
+    "word": "incantation",
+    "pronunciation": "in-kan-TAY-shən",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "A series of words chanted or spoken as a magical spell; the use of voice as an instrument of power.",
+    "lost": "Named speech that does rather than describes — an incantation is language used as action, words that change the state of the world rather than represent it.",
+    "usage": "The incantation was in a language nobody present understood, which was considered essential to its working."
+  },
+  {
     "word": "incarnadine",
     "pronunciation": "in-KAR-nə-dyn",
     "era": "Early Modern English",
@@ -1269,6 +1485,15 @@
     "usage": "The women keened from the doorway until the cart was out of sight, and then the silence was its own kind of sound."
   },
   {
+    "word": "kenning",
+    "pronunciation": "KEN-ing",
+    "era": "Old English",
+    "category": "The Knowing",
+    "definition": "Knowing; the range of one's knowledge or sight; the distance at which something can be recognised — before it became a poetic compound.",
+    "lost": "Named knowing as a distance — kenning was originally how far you could see and know, which is a spatial understanding of epistemology that the modern word has entirely abandoned.",
+    "usage": "Beyond his kenning lay a stretch of coast he had heard described but never seen, and the descriptions had disagreed."
+  },
+  {
     "word": "kine",
     "pronunciation": "kyn",
     "era": "Old English",
@@ -1294,6 +1519,15 @@
     "definition": "One's acquaintances, neighbors, and familiar people; one's home country and its people.",
     "lost": "We kept kith only in the phrase kith and kin, which no one says separately — kith alone named the looser circle of belonging, the people who know your name without being family.",
     "usage": "He had left his kith so long ago that returning felt less like homecoming than research."
+  },
+  {
+    "word": "knell",
+    "pronunciation": "nel",
+    "era": "Old English",
+    "category": "The Sounding",
+    "definition": "The sound of a bell rung slowly to announce a death or funeral; a sound that announces an ending.",
+    "lost": "Named the bell's specific funerary voice — a knell is not ringing but tolling, not celebration but announcement, sound as public declaration of loss.",
+    "usage": "The knell began before they reached the church, which meant the news had arrived before them."
   },
   {
     "word": "lambent",
@@ -1357,6 +1591,15 @@
     "definition": "One's rightful lord or sovereign; also: bound by feudal loyalty; owing or owed allegiance.",
     "lost": "Held both sides of the bond in one word — a liege was simultaneously the one owed loyalty and the one who owed protection.",
     "usage": "My liege, he said, and meant it; he had not served the man forty years in order to hedge the word now."
+  },
+  {
+    "word": "lilt",
+    "pronunciation": "lilt",
+    "era": "Middle English",
+    "category": "The Sounding",
+    "definition": "A light, rhythmic musical quality; a rising and falling cadence in voice or music; the sound of something that moves with natural ease.",
+    "lost": "Named the quality of music and voice that makes listening effortless — a lilt is rhythm you don't notice because it fits so naturally it feels like the shape of the air.",
+    "usage": "She had a lilt in her voice that made everything she said sound like good news even when it wasn't."
   },
   {
     "word": "liminal",
@@ -1467,6 +1710,15 @@
     "usage": "In the marches the law of neither kingdom ran with confidence, which suited some residents better than others."
   },
   {
+    "word": "meander",
+    "pronunciation": "mee-AN-dər",
+    "era": "Classical Borrowing",
+    "category": "The Wandering",
+    "definition": "To follow a winding course without clear direction; from the River Meander in Asia Minor, famous for its curves.",
+    "lost": "Named wandering after a river — meander is travel that follows the landscape rather than crossing it, movement shaped by what it moves through.",
+    "usage": "The path meandered along the valley floor in a way that suggested it had been made by cattle rather than engineers."
+  },
+  {
     "word": "megrims",
     "pronunciation": "MEE-grimz",
     "era": "Middle English",
@@ -1501,6 +1753,15 @@
     "definition": "Fitting; exactly appropriate; measured to the precise degree required and no more.",
     "lost": "We kept meet in 'meet and proper' but abandoned mete as a standalone — the word named appropriateness as a kind of precision, fitness understood as measurement.",
     "usage": "The punishment was mete; no one argued that it wasn't, which was almost worse than if they had."
+  },
+  {
+    "word": "midden",
+    "pronunciation": "MID-ən",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A refuse heap; a domestic rubbish dump; the accumulated waste of a household or settlement that archaeologists later read like a text.",
+    "lost": "Named the place where things were put when they were finished — a midden is a household's autobiography in broken pottery and food bones, which is why archaeologists love them.",
+    "usage": "The midden at the edge of the settlement had been growing for a generation and had become, by now, a kind of landmark."
   },
   {
     "word": "mirk",
@@ -1584,6 +1845,15 @@
     "usage": "The murrain had taken half the parish's cattle before anyone understood what was happening."
   },
   {
+    "word": "mêlée",
+    "pronunciation": "MAY-lay",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A confused, hand-to-hand fight involving many combatants; the breakdown of formation into individual struggle.",
+    "lost": "Named the moment when battle stops being tactical and becomes personal — the mêlée is war at its most intimate and most chaotic.",
+    "usage": "Once the lines broke it was a mêlée, and in a mêlée training matters less than size and fury."
+  },
+  {
     "word": "natter",
     "pronunciation": "NAT-ər",
     "era": "Middle English",
@@ -1591,6 +1861,15 @@
     "definition": "To chatter or grumble; to talk at length about nothing in particular; also: to find fault in a low, persistent tone.",
     "lost": "Named the register of idle talk that has a slight edge — natter is conversation that is both companionable and mildly critical, which is a very specific social mode.",
     "usage": "They nattered over the fence for half an hour about nothing that mattered and felt considerably better for it."
+  },
+  {
+    "word": "necromancy",
+    "pronunciation": "NEK-roh-man-see",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "Communication with the dead as a means of divination; the use of the dead to reveal what the living cannot know.",
+    "lost": "Named the specific epistemological claim that the dead know more than the living — necromancy assumed that death was an expansion of knowledge rather than its termination.",
+    "usage": "The charge was necromancy, which was serious enough that the trial was held in camera and the records afterward sealed."
   },
   {
     "word": "nesh",
@@ -1710,6 +1989,15 @@
     "usage": "The whole morning had an oneiric quality; she checked, twice, that she was actually awake."
   },
   {
+    "word": "oracle",
+    "pronunciation": "OR-ə-kəl",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "A priest or priestess through whom a deity speaks; the response given; any person or thing regarded as an infallible source of wisdom.",
+    "lost": "Named the medium and the message in one word — an oracle is both the mouth and what the mouth says, the institution and its output, which is a useful conflation.",
+    "usage": "She had become the oracle of the office in the way that competent people do: by being right often enough that being consulted became a habit."
+  },
+  {
     "word": "ossify",
     "pronunciation": "OS-ih-fy",
     "era": "Classical Borrowing",
@@ -1791,6 +2079,15 @@
     "usage": "She rode a grey palfrey that moved so smoothly she could read as she travelled, which was considered either admirable or alarming depending on who observed it."
   },
   {
+    "word": "palisade",
+    "pronunciation": "pal-ih-SAYD",
+    "era": "Early Modern English",
+    "category": "The Martial",
+    "definition": "A fence of pointed stakes forming a defensive barrier; the simplest fortification; what you build when you have wood and time and no stone.",
+    "lost": "Named the first line of defence — a palisade is fortification at its most honest, a line that says this far and no further, made of whatever the forest provided.",
+    "usage": "They had the palisade up by nightfall, which was not enough to stop a determined assault but enough to make it cost something."
+  },
+  {
     "word": "pall",
     "pronunciation": "pawl",
     "era": "Old English",
@@ -1798,6 +2095,15 @@
     "definition": "A dark cloth draped over a coffin; anything that covers and darkens; a thick cloud of smoke or shadow that falls over a landscape.",
     "lost": "Named covering as a funerary act — a pall is not merely a shadow but a preparation for burial, which is why the phrase 'cast a pall' carries the weight it does.",
     "usage": "A pall of smoke hung over the valley from fires they could not see, which suggested a scale of burning nobody wanted to confirm."
+  },
+  {
+    "word": "palliasse",
+    "pronunciation": "PAL-ee-as",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A straw mattress; the bed of servants and the poor; sleep on something that rustles and smells of the field.",
+    "lost": "Named the bed that most people slept on for most of history — not a mattress in the modern sense but a sack of straw that compacted and had to be restuffed, that harboured things, that marked your station.",
+    "usage": "He woke on the palliasse with the impression of straw on his cheek and the smell of it in his hair and felt, briefly, that he had gone back twenty years."
   },
   {
     "word": "pallor",
@@ -1818,6 +2124,15 @@
     "usage": "A pang of something — guilt, or its near neighbor — crossed his face before he looked away."
   },
   {
+    "word": "parley",
+    "pronunciation": "PAR-lee",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A conference between opposing sides in a conflict; a formal discussion under truce; the moment when fighting stops to see if talking might work.",
+    "lost": "Named the pause in violence as a formal institution — a parley had rules, flags, and an understanding that killing was suspended for the duration.",
+    "usage": "They sent a herald to request a parley, which the commander granted, which told him something about the state of their supplies."
+  },
+  {
     "word": "paynim",
     "pronunciation": "PAY-nim",
     "era": "Middle English",
@@ -1827,6 +2142,15 @@
     "usage": "The romances were full of paynims who fought honorably and believed wrongly, which was understood to be a tragedy."
   },
   {
+    "word": "peal",
+    "pronunciation": "peel",
+    "era": "Middle English",
+    "category": "The Sounding",
+    "definition": "A loud, prolonged ringing of bells; a series of changes rung on a set of bells; any loud, sustained sound of joy.",
+    "lost": "Named the bell at its most joyful and complex — a peal is bells doing something together that no single bell can do, sound as collective achievement.",
+    "usage": "The peal from the cathedral carried across the city and told everyone who could hear it that something had been decided."
+  },
+  {
     "word": "peccant",
     "pronunciation": "PEK-ənt",
     "era": "Classical Borrowing",
@@ -1834,6 +2158,15 @@
     "definition": "Sinning; guilty of moral offense; also: causing disease, as a peccant humor in the body.",
     "lost": "Held sin and sickness as the same structural disorder — peccant understood that the body and the soul could both go wrong in the same way.",
     "usage": "He listed his peccant hours with a precision that suggested he'd been keeping count for some time."
+  },
+  {
+    "word": "pennon",
+    "pronunciation": "PEN-ən",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A long, narrow flag tapering to a point, flown from a lance; the personal standard of a knight below the rank of banneret.",
+    "lost": "Named the flag that identified you in battle — in the mêlée a pennon was how your side knew where you were, and the enemy knew whom to target.",
+    "usage": "His pennon was still flying when the rest of the field had broken, which was either courage or obstinacy and possibly both."
   },
   {
     "word": "peradventure",
@@ -1935,6 +2268,24 @@
     "usage": "He had plighted himself to her before witnesses, and he was not the kind of man to regard that as a formality."
   },
   {
+    "word": "portent",
+    "pronunciation": "POR-tent",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "A sign of something momentous or calamitous about to happen; an omen of exceptional weight and clarity.",
+    "lost": "Named the omen at its most serious — a portent is not a passing sign but a declaration, something the world is doing deliberately to get your attention.",
+    "usage": "Three portents in a week was two more than he was prepared to ignore, and he began making arrangements."
+  },
+  {
+    "word": "posset",
+    "pronunciation": "POS-it",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A hot drink of milk curdled with wine or ale, often spiced; a medicinal and comforting drink given to the sick and the cold.",
+    "lost": "Named the drink that was both medicine and comfort — a posset was what you made for someone who was unwell, which meant warmth and care in a cup.",
+    "usage": "She brought him a posset at midnight and sat with him while he drank it, which was the most useful thing she could do."
+  },
+  {
     "word": "posy",
     "pronunciation": "POH-zee",
     "era": "Early Modern English",
@@ -1951,6 +2302,15 @@
     "definition": "A drink, especially an alcoholic one; the act of drinking; a draught taken with some deliberation.",
     "lost": "Named drinking as a considered act rather than a reflex — a potation is chosen, poured, and consumed with the awareness that one is consuming it.",
     "usage": "He required his morning potation before he was prepared to discuss anything of consequence."
+  },
+  {
+    "word": "pottage",
+    "pronunciation": "POT-ij",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A thick soup or stew; the staple food of the medieval poor; whatever was available, boiled together in a pot.",
+    "lost": "Named the meal that was not a recipe but a practice — pottage was made from what was there, which meant it was different every day and the same every day.",
+    "usage": "There was pottage for supper as there had been for pottage for every supper that week, and would be for every supper for the week following."
   },
   {
     "word": "prate",
@@ -2034,6 +2394,15 @@
     "usage": "She was called a quean for the same behavior that would have earned a man a reputation for spirit."
   },
   {
+    "word": "querulous",
+    "pronunciation": "KWER-yoo-ləs",
+    "era": "Classical Borrowing",
+    "category": "The Spent",
+    "definition": "Complaining in a petulant, whining manner; habitually fretful; the voice of someone who has given up expecting things to improve.",
+    "lost": "Named the complaint that has stopped expecting results — querulous is not the anger of someone who wants change but the grievance of someone who has decided nothing will change and says so anyway.",
+    "usage": "A querulous letter from his landlord that was the latest in a series he had stopped reading carefully."
+  },
+  {
     "word": "quicken",
     "pronunciation": "KWIK-ən",
     "era": "Old English",
@@ -2095,6 +2464,15 @@
     "definition": "Counsel, advice — particularly advice given by one who has seen or suffered more, whose knowledge comes not from study but from consequence. Also: a riddle; to interpret.",
     "lost": "\"Advice\" is offered casually. Rede implies the advisor has looked at something directly and shares what they found there.",
     "usage": "She had given her rede plainly and without softening, and he had not thanked her for it."
+  },
+  {
+    "word": "redoubt",
+    "pronunciation": "rih-DOWT",
+    "era": "Early Modern English",
+    "category": "The Martial",
+    "definition": "A small temporary fortification; an outwork defending a position; anything formidable and difficult to overcome.",
+    "lost": "Named the temporary made permanent by necessity — a redoubt was built fast and held desperately, fortification as improvisation.",
+    "usage": "They held the redoubt for six days before the order came to abandon it, which felt like a betrayal."
   },
   {
     "word": "reek",
@@ -2169,6 +2547,15 @@
     "usage": "He left three runes carved in the lintel that no one could interpret, which had been the intention."
   },
   {
+    "word": "rushlight",
+    "pronunciation": "RUSH-lyt",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A candle made from a rush dipped in tallow; the cheapest light available; the illumination of the poor.",
+    "lost": "Named light at its most precarious — a rushlight gave barely enough to work by and lasted less than an hour, which shaped how evenings were spent in most households in England for centuries.",
+    "usage": "She worked by rushlight until it guttered, and then she stopped, because there was no point making more waste."
+  },
+  {
     "word": "ruth",
     "pronunciation": "rooth",
     "era": "Middle English",
@@ -2185,6 +2572,15 @@
     "definition": "Black, especially in heraldry; a deep, formal black that implies mourning or gravity.",
     "lost": "Gave black a register — sable black is serious, heraldic, carried; it is not merely the absence of color.",
     "usage": "He dressed in sable from collar to heel, and no one asked why."
+  },
+  {
+    "word": "sally",
+    "pronunciation": "SAL-ee",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A sudden charge from a besieged position; the defenders pouring out to strike the besiegers before retreating back inside.",
+    "lost": "Named the desperate offensive of those who are losing — a sally is aggression born of desperation, attack as the only form of defence left.",
+    "usage": "They made three sallies in the first week; by the fourth they lacked the men for it."
   },
   {
     "word": "sanative",
@@ -2257,6 +2653,15 @@
     "definition": "To move rapidly before the wind; of clouds or rain: to drive in sheets driven by gale; also: the low ragged cloud driven thus.",
     "lost": "Named the wind's momentum transferred to weather — scud is rain and cloud not falling but being sent, propelled by something invisible and purposeful.",
     "usage": "Scud was racing across the headland when they set out, which they chose to interpret as promising rather than otherwise."
+  },
+  {
+    "word": "scullery",
+    "pronunciation": "SKUL-ər-ee",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A small room off the kitchen for washing dishes and dirty work; the part of the house where the kitchen's least pleasant tasks were performed.",
+    "lost": "Named the hierarchy of domestic space — the scullery was below the kitchen as the kitchen was below the dining room, a geography of labour and status expressed in architecture.",
+    "usage": "The scullery maid worked from five until nine with her hands in cold water, which was considered neither noteworthy nor cruel."
   },
   {
     "word": "scurf",
@@ -2349,6 +2754,15 @@
     "usage": "The pipes skirled from the head of the glen before they could see the procession, and the sound made the hair rise."
   },
   {
+    "word": "skirmish",
+    "pronunciation": "SKER-mish",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A minor fight between small detachments; an engagement that is not quite a battle; conflict at the edges.",
+    "lost": "Named the fight that doesn't count in the histories but kills you just as thoroughly — a skirmish is war experienced by the people who never appear in the accounts.",
+    "usage": "There had been skirmishes along the border all summer; nobody declared war, which meant nobody had to stop."
+  },
+  {
     "word": "smirr",
     "pronunciation": "smer",
     "era": "Middle English",
@@ -2428,6 +2842,15 @@
     "definition": "A starling; the bird of collective flight and stolen songs; named before it was studied.",
     "lost": "Starling replaced starnel and lost half the word's sound — starnel has the right strangeness for a bird that is iridescent in one light and black in another.",
     "usage": "A cloud of starnel lifted from the elms at dusk and moved in one body across the valley in a shape that kept changing its mind."
+  },
+  {
+    "word": "steading",
+    "pronunciation": "STED-ing",
+    "era": "Old English",
+    "category": "The Domestic",
+    "definition": "A farmstead; a group of farm buildings; the whole domestic establishment of a working farm considered as a unit.",
+    "lost": "Named the farm as a complete domestic world — a steading was not just fields but house, byre, barn, yard, and all the relationships between them.",
+    "usage": "The steading had been in the family for six generations, which was visible in the different ages of the buildings and the way they faced each other."
   },
   {
     "word": "stravage",
@@ -2529,6 +2952,15 @@
     "usage": "She did not swoon at the news; she went very still, which was more alarming."
   },
   {
+    "word": "tallow",
+    "pronunciation": "TAL-oh",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "Rendered animal fat used for candles and lubrication; the substance that made artificial light possible for most of history.",
+    "lost": "Named the material that lit the world before wax became affordable — tallow candles smoked and smelled and dripped, but they were the difference between darkness and the ability to see after sunset.",
+    "usage": "The tallow candles left a smell that clung to everything, which is how you knew which houses could not afford wax."
+  },
+  {
     "word": "teen",
     "pronunciation": "teen",
     "era": "Old English",
@@ -2563,6 +2995,15 @@
     "definition": "To make evasive or contradictory statements; to change sides repeatedly; to be deliberately unclear in order to avoid commitment.",
     "lost": "Named evasion as a systematic practice rather than a single instance — tergiversation is a policy, not a lapse, which requires its own word.",
     "usage": "He tergiversated through the entire interview and emerged having said nothing that could be quoted against him, which was the point."
+  },
+  {
+    "word": "theurgy",
+    "pronunciation": "THEE-ər-jee",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "Magic performed with the aid of beneficent spirits; the attempt to compel divine action through ritual; the higher magic that works with rather than against the sacred.",
+    "lost": "Named the magic that considered itself legitimate — theurgy was the practitioner's distinction between their own work and mere sorcery, a moral taxonomy of the supernatural.",
+    "usage": "He called it theurgy rather than magic, which was a distinction he considered important and his neighbours did not."
   },
   {
     "word": "thew",
@@ -2655,6 +3096,15 @@
     "usage": "The travail of the crossing had left them thin and quarrelsome, and landfall only partly helped."
   },
   {
+    "word": "trencher",
+    "pronunciation": "TREN-chər",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A thick slice of bread used as a plate; later a wooden plate; a flat surface on which food was served and eaten.",
+    "lost": "Named the plate that was also food — the trencher was eaten or given to the poor after the meal, which meant nothing was wasted and the plate was always fresh.",
+    "usage": "The trenchers at the lower tables were stale bread; at the high table they were wood, which was considered an improvement."
+  },
+  {
     "word": "troth",
     "pronunciation": "trawth",
     "era": "Old English",
@@ -2671,6 +3121,15 @@
     "definition": "To believe, suppose, or trust in a thing — with a quality of quiet, considered conviction. Not a guess but a held conclusion.",
     "lost": "\"Think\" is provisional. Trow implies the belief has been weighed and kept.",
     "usage": "\"He'll not be coming back, I trow,\" said the innkeeper, and refilled the glass."
+  },
+  {
+    "word": "twang",
+    "pronunciation": "twang",
+    "era": "Middle English",
+    "category": "The Sounding",
+    "definition": "A sharp vibrating sound as of a plucked string; a nasal quality in a voice; the sound of tension suddenly released.",
+    "lost": "Named the sound of a string's whole life compressed into one moment — a twang is the bow after the arrow, the instrument after the pluck, resonance as aftermath.",
+    "usage": "The twang of the bowstring was the last sound he heard before the return shot, which he did not hear at all."
   },
   {
     "word": "twelvemonth",
@@ -2727,6 +3186,15 @@
     "usage": "A vagitus from the back room told him the ordeal was over."
   },
   {
+    "word": "vambrace",
+    "pronunciation": "VAM-brays",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "Armour for the forearm; the plate protecting the lower arm from wrist to elbow.",
+    "lost": "Named the specific protection of the sword arm — a vambrace was the difference between a blocked blow and a severed limb, and its name knew exactly what it was defending.",
+    "usage": "The vambrace had taken a cut that would have ended the fight otherwise; he noted it afterward with something like gratitude."
+  },
+  {
     "word": "vapours",
     "pronunciation": "VAY-pərz",
     "era": "Early Modern English",
@@ -2763,6 +3231,15 @@
     "usage": "The hillside was virid in a way that felt aggressive after months of grey."
   },
   {
+    "word": "wainscot",
+    "pronunciation": "WAYN-skət",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "Wooden panelling lining the lower walls of a room; the specific finish that marked a room as finished and warm.",
+    "lost": "Named the interior finish that changed how a room felt — wainscot turned a plastered wall into a panelled one, which was warmer, quieter, and unmistakably a different economic register.",
+    "usage": "The wainscot was dark oak and ran to shoulder height, above which the walls were painted a colour that had once been fashionable."
+  },
+  {
     "word": "wan",
     "pronunciation": "wahn",
     "era": "Old English",
@@ -2788,6 +3265,15 @@
     "definition": "A toast meaning 'be in good health'; a spiced ale drunk at festivities; also: to go house to house singing and drinking at Christmas.",
     "lost": "Named the ritual of communal warmth-seeking in winter — wassailing was not merely drinking but a formal procession through the cold, singing for hospitality and offering it in return.",
     "usage": "The wassailers arrived at eleven with a bucket of mulled cider and the traditional expectation of not being turned away."
+  },
+  {
+    "word": "wayfarer",
+    "pronunciation": "WAY-fair-ər",
+    "era": "Old English",
+    "category": "The Wandering",
+    "definition": "A traveller, especially one who travels on foot; one for whom the road is both means and purpose.",
+    "lost": "Named the traveller by their relationship to the way — a wayfarer is defined by the road they are on, not by where they came from or where they are going.",
+    "usage": "A wayfarer arrived at the inn near dark, ate without speaking, and was gone before the household was up."
   },
   {
     "word": "wayfaring",
