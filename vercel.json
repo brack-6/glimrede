@@ -1,11 +1,5 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "framework": "vite",
-  "routes": [
-    { "src": "/api/ping", "dest": "/api/ping.js" },
-    { "src": "/api/transmute", "dest": "/api/transmute.js" },
-    { "src": "/api/forge", "dest": "/api/forge.js" },
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
+  "framework": "vite"
 }
