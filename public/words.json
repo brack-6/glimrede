@@ -90,6 +90,15 @@
     "usage": "She turned her face to the apricity and did not open her eyes."
   },
   {
+    "word": "athwart",
+    "pronunciation": "ə-THWORT",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "Across the width of a ship; at right angles to the fore-and-aft line; also: across the path of something, in opposition to its direction.",
+    "lost": "Named the direction that cuts against — athwart is the transverse axis of a vessel but also the adversarial direction, the angle that opposes. A ship lying athwart the channel is not moving with it but blocking it.",
+    "usage": "The wreck lay athwart the fairway, and there was no passage to either side that had enough water for them."
+  },
+  {
     "word": "atrabilious",
     "pronunciation": "at-rə-BIL-ee-əs",
     "era": "Classical Borrowing",
@@ -243,6 +252,15 @@
     "usage": "They left betimes, while the road was still quiet and the border guards still sleeping."
   },
   {
+    "word": "between wind and water",
+    "pronunciation": "bih-TWEEN WIND and WAW-tər",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "The zone of a ship's hull at the waterline, alternately exposed and submerged as she rolls; struck there, a vessel takes water with every wave. To hit something between wind and water is to find the fatal vulnerability.",
+    "lost": "Named the most dangerous point on any hull — not the bilge, not the bow, but the waterline, where the sea enters with the ship's own motion. A shot between wind and water killed ships slowly and certainly. The phrase kept its meaning — a fatal blow at the vulnerable point — long after the wooden warships that gave it currency were gone.",
+    "usage": "The comment landed between wind and water, which was not his intent but was the effect, and he watched her expression change before she recovered."
+  },
+  {
     "word": "bewray",
     "pronunciation": "bih-WRAY",
     "era": "Middle English",
@@ -385,6 +403,15 @@
     "definition": "Glowing with white heat; incandescent; the state of metal or mineral heated to the point where it emits light.",
     "lost": "Named the specific temperature of light — candent is the heat that has become visible, the moment at which matter stops being merely hot and begins to radiate.",
     "usage": "The forge was candent by noon; the smith worked by the quality of the light his metal gave off rather than by any clock."
+  },
+  {
+    "word": "careen",
+    "pronunciation": "kə-REEN",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "To heel a ship onto her side for cleaning and repair; to expose the underwater hull by tipping the vessel until the keel is accessible. The careened ship is helpless, vulnerable, fully committed.",
+    "lost": "The modern sense — careening wildly — came from watching a ship careen, which moves fast and without control across the beach as gravity takes her over. The origin is a ship deliberately made helpless for maintenance, which is a different and more interesting thing.",
+    "usage": "They careened her on the beach at low water and worked through the tide to burn the weed off before she floated again."
   },
   {
     "word": "carp",
@@ -531,6 +558,15 @@
     "usage": "He bought the horse from a coper at the Michaelmas fair and spent the following winter regretting it."
   },
   {
+    "word": "copper-bottomed",
+    "pronunciation": "KOP-ər-BOT-əmd",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "Originally: sheathed below the waterline in copper plate, which resisted the shipworm that devoured unprotected timber; hence: reliable, sound, guaranteed. The phrase outlived the technology.",
+    "lost": "The shipworm Teredo navalis could destroy an unprotected hull in months; copper sheathing stopped it and changed naval warfare. A copper-bottomed ship could stay at sea longer and in warmer waters. The guarantee the phrase still implies was once literal — copper-bottomed meant the ship would not rot beneath you.",
+    "usage": "He described it as a copper-bottomed investment, not knowing that the phrase once meant a ship that would not dissolve in tropical water."
+  },
+  {
     "word": "corbie",
     "pronunciation": "KOR-bee",
     "era": "Middle English",
@@ -585,6 +621,15 @@
     "usage": "He always made his approach at crepuscule, when shapes were still uncertain."
   },
   {
+    "word": "cut and run",
+    "pronunciation": "KUT and RUN",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "Originally: to cut the anchor cable rather than weigh anchor, and run before the wind — abandoning the anchor to gain speed immediately. Speed bought by sacrifice of equipment and ground.",
+    "lost": "Weighing anchor was slow, careful work. In emergency — a surprise attack, a sudden storm, a lee shore — there was no time for it. You cut the cable and lost the anchor and ran. The phrase kept its meaning of hasty abandonment while losing the specific geometry: the anchor left on the bottom, the frayed cable streaming from the hawse.",
+    "usage": "They cut and ran at midnight, leaving the anchorage without lights or signal, the cable end trailing in the water behind them."
+  },
+  {
     "word": "dag",
     "pronunciation": "dag",
     "era": "Middle English",
@@ -621,6 +666,15 @@
     "usage": "He was a daw in a magistrate's coat; everyone knew it, and the knowledge changed nothing."
   },
   {
+    "word": "deadlight",
+    "pronunciation": "DED-lyt",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "A fixed porthole that admits light but cannot be opened; a thick glass port sealed into the hull; light without communication, illumination without the possibility of escape.",
+    "lost": "Named the porthole that does not open — a deadlight is light made passive, the sea visible but untouchable, a window that is permanently a window and never a door. Below the waterline, deadlights were the only natural light, giving the lower decks a cold, submarine glow.",
+    "usage": "The light through the deadlight was green and cold and moved with the water outside, which made the cabin feel like something submerged."
+  },
+  {
     "word": "demesne",
     "pronunciation": "dih-MAYN",
     "era": "Middle English",
@@ -646,6 +700,15 @@
     "definition": "A knight's great warhorse; a horse bred and trained for battle, led by the right hand into combat.",
     "lost": "Named the horse by its purpose rather than its breed — a destrier was a social role, a piece of equipment, an investment worth a knight's ransom.",
     "usage": "The destrier stood sixteen hands and had been trained to kick and bite; he was valued accordingly and treated with more care than most men."
+  },
+  {
+    "word": "devil to pay",
+    "pronunciation": "DEV-əl to PAY",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "The devil was the lowest seam on a wooden ship's hull, where the hull met the keel; to pay a seam was to caulk it with oakum and tar. The devil was the hardest seam to reach, requiring a man to hang over the side. The full phrase was 'the devil to pay and no pitch hot' — an impossible job without the means to do it.",
+    "lost": "The phrase lost its second half and both its meanings — the specific seam nobody wanted to caulk, and the absent materials. What remained was a vague sense of consequences, stripped of the original's precise despair: a man hanging over the side of a ship in cold water with no tar.",
+    "usage": "If the cargo inspectors arrived before the manifest was complete, there would be the devil to pay, which he said without knowing what he was remembering."
   },
   {
     "word": "dirge",
@@ -990,6 +1053,15 @@
     "usage": "He had forwandered in the city for three hours before he admitted he did not know where he was."
   },
   {
+    "word": "fother",
+    "pronunciation": "FOH-thər",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "To repair a leak at sea by drawing a sail stuffed with oakum and rope beneath the hull until water pressure holds it against the hole; emergency surgery performed from outside on a moving vessel.",
+    "lost": "Named a repair that required the sea itself as a clamp — to fother a ship is to use the water trying to kill you as the force that holds your solution in place, which is either ingenious or desperate depending on how fast you are sinking.",
+    "usage": "They fothered her in four fathoms of water while the pumps ran, and she held long enough to reach the roads."
+  },
+  {
     "word": "foxfire",
     "pronunciation": "FOKS-fyr",
     "era": "Middle English",
@@ -1015,6 +1087,15 @@
     "definition": "A free landowner of the yeoman class; a man of property and standing below the nobility; the middle rank of English rural society.",
     "lost": "Named the class between serf and knight that did the actual work of organizing England — franklins kept the records, served on juries, and made the decisions that mattered at the parish level.",
     "usage": "The franklin sat below the knight at table and above the merchants, and was comfortable in both directions."
+  },
+  {
+    "word": "frap",
+    "pronunciation": "frap",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "To bind tightly; to pass ropes around a sail or a vessel to reinforce it; to lash something against the movement of the sea until it cannot work loose.",
+    "lost": "Named the binding that argues with the ocean — to frap something is to impose human order on a situation the sea is trying to disorder, which is the whole of seamanship compressed into a syllable.",
+    "usage": "They frapped the mast with whatever they had and prayed it would hold through the night, which it did, barely."
   },
   {
     "word": "freebooter",
@@ -1224,6 +1305,15 @@
     "usage": "He asked no guerdon for the crossing except the name of the man he carried."
   },
   {
+    "word": "gurry",
+    "pronunciation": "GUR-ee",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "Fish offal, blood, and waste from the catch; the debris of the fishing boat's work; the smell and substance of what remains after the valuable has been taken.",
+    "lost": "Named the residue of labour — gurry is what fishing leaves behind, the evidence of the work that the fish conceals. A boat smells of gurry; a fisherman smells of gurry; it is the signature of the trade that does not wash out.",
+    "usage": "The quay was slick with gurry by the time the fleet came in, which was how you knew the catch had been good."
+  },
+  {
     "word": "gyve",
     "pronunciation": "jyv",
     "era": "Middle English",
@@ -1303,6 +1393,15 @@
     "definition": "A coat of chainmail extending to the knees; the principal armour of the medieval knight before plate took over.",
     "lost": "Named the garment that made a man into a different kind of object — in a hauberk you moved differently, thought differently, were differently vulnerable.",
     "usage": "He had worn the hauberk so long he slept in it toward the end, and the rings left their pattern in his skin."
+  },
+  {
+    "word": "hawse",
+    "pronunciation": "hawz",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "The space between a ship's bow and her anchor cables; the pipes through which those cables run; the angle and arrangement of cables when a ship is riding to two anchors. A foul hawse is cables twisted around each other — a problem that requires patience or a knife.",
+    "lost": "Named the ship's most forward anxiety — the hawse is where the vessel connects to the seabed, the point of attachment to something fixed in a world that is not fixed. A clean hawse meant a quiet night; a foul hawse meant work.",
+    "usage": "The hawse was clear when they checked at midnight; by four the wind had veered and the cables had crossed, and the work of clearing them took until dawn."
   },
   {
     "word": "hearth",
@@ -1476,6 +1575,15 @@
     "usage": "He had been itinerant so long that the question of where he lived produced a small, rehearsed hesitation."
   },
   {
+    "word": "kedge",
+    "pronunciation": "kej",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "A small anchor used to move a ship by hand; to kedge is to carry the anchor out in a boat, drop it, then haul the ship toward it — progress measured in anchor lengths, patience as propulsion.",
+    "lost": "Named movement achieved by repeated acts of anchoring — to kedge is to move without wind, using the seabed as a grip and human arms as the engine, which is slow and exhausting and sometimes the only option.",
+    "usage": "They kedged her off the mud over four hours, the men in the boat laying the anchor ahead while those aboard hauled on the capstan."
+  },
+  {
     "word": "keen",
     "pronunciation": "keen",
     "era": "Middle English",
@@ -1548,6 +1656,15 @@
     "usage": "A summer languor settled over the house from noon until the sea wind came back at five."
   },
   {
+    "word": "lanthorn",
+    "pronunciation": "LAN-thorn",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "The archaic form of lantern, specifically as used aboard ship; the navigation light; also the poop lantern of a ship of the line, which identified the vessel at night and guided the fleet.",
+    "lost": "The spelling preserves the material — lanthorns were originally made with panels of thinly scraped horn rather than glass, which was expensive and fragile. The horn let light through without shattering in the wind. The word kept the horn long after glass replaced it.",
+    "usage": "The admiral's lanthorn burned all night, and the fleet steered by it, and when it was extinguished at dawn the lookouts knew to find another reference."
+  },
+  {
     "word": "lassitude",
     "pronunciation": "LAS-ih-tyood",
     "era": "Classical Borrowing",
@@ -1555,6 +1672,15 @@
     "definition": "Physical or mental weariness; exhaustion that goes deeper than sleep can reach.",
     "lost": "Distinguished exhaustion from tiredness — lassitude is not solved by rest, which is why it requires its own word.",
     "usage": "A lassitude had settled into her bones that she recognized as something other than lack of sleep."
+  },
+  {
+    "word": "lee",
+    "pronunciation": "lee",
+    "era": "Old English",
+    "category": "The Nautical",
+    "definition": "The sheltered side; the side away from the wind; the quarter toward which wind blows and where calm is found. A shore that is a lee shore is one you are being blown toward — comfort turned to danger.",
+    "lost": "Named shelter as a directional fact — lee is not a place but a relationship, defined entirely by where the wind is coming from, which means it changes every time the wind does.",
+    "usage": "They worked their way into the lee of the headland and anchored there for the night, the wind nothing but a sound above them."
   },
   {
     "word": "leech",
@@ -1627,6 +1753,15 @@
     "definition": "Skill or cunning in the use and arrangement of words; verbal craft; the quality of a writer or speaker who shapes language with the same precision a carpenter gives to wood.",
     "lost": "\"Wordsmith\" is a metaphor of manufacture. Logodaedaly names the specific skill — the cunning, the architecture, the knowing use of the instrument.",
     "usage": "His logodaedaly was such that you only noticed, afterward, that you had been led."
+  },
+  {
+    "word": "loom",
+    "pronunciation": "loom",
+    "era": "Old English",
+    "category": "The Nautical",
+    "definition": "The glow of a lighthouse or lit coastline reflected on low cloud, visible over the horizon before the light source itself can be seen; the ghost of land before land appears.",
+    "lost": "Named the precursor of arrival — to see the loom of a coast is to know land is there before you can prove it, a knowledge that arrives by inference and light-scatter. Sailors read the loom to navigate in darkness and fog.",
+    "usage": "They saw the loom of the lightship two hours before they saw the light itself, which was enough to know they had not gone too far north."
   },
   {
     "word": "lown",
@@ -1863,6 +1998,15 @@
     "usage": "They nattered over the fence for half an hour about nothing that mattered and felt considerably better for it."
   },
   {
+    "word": "neap",
+    "pronunciation": "neep",
+    "era": "Old English",
+    "category": "The Nautical",
+    "definition": "The tide at its lowest range; the lesser tide that occurs between spring tides when sun and moon pull at angles to each other rather than together.",
+    "lost": "Named the tide's restraint — a neap tide is the sea withholding, neither fully in nor fully out, the moon and sun in disagreement. To be neaped was to be stranded in harbour by insufficient water, which was its own kind of fate.",
+    "usage": "They were neaped for three days, the water never quite high enough to float her off the bar, which gave them time they had not wanted."
+  },
+  {
     "word": "necromancy",
     "pronunciation": "NEK-roh-man-see",
     "era": "Classical Borrowing",
@@ -1978,6 +2122,15 @@
     "definition": "Filled with a sense of the divine or supernatural; having a quality of sacred awe that borders on dread. The feeling of standing in the presence of something vast.",
     "lost": "\"Spiritual\" is comfortable. Numinous retains the original terror of the encounter.",
     "usage": "The clearing was numinous in a way that discouraged investigation."
+  },
+  {
+    "word": "offing",
+    "pronunciation": "OFF-ing",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "The part of the visible sea beyond the harbour or coastal waters; the deep water a ship must reach before setting a course. In the offing: near enough to be seen, far enough not yet to have arrived.",
+    "lost": "The phrase survived and the origin drowned — 'in the offing' means imminent, but the offing was a specific zone of water, the visible horizon of the deep sea, where ships appeared before they entered port. The imminence was literal first.",
+    "usage": "A sail in the offing that none of them could identify, holding its distance through the afternoon until the light failed."
   },
   {
     "word": "oneiric",
@@ -2826,6 +2979,15 @@
     "usage": "The sough of the rigging was company of a kind, if not conversation."
   },
   {
+    "word": "soundings",
+    "pronunciation": "SOWND-ingz",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "The measured depth of water beneath a ship; the act of measuring that depth with a lead line; to be in soundings is to be in water shallow enough to reach the bottom — a known and manageable world. To lose soundings is to enter the deep ocean.",
+    "lost": "Named the boundary between the known and the unknown — in soundings, you could anchor, you could navigate by depth, you had a relationship to the bottom. Out of soundings, you were in the open ocean, depth unmeasurable, the bottom irrelevant and unreachable. The transition between the two was the most significant crossing a sailor made.",
+    "usage": "They took soundings every hour as they closed the coast, the leadsman calling the depths from the chains in a voice that carried aft to the helmsman."
+  },
+  {
     "word": "splenetic",
     "pronunciation": "spleh-NET-ik",
     "era": "Early Modern English",
@@ -2851,6 +3013,15 @@
     "definition": "A farmstead; a group of farm buildings; the whole domestic establishment of a working farm considered as a unit.",
     "lost": "Named the farm as a complete domestic world — a steading was not just fields but house, byre, barn, yard, and all the relationships between them.",
     "usage": "The steading had been in the family for six generations, which was visible in the different ages of the buildings and the way they faced each other."
+  },
+  {
+    "word": "sternway",
+    "pronunciation": "STERN-way",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "Movement of a vessel backwards through the water; way made in the wrong direction; the ship going where her stern points.",
+    "lost": "Named the wrong direction as its own kind of progress — a ship making sternway is moving, just not where she is aimed, and the distinction matters enormously when there is something behind you. Everything that steers a ship is designed for forward motion; sternway makes her unpredictable.",
+    "usage": "She was making sternway before they had the anchor clear, which was when he understood how much water there was behind them."
   },
   {
     "word": "stravage",

@@ -4,7 +4,7 @@ const CATEGORIES = [
   "All",
   "The Luminous","The Dark","The Weather","The Wandering","The Reckoning",
   "The Speaking","The Spent","The Sounding","The Knowing",
-  "The Bodied","The Bound","The Creaturely","The Martial","The Domestic",
+  "The Bodied","The Bound","The Creaturely","The Martial","The Domestic","The Nautical",
 ];
 
 const C = {
