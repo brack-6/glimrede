@@ -329,7 +329,7 @@ export default function Glimrede() {
               </div>
               {/* Definition */}
               <div style={{ padding:"16px 20px" }}>
-                <div className="hoverable" style={{ fontFamily:body, fontSize:14, color:C.amberBright, lineHeight:1.82 }}>
+                <div className="hoverable" style={{ fontFamily:body, fontSize:19, color:C.amberBright, lineHeight:1.8 }}>
                   {selected.definition}
                 </div>
               </div>
@@ -338,7 +338,7 @@ export default function Glimrede() {
                 <>
                   <CardSection label="WHAT WAS LOST" />
                   <div style={{ padding:"0 20px 14px" }}>
-                    <div className="hoverable-dim" style={{ fontFamily:mono, fontSize:10.5, color:C.amberDim, lineHeight:1.9, letterSpacing:"0.03em" }}>
+                    <div className="hoverable-dim" style={{ fontFamily:mono, fontSize:15, color:C.amberDim, lineHeight:1.9, letterSpacing:"0.03em" }}>
                       {selected.lost}
                     </div>
                   </div>
@@ -349,7 +349,7 @@ export default function Glimrede() {
                 <>
                   <CardSection label="IN USE" />
                   <div style={{ padding:"0 20px 16px" }}>
-                    <div className="hoverable-dim" style={{ fontFamily:body, fontSize:12, color:C.amberDim, lineHeight:1.85, fontStyle:"italic" }}>
+                    <div className="hoverable-dim" style={{ fontFamily:body, fontSize:17, color:C.amberDim, lineHeight:1.82, fontStyle:"italic" }}>
                       "{selected.usage}"
                     </div>
                   </div>
@@ -368,9 +368,9 @@ export default function Glimrede() {
                 <Label>{selected.era?.toUpperCase()}</Label>
               </div>
               <HRule style={{ marginBottom:20 }} />
-              <div style={{ fontFamily:body, fontSize:14, color:C.amberBright, lineHeight:1.88, marginBottom:28 }}>{selected.definition}</div>
+              <div style={{ fontFamily:body, fontSize:17, color:C.amberBright, lineHeight:1.85, marginBottom:28 }}>{selected.definition}</div>
               {selected.lost && (
-                <div style={{ fontFamily:mono, fontSize:10.5, color:C.amberDim, lineHeight:1.9, marginBottom:28, paddingLeft:14, borderLeft:`2px solid ${C.amberFaint}`, letterSpacing:"0.03em" }}>
+                <div style={{ fontFamily:mono, fontSize:14, color:C.amberDim, lineHeight:1.9, marginBottom:28, paddingLeft:14, borderLeft:`2px solid ${C.amberFaint}`, letterSpacing:"0.03em" }}>
                   {selected.lost}
                 </div>
               )}
@@ -390,7 +390,7 @@ export default function Glimrede() {
           {/* Panel header */}
           <div style={{ padding:"8px 14px", borderBottom:`1px solid ${C.border}`, display:"flex", alignItems:"center", gap:8, flexShrink:0 }}>
             <Pip color={C.amberGlow} />
-            <Label style={{ color:C.amberDim, letterSpacing:"0.22em" }}>INSTRUMENT PANEL</Label>
+            <Label style={{ color:C.amberBright, letterSpacing:"0.22em" }}>INSTRUMENT PANEL</Label>
           </div>
 
           <div style={{ overflowY:"auto", flex:1, minHeight:0 }}>
@@ -399,7 +399,7 @@ export default function Glimrede() {
             <div style={{ padding:"12px 14px", borderBottom:`1px solid ${C.border}` }}>
               <div style={{ display:"flex", alignItems:"center", gap:6, marginBottom:10 }}>
                 <Pip />
-                <Label style={{ letterSpacing:"0.2em" }}>CROSS-POLLINATOR</Label>
+                <Label style={{ color:C.amberBright, letterSpacing:"0.2em" }}>CROSS-POLLINATOR</Label>
               </div>
               <div style={{ display:"flex", gap:8, alignItems:"center", marginBottom:6 }}>
                 <input placeholder="a modern word" value={crossInput} onChange={e=>setCrossInput(e.target.value)} onKeyDown={e=>e.key==="Enter"&&transmute()}
@@ -408,15 +408,15 @@ export default function Glimrede() {
                   {crossLoading?"…":"GO"}
                 </button>
               </div>
-              <Label className="hoverable" style={{ fontSize:6.5, color:C.textGhost }}>↑ ENTER A WORD · RECEIVE THREE SHADOWS</Label>
+              <Label className="hoverable" style={{ fontSize:6.5, color:C.amberDim }}>↑ ENTER A WORD · RECEIVE THREE SHADOWS</Label>
 
               {crossResult && !crossResult.error && (
                 <div style={{ marginTop:12, display:"flex", flexDirection:"column", gap:10 }}>
                   {[["oe","ARCHAIC"],["naut","NAUTICAL"],["leg","LEGALISM"]].map(([key,label]) => (
                     <div key={key} style={{ borderLeft:`2px solid ${C.amberFaint}`, paddingLeft:10 }}>
-                      <Label style={{ fontSize:6.5, marginBottom:4, display:"block" }}>{label}</Label>
+                      <Label style={{ fontSize:6.5, marginBottom:4, display:"block", color:C.amberBright }}>{label}</Label>
                       <div className="word-glow word-hover" style={{ fontFamily:display, fontSize:17, color:C.amberGlow, marginBottom:3, cursor:"default", transition:"text-shadow 0.2s" }}>{crossResult[key]?.word}</div>
-                      <div className="hoverable-dim" style={{ fontFamily:body, fontSize:10, color:C.amberDim, fontStyle:"italic", lineHeight:1.5 }}>{crossResult[key]?.gloss}</div>
+                      <div className="hoverable-dim" style={{ fontFamily:body, fontSize:12, color:C.amberDim, fontStyle:"italic", lineHeight:1.6 }}>{crossResult[key]?.gloss}</div>
                     </div>
                   ))}
                 </div>
@@ -428,7 +428,7 @@ export default function Glimrede() {
             <div style={{ padding:"12px 14px", borderBottom:`1px solid ${C.border}` }}>
               <div style={{ display:"flex", alignItems:"center", gap:6, marginBottom:10 }}>
                 <Pip />
-                <Label style={{ letterSpacing:"0.2em" }}>KENNING FORGE</Label>
+                <Label style={{ color:C.amberBright, letterSpacing:"0.2em" }}>KENNING FORGE</Label>
               </div>
               <div style={{ display:"flex", gap:6, alignItems:"center", marginBottom:4 }}>
                 <input placeholder="concept" value={kennA} onChange={e=>setKennA(e.target.value)} onKeyDown={e=>e.key==="Enter"&&forge()}
@@ -440,7 +440,7 @@ export default function Glimrede() {
                   {kennLoading?"…":"FORGE"}
                 </button>
               </div>
-              <Label className="hoverable" style={{ fontSize:6.5, color:C.textGhost }}>↑ TWO CONCEPTS · FOUR KENNINGS</Label>
+              <Label className="hoverable" style={{ fontSize:6.5, color:C.amberDim }}>↑ TWO CONCEPTS · FOUR KENNINGS</Label>
 
               {kennResult && !kennResult.error && kennResult.kennings && (
                 <div style={{ marginTop:12, display:"grid", gridTemplateColumns:"1fr 1fr", gap:8 }}>
@@ -448,7 +448,7 @@ export default function Glimrede() {
                     <div key={i} style={{ borderTop:`1px solid ${C.border}`, paddingTop:8 }}>
                       <div className="word-glow word-hover" style={{ fontFamily:display, fontSize:15, color:C.amberGlow, marginBottom:3, cursor:"default", transition:"text-shadow 0.2s" }}>{k.compound}</div>
                       <div style={{ fontFamily:mono, fontSize:7, color:C.amberDim, letterSpacing:"0.1em", marginBottom:4 }}>{k.names?.toUpperCase()}</div>
-                      <div className="hoverable-dim" style={{ fontFamily:body, fontSize:9.5, color:C.amberDim, fontStyle:"italic", lineHeight:1.6 }}>{k.logic}</div>
+                      <div className="hoverable-dim" style={{ fontFamily:body, fontSize:11, color:C.amberDim, fontStyle:"italic", lineHeight:1.6 }}>{k.logic}</div>
                     </div>
                   ))}
                 </div>
@@ -460,7 +460,7 @@ export default function Glimrede() {
             <div style={{ borderBottom:`1px solid ${C.border}` }}>
               <button onClick={()=>setShowLog(l=>!l)} className="cat-btn" style={{ width:"100%", background:"none", border:"none", padding:"9px 14px", display:"flex", alignItems:"center", gap:8, cursor:"pointer" }}>
                 <Pip />
-                <Label style={{ letterSpacing:"0.2em" }}>FORGE LOG</Label>
+                <Label style={{ color:C.amberBright, letterSpacing:"0.2em" }}>FORGE LOG</Label>
                 {kennHistory.length>0 && <span style={{ fontFamily:mono, fontSize:7, color:C.amberDim, marginLeft:4 }}>[{kennHistory.length}]</span>}
                 <span style={{ marginLeft:"auto", fontFamily:mono, fontSize:8, color:C.textDim }}>{showLog?"▾":"▸"}</span>
               </button>
@@ -489,7 +489,7 @@ export default function Glimrede() {
             <div>
               <button onClick={()=>setShowHoard(h=>!h)} className="cat-btn" style={{ width:"100%", background:"none", border:"none", padding:"9px 14px", display:"flex", alignItems:"center", gap:8, cursor:"pointer" }}>
                 <Pip />
-                <Label style={{ letterSpacing:"0.2em" }}>MY HOARD</Label>
+                <Label style={{ color:C.amberBright, letterSpacing:"0.2em" }}>MY HOARD</Label>
                 {hoards.size>0 && <span style={{ fontFamily:mono, fontSize:7, color:C.amberDim, marginLeft:4 }}>[{hoards.size}]</span>}
                 <span style={{ marginLeft:"auto", fontFamily:mono, fontSize:8, color:C.textDim }}>{showHoard?"▾":"▸"}</span>
               </button>
