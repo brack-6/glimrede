@@ -27,9 +27,7 @@ const C = {
   accent:       "#c0392b",
 };
 
-const mono    = "'Share Tech Mono', 'Courier New', monospace";
-const display = "'Fraunces', 'Times New Roman', serif";
-const body    = "'Instrument Serif', 'Georgia', serif";
+const FONT_DEFAULTS = { display: "Fraunces", body: "Instrument Serif", mono: "Share Tech Mono" };
 
 const HOARD_KEY = "glimrede-saved-words";
 
@@ -130,6 +128,29 @@ export default function Glimrede() {
   const [showHoard,    setShowHoard]    = useState(false);
   const [hoards,       setHoards]       = useState(new Set());
   const [mobilePanel,  setMobilePanel]  = useState("card"); // 'list' | 'card' | 'tools'
+  const [showFonts,    setShowFonts]    = useState(false);
+  const [fonts,        setFonts]        = useState(() => {
+    try {
+      const s = localStorage.getItem("glimrede-fonts");
+      return s ? JSON.parse(s) : { display: "Fraunces", body: "Instrument Serif", mono: "Share Tech Mono" };
+    } catch { return { display: "Fraunces", body: "Instrument Serif", mono: "Share Tech Mono" }; }
+  });
+
+  // Derive font CSS strings from state
+  const mono    = `'${fonts.mono}', 'Courier New', monospace`;
+  const display = `'${fonts.display}', 'Times New Roman', serif`;
+  const body    = `'${fonts.body}', 'Georgia', serif`;
+
+  // Persist font choices
+  useEffect(() => {
+    try { localStorage.setItem("glimrede-fonts", JSON.stringify(fonts)); } catch {}
+    // Inject Google Fonts link dynamically
+    const id = "glimrede-dynamic-fonts";
+    let link = document.getElementById(id);
+    if (!link) { link = document.createElement("link"); link.id = id; link.rel = "stylesheet"; document.head.appendChild(link); }
+    const names = [fonts.display, fonts.body, fonts.mono].filter((v,i,a) => a.indexOf(v)===i);
+    link.href = `https://fonts.googleapis.com/css2?${names.map(n => `family=${n.replace(/ /g,"+")}&display=swap`).join("&")}`;
+  }, [fonts]);
 
   const listRef = useRef(null);
 
@@ -524,6 +545,43 @@ export default function Glimrede() {
                       </div>
                     </>
                   )}
+                </div>
+              )}
+            </div>
+
+
+            {/* ── Font picker (collapsible) ── */}
+            <div style={{ borderTop:`1px solid ${C.border}` }}>
+              <button onClick={()=>setShowFonts(f=>!f)} className="cat-btn" style={{ width:"100%", background:"none", border:"none", padding:"9px 14px", display:"flex", alignItems:"center", gap:8, cursor:"pointer" }}>
+                <Pip />
+                <Label style={{ letterSpacing:"0.2em", color:C.amberBright }}>TYPE SPECIMEN</Label>
+                <span style={{ marginLeft:"auto", fontFamily:mono, fontSize:8, color:C.textDim }}>{showFonts?"▾":"▸"}</span>
+              </button>
+              {showFonts && (
+                <div style={{ padding:"0 14px 14px", display:"flex", flexDirection:"column", gap:12 }}>
+                  {[
+                    ["display", "WORD FACE", ["Fraunces","Playfair Display","Cormorant Garamond","EB Garamond","Libre Baskerville","Lora","Cinzel","UnifrakturMaguntia"]],
+                    ["body",    "BODY FACE",  ["Instrument Serif","Lora","Crimson Text","Source Serif 4","EB Garamond","Merriweather"]],
+                    ["mono",    "CHROME",     ["Share Tech Mono","JetBrains Mono","Fira Mono","Space Mono","Courier Prime","IBM Plex Mono","Inconsolata"]],
+                  ].map(([key, label, options]) => (
+                    <div key={key}>
+                      <Label style={{ display:"block", marginBottom:5, color:C.amberBright }}>{label}</Label>
+                      <select
+                        value={fonts[key]}
+                        onChange={e => setFonts(prev => ({...prev, [key]: e.target.value}))}
+                        style={{
+                          width:"100%", background:C.bgCard, border:`1px solid ${C.borderBright}`,
+                          color:C.amberGlow, fontFamily:mono, fontSize:9, padding:"4px 6px",
+                          letterSpacing:"0.06em", cursor:"pointer",
+                        }}>
+                        {options.map(f => <option key={f} value={f}>{f}</option>)}
+                      </select>
+                      <div style={{ marginTop:5, fontSize:13, color:C.amberDim, lineHeight:1.5, fontFamily:`'${fonts[key]}', serif` }}>
+                        The mirk of the sennight — a sweven of glim
+                      </div>
+                    </div>
+                  ))}
+                  <button onClick={()=>setFonts(FONT_DEFAULTS)} className="cat-btn" style={{ background:"none", border:`1px solid ${C.border}`, color:C.textDim, fontFamily:mono, fontSize:7, letterSpacing:"0.18em", padding:"4px 10px", marginTop:2 }}>RESET TO DEFAULTS</button>
                 </div>
               )}
             </div>
