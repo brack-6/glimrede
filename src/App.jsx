@@ -4,7 +4,8 @@ const CATEGORIES = [
   "All",
   "The Luminous","The Dark","The Weather","The Wandering","The Reckoning",
   "The Speaking","The Spent","The Sounding","The Knowing",
-  "The Bodied","The Bound","The Creaturely","The Martial","The Domestic","The Nautical",
+  "The Bodied","The Bound","The Creaturely","The Martial","The Domestic",
+  "The Nautical","The Malicious","The Ceremonial",
 ];
 
 const C = {
@@ -128,6 +129,7 @@ export default function Glimrede() {
   const [showLog,      setShowLog]      = useState(false);
   const [showHoard,    setShowHoard]    = useState(false);
   const [hoards,       setHoards]       = useState(new Set());
+  const [mobilePanel,  setMobilePanel]  = useState("card"); // 'list' | 'card' | 'tools'
 
   const listRef = useRef(null);
 
@@ -261,10 +263,17 @@ export default function Glimrede() {
       </div>
 
       {/* ── THREE COLUMN BODY ── */}
-      <div style={{ display:"grid", gridTemplateColumns:"190px 1fr 280px", flex:1, overflow:"hidden", minHeight:0 }}>
+      {/* Mobile nav */}
+      <div className="mobile-nav">
+        {[["list","WORDS"],["card","ENTRY"],["tools","TOOLS"]].map(([id,label]) => (
+          <button key={id} className={mobilePanel===id?"active":""} onClick={()=>setMobilePanel(id)}>{label}</button>
+        ))}
+      </div>
+
+      <div className="three-col" style={{ display:"grid", gridTemplateColumns:"190px 1fr 280px", flex:1, overflow:"hidden", minHeight:0 }}>
 
         {/* ── LEFT: Word list ── */}
-        <div style={{ borderRight:`1px solid ${C.border}`, display:"flex", flexDirection:"column", overflow:"hidden" }}>
+        <div className={mobilePanel==="list" ? "" : "desktop-col"} style={{ borderRight:`1px solid ${C.border}`, display:"flex", flexDirection:"column", overflow:"hidden" }}>
           <div style={{ padding:"8px 12px", borderBottom:`1px solid ${C.border}`, display:"flex", alignItems:"center", gap:8, flexShrink:0 }}>
             <Label style={{ color:C.amberDim, fontSize:7 }}>SEEK</Label>
             <input value={search} onChange={e=>setSearch(e.target.value)}
@@ -306,7 +315,7 @@ export default function Glimrede() {
         </div>
 
         {/* ── CENTRE: Word card ── */}
-        <div key={flashKey} className={flashKey>0?"encounter-flash":""} style={{ overflowY:"auto", minHeight:0, padding:"20px 24px" }}>
+        <div key={flashKey} className={[flashKey>0?"encounter-flash":"", mobilePanel==="card" ? "" : "desktop-col"].filter(Boolean).join(" ")} style={{ overflowY:"auto", minHeight:0, padding:"20px 24px" }}>
           {selected && !writerMode && (
             <div key={wordKey} className="word-reveal" style={{ border:`1px solid ${C.borderBright}`, background:C.bgCard, width:"100%" }}>
               {/* Word + hoard */}
@@ -329,7 +338,7 @@ export default function Glimrede() {
               </div>
               {/* Definition */}
               <div style={{ padding:"16px 20px" }}>
-                <div className="hoverable" style={{ fontFamily:body, fontSize:19, color:C.amberBright, lineHeight:1.8 }}>
+                <div className="hoverable" style={{ fontFamily:body, fontSize:22, color:C.amberBright, lineHeight:1.78 }}>
                   {selected.definition}
                 </div>
               </div>
@@ -338,7 +347,7 @@ export default function Glimrede() {
                 <>
                   <CardSection label="WHAT WAS LOST" />
                   <div style={{ padding:"0 20px 14px" }}>
-                    <div className="hoverable-dim" style={{ fontFamily:mono, fontSize:15, color:C.amberDim, lineHeight:1.9, letterSpacing:"0.03em" }}>
+                    <div className="hoverable-dim" style={{ fontFamily:mono, fontSize:18, color:C.amberDim, lineHeight:1.88, letterSpacing:"0.03em" }}>
                       {selected.lost}
                     </div>
                   </div>
@@ -349,7 +358,7 @@ export default function Glimrede() {
                 <>
                   <CardSection label="IN USE" />
                   <div style={{ padding:"0 20px 16px" }}>
-                    <div className="hoverable-dim" style={{ fontFamily:body, fontSize:17, color:C.amberDim, lineHeight:1.82, fontStyle:"italic" }}>
+                    <div className="hoverable-dim" style={{ fontFamily:body, fontSize:20, color:C.amberDim, lineHeight:1.82, fontStyle:"italic" }}>
                       "{selected.usage}"
                     </div>
                   </div>
@@ -385,7 +394,7 @@ export default function Glimrede() {
         </div>
 
         {/* ── RIGHT: Instrument panel ── */}
-        <div style={{ borderLeft:`1px solid ${C.border}`, display:"flex", flexDirection:"column", overflow:"hidden", background:C.bgPanel }}>
+        <div className={mobilePanel==="tools" ? "" : "desktop-col"} style={{ borderLeft:`1px solid ${C.border}`, display:"flex", flexDirection:"column", overflow:"hidden", background:C.bgPanel }}>
 
           {/* Panel header */}
           <div style={{ padding:"8px 14px", borderBottom:`1px solid ${C.border}`, display:"flex", alignItems:"center", gap:8, flexShrink:0 }}>

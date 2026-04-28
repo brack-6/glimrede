@@ -97,6 +97,40 @@
         color: #e8a012 !important;
         text-shadow: 0 0 8px rgba(255,170,30,0.65) !important;
       }
+
+      /* Mobile responsive */
+      @media (max-width: 768px) {
+        .desktop-col { display: none !important; }
+        .mobile-nav {
+          display: flex !important;
+          gap: 0;
+          border-bottom: 1px solid #1e1608;
+          flex-shrink: 0;
+        }
+        .mobile-nav button {
+          flex: 1;
+          background: none;
+          border: none;
+          border-bottom: 2px solid transparent;
+          color: #5a3c08;
+          font-family: 'Share Tech Mono', monospace;
+          font-size: 8px;
+          letter-spacing: 0.2em;
+          padding: 8px 4px;
+          cursor: pointer;
+        }
+        .mobile-nav button.active {
+          color: #ffb422;
+          border-bottom-color: #ffb422;
+          text-shadow: 0 0 8px rgba(255,175,30,0.8);
+        }
+        .three-col {
+          grid-template-columns: 1fr !important;
+        }
+      }
+      @media (min-width: 769px) {
+        .mobile-nav { display: none !important; }
+      }
     </style>
   </head>
   <body>

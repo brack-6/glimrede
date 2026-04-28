@@ -63,10 +63,19 @@
     "usage": "I will be with you anon, she said, which covered anything from one minute to an hour and everyone understood."
   },
   {
+    "word": "apophenia",
+    "pronunciation": "ap-oh-FEE-nee-ə",
+    "era": "Late Modern English",
+    "category": "The Knowing",
+    "definition": "The tendency to perceive meaningful connections between unrelated things; pattern recognition beyond what the patterns justify; seeing faces in clouds as a condition of the mind.",
+    "lost": "Named in 1958 by Klaus Conrad — the faculty that makes us human also makes us credulous. Apophenia is the cognitive source of both religion and conspiracy theory, the mind finding signal in noise because it cannot stop looking for meaning.",
+    "usage": "The correlation in the data was almost certainly apophenia, but it was the kind of apophenia that had made careers, and nobody in the room was willing to say so."
+  },
+  {
     "word": "apophthegm",
     "pronunciation": "AP-ə-them",
     "era": "Classical Borrowing",
-    "category": "The Speaking",
+    "category": "The Ceremonial",
     "definition": "A terse, pointed, memorable saying; a maxim that contains more than its word count suggests.",
     "lost": "Named the maxim with the implication that it cuts — an apophthegm is a saying you remember because it drew blood.",
     "usage": "He was known for his apophthegms; people collected them the way others collect wounds."
@@ -88,6 +97,24 @@
     "definition": "The specific warmth of winter sunlight — warmth that touches the skin without persuading the season, that promises nothing and yet is welcome for exactly what it is.",
     "lost": "\"Winter sunshine\" is meteorological. Apricity names the particular quality: warmth without conviction.",
     "usage": "She turned her face to the apricity and did not open her eyes."
+  },
+  {
+    "word": "aroint",
+    "pronunciation": "ə-ROYNT",
+    "era": "Early Modern English",
+    "category": "The Malicious",
+    "definition": "Begone; away with you — a word of banishment, used to drive off witches, spirits, unwanted presences. Shakespeare gave it to Lear and the witches; its origin is unknown.",
+    "lost": "Named expulsion as a single utterance — aroint is dismissal reduced to its pure verbal form, the word that was supposed to work like a hand on the shoulder without the hand. Its origins remain obscure, which suits it.",
+    "usage": "He said aroint in a tone that made further discussion impossible, and the meeting ended with unusual efficiency."
+  },
+  {
+    "word": "aspersion",
+    "pronunciation": "ə-SPER-shən",
+    "era": "Classical Borrowing",
+    "category": "The Malicious",
+    "definition": "A false or misleading charge intended to harm a reputation; the sprinkling of damage on a name without needing to prove anything.",
+    "lost": "Named the accusation that doesn't commit — an aspersion is not a charge but a suggestion, not an allegation but a spray of implication, which is harder to defend against than a direct attack.",
+    "usage": "He cast aspersions with the efficiency of a man who had been doing it professionally for years, never saying anything that could be quoted directly."
   },
   {
     "word": "athwart",
@@ -153,10 +180,19 @@
     "usage": "They set out under good auspice: three herons flying north, and no clouds past the ridge."
   },
   {
+    "word": "avaunt",
+    "pronunciation": "ə-VAWNT",
+    "era": "Middle English",
+    "category": "The Malicious",
+    "definition": "Away; begone; a command to leave immediately, without argument or delay — stronger than go, closer to vanish.",
+    "lost": "Named the imperative of departure — avaunt doesn't ask you to leave, it instructs your absence. The word was to departure what a drawn sword was to a drawn sword: the statement that made further conversation redundant.",
+    "usage": "Avaunt, he said, and pointed at the door, and the gesture was so complete that adding more words to it would have weakened it."
+  },
+  {
     "word": "avouch",
     "pronunciation": "ə-VOWCH",
     "era": "Middle English",
-    "category": "The Speaking",
+    "category": "The Ceremonial",
     "definition": "To affirm or assert positively; to vouch for as true; to maintain under challenge.",
     "lost": "Named assertion with the implication of standing behind it — to avouch something was to put yourself in the sentence, to make the statement personal.",
     "usage": "She avouched it was true, which meant the question moved from evidence to character."
@@ -178,6 +214,15 @@
     "definition": "A large open-air fire; a signal fire lit on a hilltop to communicate across distance; the fire that means something is happening.",
     "lost": "Named fire as communication — a balefire was not warmth or cooking but a sentence, visible across miles, that said something had changed.",
     "usage": "The balefires on the coastal headlands were lit before the ships had cleared the horizon, and the news arrived before the ships did."
+  },
+  {
+    "word": "banshee",
+    "pronunciation": "BAN-shee",
+    "era": "Borrowed",
+    "category": "The Dark",
+    "definition": "In Irish folklore, a female spirit whose wailing announces an imminent death in the family she haunts; grief given a voice before the loss has arrived.",
+    "lost": "Named the premonitory mourner — a banshee is not death itself but the announcement of it, which assumes grief begins before loss rather than after, which is experientially accurate in a way the modern view doesn't quite capture.",
+    "usage": "Something wailed in the chimney all night that the adults attributed to wind and the children knew was not wind."
   },
   {
     "word": "beholden",
@@ -216,6 +261,15 @@
     "usage": "They heard the belling before they saw him: a sound that seemed to belong to the hillside itself."
   },
   {
+    "word": "benison",
+    "pronunciation": "BEN-ih-zən",
+    "era": "Middle English",
+    "category": "The Ceremonial",
+    "definition": "A blessing; a spoken benediction; the formal invocation of divine favour on a person or enterprise.",
+    "lost": "The formal counterpart to malison — together they named the full range of what speech could invoke. We kept blessing but lost benison, which had more weight as a word, more ceremony in its sound.",
+    "usage": "He gave them his benison and watched them go, not knowing if it would help but knowing that the sending-off had been done properly."
+  },
+  {
     "word": "beshower",
     "pronunciation": "bih-SHOW-ər",
     "era": "Middle English",
@@ -237,7 +291,7 @@
     "word": "bespeak",
     "pronunciation": "bih-SPEEK",
     "era": "Old English",
-    "category": "The Speaking",
+    "category": "The Ceremonial",
     "definition": "To speak for; to engage or order in advance; also: to be evidence of, to indicate clearly.",
     "lost": "Carried two meanings that share an underlying logic — to bespeak something is either to claim it with words or to have it claimed by appearance, which are structurally the same act.",
     "usage": "His manner bespoke a familiarity with authority that his clothes did not quite support."
@@ -279,6 +333,15 @@
     "usage": "He carried a bilbo he had taken at Cadiz and never found its equal in thirty years of looking."
   },
   {
+    "word": "bilge",
+    "pronunciation": "bilj",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "The lowest internal part of a ship's hull where water collects; also: the foul water that accumulates there. Hence: rubbish, nonsense — the lowest and most putrid part of anything.",
+    "lost": "Named the ship's basement — the bilge is where everything accumulates that has nowhere else to go: water, waste, rot, the evidence of the voyage. Its journey into figurative language for nonsense is entirely logical.",
+    "usage": "The report was bilge from the first paragraph, and those who had written it knew it was bilge, which made the presentation of it an interesting exercise in collective bad faith."
+  },
+  {
     "word": "blenk",
     "pronunciation": "blenk",
     "era": "Middle English",
@@ -297,6 +360,15 @@
     "usage": "A blustering day that threw handfuls of rain against the windows without managing proper precipitation."
   },
   {
+    "word": "bodkin",
+    "pronunciation": "BOD-kin",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A blunt thick needle for drawing tape or ribbon through a hem; also a small pointed instrument for piercing cloth; a hairpin of bone or ivory.",
+    "lost": "Named three different objects with the same word because they shared a shape — pointed, slender, made for threading or piercing — which is a different approach to categorisation than modern naming practice uses.",
+    "usage": "She threaded the ribbon with a bodkin in the time it would have taken him to find the bodkin, which was the efficient division of labour."
+  },
+  {
     "word": "boon",
     "pronunciation": "boon",
     "era": "Old English",
@@ -309,7 +381,7 @@
     "word": "brabble",
     "pronunciation": "BRAB-əl",
     "era": "Middle English",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "To quarrel noisily about trifles; petty argument at volume; the kind of dispute that everyone in the room can hear and no one benefits from.",
     "lost": "Named the quarrel that isn't worth having but is being had regardless — brabble is argument stripped of stakes, which makes the noise worse.",
     "usage": "The brabble over who sat where had been going for ten minutes and showed no sign of resolving in either direction."
@@ -369,6 +441,15 @@
     "usage": "He cachinnated at the wrong moment and the interview was effectively over."
   },
   {
+    "word": "cadaverous",
+    "pronunciation": "kə-DAV-ər-əs",
+    "era": "Classical Borrowing",
+    "category": "The Bodied",
+    "definition": "Resembling a corpse; unnaturally pale and thin; having the appearance of death while still technically alive.",
+    "lost": "Named the living body's approach to its own end condition — cadaverous is the body showing what it will eventually become, thinness and pallor as a preview, which is uncomfortable to contemplate and useful to name.",
+    "usage": "He had grown cadaverous since the last time she saw him, and the handshake confirmed what the face had suggested."
+  },
+  {
     "word": "caitiff",
     "pronunciation": "KAY-tif",
     "era": "Middle English",
@@ -390,7 +471,7 @@
     "word": "calumny",
     "pronunciation": "KAL-əm-nee",
     "era": "Classical Borrowing",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "A false and malicious accusation; deliberate misrepresentation designed to damage a reputation.",
     "lost": "Named deliberate dishonesty without using the word 'lie' — calumny is a lie with a specific target and intent.",
     "usage": "The calumny had been in circulation for three years before anyone thought to check its source."
@@ -417,10 +498,28 @@
     "word": "carp",
     "pronunciation": "karp",
     "era": "Middle English",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "To find fault persistently and querulously; to complain about small things with the energy usually reserved for large ones.",
     "lost": "Named the complaint that has become a habit — carp is fault-finding as a reflex, the person who has organised their attention around what is wrong.",
     "usage": "She carped through the entire performance and then said she had enjoyed herself, and seemed to believe both things."
+  },
+  {
+    "word": "castellan",
+    "pronunciation": "KAS-teh-lən",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "The governor or constable of a castle; the officer responsible for the defence and management of a fortified place in the lord's absence.",
+    "lost": "Named the role of the castle-keeper — a castellan was not the lord but the lord's representative, responsible for a specific piece of stone and the people and supplies within it, which required a different kind of authority than the battlefield.",
+    "usage": "The castellan had held the keep for seven months after the lord's departure, which was three months longer than anyone had expected when they left him there."
+  },
+  {
+    "word": "certes",
+    "pronunciation": "SER-teez",
+    "era": "Middle English",
+    "category": "The Ceremonial",
+    "definition": "In truth; certainly; most assuredly — an assertion that what follows is not merely believed but known.",
+    "lost": "Named certainty with a weight that 'certainly' has since lost through overuse. Certes was a word that made a claim on the listener's trust rather than merely filling a grammatical slot.",
+    "usage": "Certes, the man had been seen in the village not three days past, which made the story considerably harder to believe."
   },
   {
     "word": "cete",
@@ -450,6 +549,15 @@
     "usage": "The smell was charnel and old; whatever had died here had been dying for years."
   },
   {
+    "word": "chevauchée",
+    "pronunciation": "shev-oh-SHAY",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A mounted raid through enemy territory designed to devastate the land, destroy crops, and undermine the enemy's economy and morale — war as agricultural policy.",
+    "lost": "Named a specific strategy of medieval warfare — the chevauchée was not battle but systematic destruction, the deliberate burning of the world that fed your enemy, which acknowledged that war is always also an economic argument.",
+    "usage": "The chevauchée had left the valley stripped to the soil, which was the point — the army that wintered here would find nothing to live on."
+  },
+  {
     "word": "choler",
     "pronunciation": "KOL-ər",
     "era": "Middle English",
@@ -477,6 +585,15 @@
     "usage": "He had risen far enough to be addressed as sir, but there was something churl in his manner that his money had not quite covered."
   },
   {
+    "word": "clairvoyance",
+    "pronunciation": "klair-VOY-əns",
+    "era": "Late Modern English",
+    "category": "The Knowing",
+    "definition": "The supposed faculty of perceiving things beyond the natural range of the senses; clear-seeing; the vision that goes through walls and time.",
+    "lost": "Named the claim of perception beyond the body — clairvoyance is seeing clearly what cannot be seen by normal means, which is either a gift or a delusion and the word does not decide.",
+    "usage": "She did not claim clairvoyance, only that she paid attention in ways most people didn't, which produced similar results."
+  },
+  {
     "word": "clangour",
     "pronunciation": "KLANG-ər",
     "era": "Early Modern English",
@@ -489,7 +606,7 @@
     "word": "clepe",
     "pronunciation": "kleep",
     "era": "Old English",
-    "category": "The Speaking",
+    "category": "The Ceremonial",
     "definition": "To call or name a thing; to give it its true designation. More formal than \"call\" — implying the act of naming carries consequence.",
     "lost": "\"Call\" is casual. Clepe implies the name, once given, binds both parties.",
     "usage": "By what name do they clepe this road in the old maps?"
@@ -522,6 +639,15 @@
     "usage": "After compline the monks kept silence until prime, which meant the night had a texture the secular world had abandoned."
   },
   {
+    "word": "comprecation",
+    "pronunciation": "kom-preh-KAY-shən",
+    "era": "Classical Borrowing",
+    "category": "The Ceremonial",
+    "definition": "A communal prayer; a praying together; the specific act of multiple voices making the same supplication at the same time.",
+    "lost": "Named the collective dimension of prayer — comprecation is what happens when a congregation speaks together, when individual petition becomes communal petition, which is structurally different from solo prayer.",
+    "usage": "The comprecation at the end of the service was the only part she could participate in fully, the rest having gone beyond her."
+  },
+  {
     "word": "compurgation",
     "pronunciation": "kom-per-GAY-shən",
     "era": "Middle English",
@@ -547,6 +673,15 @@
     "definition": "Of the same blood; related by birth; sharing a common ancestor.",
     "lost": "Named blood relation as a legal and moral category, not merely a biological fact — consanguinity created obligations.",
     "usage": "They were consanguine, which the law treated as a fact and they treated as a complication."
+  },
+  {
+    "word": "contumely",
+    "pronunciation": "KON-tyoo-mə-lee",
+    "era": "Classical Borrowing",
+    "category": "The Malicious",
+    "definition": "Insulting language or treatment; contempt expressed with maximum deliberateness; the insolence of someone who intends to humiliate.",
+    "lost": "Named contempt as a performance — contumely is not merely feeling superior but demonstrating it, which requires an audience and a target and a certain kind of calculation.",
+    "usage": "He bore the contumely with a stillness that was either dignity or suppressed fury, and nobody present was sure which."
   },
   {
     "word": "coper",
@@ -612,6 +747,15 @@
     "usage": "The crepitation of the burning papers was the only sound in the room for a long time."
   },
   {
+    "word": "crepuscular",
+    "pronunciation": "kreh-PUS-kyoo-lər",
+    "era": "Classical Borrowing",
+    "category": "The Dark",
+    "definition": "Of, relating to, or resembling twilight; active at dusk or dawn; of creatures and people who belong to the half-light.",
+    "lost": "Named the creature of neither darkness nor day — crepuscular animals emerge at the margins, at the hours when the world is between states, which is a specific ecological and philosophical position.",
+    "usage": "He was crepuscular by nature — most alive in the hours that didn't belong to either end of the day."
+  },
+  {
     "word": "crepuscule",
     "pronunciation": "kreh-PUS-kyool",
     "era": "Middle English",
@@ -642,7 +786,7 @@
     "word": "dandiprat",
     "pronunciation": "DAN-dih-prat",
     "era": "Early Modern English",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "A small, insignificant person; a pert little fellow; originally a small coin of negligible value.",
     "lost": "Named insignificance with a specific contempt — a dandiprat is not merely small but trivially so, worth about threepence.",
     "usage": "Some dandiprat from the counting house had been given the contract, and no one could explain why."
@@ -664,6 +808,15 @@
     "definition": "A jackdaw; by extension, a chattering, thieving simpleton — the bird lent its character to the insult.",
     "lost": "Named the bird and the person it resembled in one syllable — daw understood that jackdaws and certain people share an acquisitiveness and a noise.",
     "usage": "He was a daw in a magistrate's coat; everyone knew it, and the knowledge changed nothing."
+  },
+  {
+    "word": "dead reckoning",
+    "pronunciation": "DED REK-ə-ning",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "Navigation by calculation of position from a known starting point, using speed, heading, and elapsed time, without reference to fixed external points; trusting what you know to find where you are.",
+    "lost": "Named the navigator's commitment to inference — dead reckoning is knowledge arrived at without landmarks, by following your own calculations through the dark. The 'dead' is likely 'ded' — deduced. You reckon your position because you have no other means of knowing it.",
+    "usage": "She had been navigating by dead reckoning for months, and was only now beginning to suspect she had made an error early on that the subsequent calculations had faithfully preserved."
   },
   {
     "word": "deadlight",
@@ -828,6 +981,15 @@
     "usage": "The river rose, and eftsoons the lower fields were lost again."
   },
   {
+    "word": "eke",
+    "pronunciation": "eek",
+    "era": "Old English",
+    "category": "The Speaking",
+    "definition": "Also; in addition; likewise — a word of addition that has survived only in 'to eke out,' where it means to supplement, having dropped its function as a simple conjunction.",
+    "lost": "Eke was the also of Old and Middle English — a word used so constantly that its loss represents a significant restructuring of how the language joins thoughts together. We eke out resources now but no longer eke out a sentence.",
+    "usage": "And eke the night was cold, and eke the fire was low, and eke there was no reason to expect the morning to improve matters."
+  },
+  {
     "word": "eldritch",
     "pronunciation": "EL-drich",
     "era": "Early Modern English",
@@ -835,6 +997,15 @@
     "definition": "Weird, uncanny, and otherworldly; having a quality of supernatural strangeness; the specific uncanniness of something from outside the known.",
     "lost": "Named the specific register of supernatural strangeness that weird has since absorbed — eldritch was stranger than strange, the quality of things that did not obey the same rules.",
     "usage": "An eldritch quality to the light at the edge of the wood that made them slow down before they had identified why."
+  },
+  {
+    "word": "elsewhither",
+    "pronunciation": "ELS-hwith-ər",
+    "era": "Old English",
+    "category": "The Wandering",
+    "definition": "To some other place; in the direction of somewhere other than here; the destination that is defined entirely by its difference from where you are.",
+    "lost": "Named the direction of departure without specifying the destination — elsewhither is the heading you take when you know what you're leaving better than where you're going, which is the most honest description of many journeys.",
+    "usage": "He went elsewhither after the trial, and those who knew him were content not to know exactly where elsewhither was."
   },
   {
     "word": "emmet",
@@ -849,7 +1020,7 @@
     "word": "encomium",
     "pronunciation": "en-KOH-mee-əm",
     "era": "Classical Borrowing",
-    "category": "The Speaking",
+    "category": "The Ceremonial",
     "definition": "A formal speech or piece of writing in praise of a person or thing.",
     "lost": "Gave praise a structure and a cost — an encomium was a performance you prepared, not a comment you left.",
     "usage": "The encomium ran to forty minutes and the subject of it sat looking increasingly uncomfortable."
@@ -871,6 +1042,24 @@
     "definition": "A profound, listless tedium; the boredom of those who have everything and find it insufficient; spiritual vacancy dressed as sophistication.",
     "lost": "Named the specific boredom of surplus — ennui is not the boredom of the poor, who cannot afford it, but the boredom of those who have run out of wanting things, which is its own kind of poverty.",
     "usage": "An ennui had settled over the party by ten that no amount of music or drink could quite dispel."
+  },
+  {
+    "word": "ephemeral",
+    "pronunciation": "eh-FEM-ər-əl",
+    "era": "Classical Borrowing",
+    "category": "The Bodied",
+    "definition": "Lasting only a very short time; transient; existing for a day — from the Greek for 'lasting a day,' applied to flowers, insects, and joys that refuse to hold.",
+    "lost": "We kept ephemeral but converted it to a vague synonym for brief — the original sense was precise, one day, which gave transience a specific measure. The mayfly lives one day; that is not the same as 'not long.'",
+    "usage": "The cherry blossom was ephemeral in the strict sense — four days from opening to falling, which was either enough or not depending on what you had expected from a tree."
+  },
+  {
+    "word": "ephemeris",
+    "pronunciation": "eh-FEM-ər-is",
+    "era": "Classical Borrowing",
+    "category": "The Reckoning",
+    "definition": "A table giving the calculated positions of celestial bodies at regular intervals; a diary or journal; a record of the movements of things that move according to laws that can be known in advance.",
+    "lost": "Named the almanac of the sky — an ephemeris is a document of future positions, the heavens written down in advance, which assumes that the movements of stars are knowable and therefore that time is, at least in part, a solved problem.",
+    "usage": "He consulted the ephemeris each morning not from any navigational need but from the same impulse that made some people read the news — a desire to know what position the world had reached."
   },
   {
     "word": "errantry",
@@ -909,6 +1098,15 @@
     "usage": "The ewery boy had filled the basins before the guests arrived, which was noticed only when he had failed to do it, which was how most domestic work was noticed."
   },
   {
+    "word": "execration",
+    "pronunciation": "ek-sih-KRAY-shən",
+    "era": "Classical Borrowing",
+    "category": "The Malicious",
+    "definition": "A formal curse; the act of denouncing with extreme hatred; an expression of loathing that invokes evil on its object.",
+    "lost": "Named cursing as a serious performative act — an execration was not an expletive but a ceremony, a deliberate calling-down of evil that required real hatred to perform.",
+    "usage": "She departed with an execration that cleared the hallway and was heard, it was later said, from the floor below."
+  },
+  {
     "word": "fain",
     "pronunciation": "fayn",
     "era": "Old English",
@@ -927,6 +1125,15 @@
     "usage": "They found the fane in the wood long before they found the village it had served."
   },
   {
+    "word": "fathom",
+    "pronunciation": "FATH-əm",
+    "era": "Old English",
+    "category": "The Nautical",
+    "definition": "A unit of depth equal to six feet; the span of two outstretched arms; to measure depth with a lead line. To fathom something is to measure it at depth, which is why comprehension borrowed the word.",
+    "lost": "The word did double duty from the start — fathom was both the measurement and the act of measuring, and from there it moved to understanding, because grasping the depth of something is what comprehension means. The nautical origin of 'I can't fathom it' is almost entirely forgotten.",
+    "usage": "The leadsman called the fathoms from the chains as they came into the anchorage, and the ship slowed to hear the numbers."
+  },
+  {
     "word": "fealty",
     "pronunciation": "FEE-əl-tee",
     "era": "Middle English",
@@ -943,6 +1150,15 @@
     "definition": "Fierce, cruel, deadly; of a wound, blow, or creature: capable of killing; of a person or purpose: ruthlessly vicious.",
     "lost": "We kept fell in 'one fell swoop' — one of the most famous dead metaphors in English, carrying a word almost nobody can define. Fell meant deadly and it still does, if you know.",
     "usage": "He had a fell efficiency about him that made people very polite and very careful to give him no cause for complaint."
+  },
+  {
+    "word": "feral",
+    "pronunciation": "FAIR-əl",
+    "era": "Classical Borrowing",
+    "category": "The Creaturely",
+    "definition": "Existing in a wild state, especially after escape from captivity or domestication; having reverted to wildness; belonging again to the world that domestication had temporarily removed it from.",
+    "lost": "Named the return to nature as a condition rather than a journey — a feral animal is not simply wild but specifically once-domestic, which gives its wildness a different character than animals that were never tame.",
+    "usage": "The cats had been feral for two generations, and taming them was not a project anyone had attempted since the third one left a scar."
   },
   {
     "word": "fetch",
@@ -990,6 +1206,24 @@
     "usage": "A flaggy August afternoon, the kind that made the horses irritable and the children fall asleep in unexpected places."
   },
   {
+    "word": "flitch",
+    "pronunciation": "flich",
+    "era": "Old English",
+    "category": "The Domestic",
+    "definition": "A side of cured bacon; the salted and smoked half of a pig preserved for the winter; food as architecture, the built resource that would keep the household fed.",
+    "lost": "Named the preserved side of pork as a unit of provision — a flitch hanging in the larder was a specific quantity of future meals, the household's relationship with a single animal calculated out over months.",
+    "usage": "There were two flitches in the larder and root vegetables enough for January; after that it would depend on what the market offered."
+  },
+  {
+    "word": "flotsam",
+    "pronunciation": "FLOT-səm",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "Wreckage of a ship or its cargo found floating at sea; goods lost from a vessel and recovered. Distinguished from jetsam — flotsam floats without having been thrown.",
+    "lost": "One half of the compound 'flotsam and jetsam' — but only flotsam has survived as a standalone word for debris and remnant. Jetsam was what was thrown overboard deliberately to lighten a ship in distress; flotsam was what escaped without being thrown. The distinction between what we discard and what we lose matters and the language once kept it.",
+    "usage": "The flotsam of the wreck had been washing up on the beach for weeks, which was how they knew the ship had not made it."
+  },
+  {
     "word": "foray",
     "pronunciation": "FOR-ay",
     "era": "Middle English",
@@ -1020,7 +1254,7 @@
     "word": "forsooth",
     "pronunciation": "for-SOOTH",
     "era": "Old English",
-    "category": "The Speaking",
+    "category": "The Ceremonial",
     "definition": "In truth; indeed — used to introduce a statement offered as simple fact, with the minor force of insisting that what follows is not debatable, not embellished, merely so.",
     "lost": "\"Indeed\" is affirmation. Forsooth is a small declaration — what follows is offered as truth without apology.",
     "usage": "\"Forsooth, he was there before any of us arrived,\" said the innkeeper, and was believed."
@@ -1125,6 +1359,15 @@
     "usage": "A frore morning, the kind where breath preceded you in a cloud and the puddles cracked underfoot like thin pottery."
   },
   {
+    "word": "froward",
+    "pronunciation": "FROH-wərd",
+    "era": "Old English",
+    "category": "The Speaking",
+    "definition": "Turned away from what is right; self-willed; habitually contrary; resistant to guidance or authority in a quiet, settled way.",
+    "lost": "Named a specific kind of stubbornness — froward is not the rebellion of passion but the refusal of someone who has decided and cannot be moved, which is a different and more difficult thing.",
+    "usage": "The child was froward in a way that was difficult to punish because it was never loud, never obvious, just persistently, quietly not what was asked."
+  },
+  {
     "word": "fulgent",
     "pronunciation": "FUL-jənt",
     "era": "Classical Borrowing",
@@ -1146,7 +1389,7 @@
     "word": "fustian",
     "pronunciation": "FUS-chən",
     "era": "Middle English",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "Pompous, inflated, empty language; writing that mistakes weight for substance.",
     "lost": "Named a specific failure of prose — fustian is language that has dressed up without having anything to say.",
     "usage": "The report was pure fustian: twelve pages of impressive vocabulary covering an absence of conclusion."
@@ -1188,13 +1431,31 @@
     "usage": "The garderobe was positioned over the outer wall, which solved one problem and created another for anyone approaching from the east."
   },
   {
+    "word": "gardyloo",
+    "pronunciation": "gar-dee-LOO",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A warning cry shouted before throwing slops or waste water from an upper window into the street below; from the French 'garde à l'eau' — look out for the water.",
+    "lost": "Named the specific social contract of the pre-drainage city — gardyloo was the one moment of courtesy in an otherwise uncourteous act, the cry that gave pedestrians below a chance to step aside before the contents of the chamber pot arrived.",
+    "usage": "The cry of gardyloo from three floors up gave him just enough time to press himself against the wall, which was the only dignity the street afforded."
+  },
+  {
     "word": "gasconade",
     "pronunciation": "gas-kuh-NAYD",
     "era": "Early Modern English",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "Extravagant boasting; vainglorious bravado; the kind of boasting associated with Gascons, who were considered the most boastful people in France.",
     "lost": "Named boasting by its regional type — gasconade understood that there were grades of self-praise and the Gascon register was the highest, which the Gascons themselves might have agreed was a compliment.",
     "usage": "His account of the battle was pure gasconade; the men who had been there listened without expression until he finished."
+  },
+  {
+    "word": "gelicide",
+    "pronunciation": "JEL-ih-syd",
+    "era": "Early Modern English",
+    "category": "The Weather",
+    "definition": "A frost; the killing cold that comes at night and undoes what the day was growing; ice formed from the quiet ambition of cold air.",
+    "lost": "Named frost as an act rather than a condition — the word contains the violence implicit in a killing frost, the specific malice of cold arriving when things are vulnerable.",
+    "usage": "A gelicide in early May that the almanac had not predicted and that took half the orchards on the south-facing slopes."
   },
   {
     "word": "glamour",
@@ -1276,6 +1537,15 @@
     "definition": "Direct spiritual knowledge received rather than learned; knowing as revelation, not study.",
     "lost": "Named the epistemological category that education cannot produce — the thing you suddenly know without having been taught.",
     "usage": "It was not something she could explain; it arrived as gnosis, complete and uninvited."
+  },
+  {
+    "word": "gramercy",
+    "pronunciation": "grə-MER-see",
+    "era": "Middle English",
+    "category": "The Ceremonial",
+    "definition": "An exclamation of gratitude or surprise; great thanks; from the French 'grand merci' — the full-bodied precursor to the word mercy itself.",
+    "lost": "Named gratitude as an exclamation rather than a statement — gramercy was something you said before you had composed yourself, the first word of relief or thanks before the formal sentence arrived.",
+    "usage": "Gramercy, she said, taking both his hands, and he understood that the word was meant to cover more than the umbrella."
   },
   {
     "word": "grimalkin",
@@ -1440,6 +1710,15 @@
     "usage": "Nothing heretofore had prepared him for the specific quality of that silence."
   },
   {
+    "word": "hight",
+    "pronunciation": "hyt",
+    "era": "Old English",
+    "category": "The Ceremonial",
+    "definition": "Named; called — the archaic passive of 'to call.' Also: to command or summon by name. A person hight so-and-so is a person bearing that name in a world where names still carried weight.",
+    "lost": "Named naming as a bestowing rather than a labelling — to be hight something was to be called it in a way that meant it, which is a different relationship between person and name than the modern one.",
+    "usage": "He was hight Ironhand by those who had seen him at the gate, and the name followed him after the gate had been rebuilt."
+  },
+  {
     "word": "hinterland",
     "pronunciation": "HIN-tər-land",
     "era": "Late Modern English",
@@ -1494,10 +1773,19 @@
     "usage": "He had borrowed the money on the ides and the ides had come again three times without repayment, which had become its own kind of answer."
   },
   {
+    "word": "ignis fatuus",
+    "pronunciation": "IG-nis FAT-yoo-əs",
+    "era": "Classical Borrowing",
+    "category": "The Luminous",
+    "definition": "A will-o'-the-wisp; a phosphorescent light seen over marshes and bogs; a delusive hope or goal — literally 'foolish fire,' the light that leads travellers astray.",
+    "lost": "Named the light that lies — ignis fatuus is luminescence with malicious intent, or at least with the effect of malice, leading those who follow it away from the path and into the bog.",
+    "usage": "The project had become an ignis fatuus, drawing more effort and capital each quarter toward a horizon that kept moving."
+  },
+  {
     "word": "imprecation",
     "pronunciation": "im-preh-KAY-shən",
     "era": "Classical Borrowing",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "A spoken curse; the act of calling down evil or harm through deliberate utterance.",
     "lost": "Distinguished the curse as a performative speech act from the harm it invokes — an imprecation is a thing you do with your mouth.",
     "usage": "She left without violence, but the imprecation she murmured at the threshold was heard by three people."
@@ -1533,7 +1821,7 @@
     "word": "indite",
     "pronunciation": "in-DYT",
     "era": "Middle English",
-    "category": "The Speaking",
+    "category": "The Ceremonial",
     "definition": "To compose or write; to set down in literary form; to dictate the terms of a written text.",
     "lost": "Named writing as a compositional act distinct from mere transcription — to indite is to give form, not just to record.",
     "usage": "She indited the letter herself, which was unusual, and the handwriting showed it."
@@ -1551,10 +1839,19 @@
     "word": "inveigh",
     "pronunciation": "in-VAY",
     "era": "Early Modern English",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "To speak or write against with great bitterness; to rail; to pour sustained verbal hostility onto a subject.",
     "lost": "Named criticism at the level of sustained attack — inveigh is not a complaint or a critique but a campaign, speech as siege.",
     "usage": "He inveighed against the proposal for forty minutes and convinced no one, which he had expected."
+  },
+  {
+    "word": "invocation",
+    "pronunciation": "in-voh-KAY-shən",
+    "era": "Classical Borrowing",
+    "category": "The Ceremonial",
+    "definition": "The act of calling upon a deity, spirit, or authority for assistance; a prayer or formula used to summon a presence or power.",
+    "lost": "Named the opening gesture of the sacred — an invocation is speech that calls something into the room, that asks a presence to attend, which is a specific and serious use of voice.",
+    "usage": "The invocation was brief and the gathering, who had expected something longer, shifted slightly in their seats as the silence that followed it settled."
   },
   {
     "word": "irradiate",
@@ -1573,6 +1870,24 @@
     "definition": "Traveling from place to place without fixed habitation; defined by motion rather than destination.",
     "lost": "Named the condition of permanent transit — an itinerant is not between places but has made transit itself the address.",
     "usage": "He had been itinerant so long that the question of where he lived produced a small, rehearsed hesitation."
+  },
+  {
+    "word": "iwis",
+    "pronunciation": "ih-WIS",
+    "era": "Old English",
+    "category": "The Ceremonial",
+    "definition": "Surely; certainly; indeed — an emphatic affirmation that was heard as 'I wis' and eventually misread as a first-person verb, which is how it vanished.",
+    "lost": "The word was undone by a misprint — scribes began reading 'iwis' as 'I wis' (I know), and the original meaning was lost in the confusion. A word killed by its own ambiguity.",
+    "usage": "Iwis, there was never a man more certain of his own error than he was of his own wisdom, which came to the same thing in the end."
+  },
+  {
+    "word": "jetsam",
+    "pronunciation": "JET-səm",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "Goods thrown overboard from a ship in distress to lighten the load; cargo deliberately sacrificed to save the vessel. Distinguished from flotsam — jetsam was chosen, thrown, abandoned on purpose.",
+    "lost": "Named the act of deliberate abandonment in emergency — jetsam is what you decide to lose in order to save what remains. The choice between flotsam and jetsam is the choice between loss that happens to you and loss that you choose, which is not a small distinction.",
+    "usage": "He had shed everything in the last two years — job, flat, most of his friendships — and he was still not sure whether it was flotsam or jetsam, lost or thrown."
   },
   {
     "word": "kedge",
@@ -1600,6 +1915,15 @@
     "definition": "Knowing; the range of one's knowledge or sight; the distance at which something can be recognised — before it became a poetic compound.",
     "lost": "Named knowing as a distance — kenning was originally how far you could see and know, which is a spatial understanding of epistemology that the modern word has entirely abandoned.",
     "usage": "Beyond his kenning lay a stretch of coast he had heard described but never seen, and the descriptions had disagreed."
+  },
+  {
+    "word": "kexy",
+    "pronunciation": "KEK-see",
+    "era": "Middle English",
+    "category": "The Weather",
+    "definition": "Dry, brittle, withered — of plant matter in late autumn or drought; the quality of things that crackle and break rather than bend.",
+    "lost": "Named the specific texture of dying vegetation — kexy is the sound and feel of things that have given up moisture entirely, that exist now only as structure without life.",
+    "usage": "The garden was kexy by August, every stem rattling in the slightest wind, the ground cracking in lines between the beds."
   },
   {
     "word": "kine",
@@ -1638,6 +1962,15 @@
     "usage": "The knell began before they reached the church, which meant the news had arrived before them."
   },
   {
+    "word": "lagniappe",
+    "pronunciation": "LAN-yap",
+    "era": "Borrowed",
+    "category": "The Reckoning",
+    "definition": "A small gift given to a customer with a purchase; something given or obtained gratuitously; the extra thing that arrives beyond expectation.",
+    "lost": "Named generosity as a commercial practice — the lagniappe was the baker's dozen extra, the small token that acknowledged the relationship rather than just the transaction, which is a specific understanding of commerce as social act.",
+    "usage": "The bookseller always tucked a card in with the order — some passage from a book she thought you might not have read — and this lagniappe was why people kept coming back."
+  },
+  {
     "word": "lambent",
     "pronunciation": "LAM-bənt",
     "era": "Classical Borrowing",
@@ -1665,6 +1998,15 @@
     "usage": "The admiral's lanthorn burned all night, and the fleet steered by it, and when it was extinguished at dawn the lookouts knew to find another reference."
   },
   {
+    "word": "lares",
+    "pronunciation": "LAH-rayz",
+    "era": "Classical Borrowing",
+    "category": "The Domestic",
+    "definition": "The household gods of the ancient Romans; the spirits of dead ancestors believed to protect the family home; the sacred presences that made a house into a home.",
+    "lost": "Named the domestic divine — lares were the ancestors who had become the house itself, who existed as a protective presence in the walls and the hearth. The phrase 'lares and penates' for household goods keeps the word, but the sacred inhabitants have left.",
+    "usage": "She kept her lares in a small shelf above the fireplace — photographs, two objects, nothing that needed explanation to someone who understood what the shelf was for."
+  },
+  {
     "word": "lassitude",
     "pronunciation": "LAS-ih-tyood",
     "era": "Classical Borrowing",
@@ -1672,6 +2014,24 @@
     "definition": "Physical or mental weariness; exhaustion that goes deeper than sleep can reach.",
     "lost": "Distinguished exhaustion from tiredness — lassitude is not solved by rest, which is why it requires its own word.",
     "usage": "A lassitude had settled into her bones that she recognized as something other than lack of sleep."
+  },
+  {
+    "word": "latibule",
+    "pronunciation": "LAT-ih-byool",
+    "era": "Early Modern English",
+    "category": "The Wandering",
+    "definition": "A hiding place; a refuge concealed from the world; any shelter that is also a secret.",
+    "lost": "Named the hiding place as a specific kind of space — a latibule is not merely concealed but deliberately so, a place you have chosen and fitted to your need for invisibility.",
+    "usage": "She had a latibule in the library that no one had found in forty years of looking, which says something about how little they looked."
+  },
+  {
+    "word": "laud",
+    "pronunciation": "lawd",
+    "era": "Middle English",
+    "category": "The Ceremonial",
+    "definition": "To praise; to extol; to express deep admiration in formal terms. Also: the canonical hour of morning prayer.",
+    "lost": "We kept laudatory but lost the verb — to laud something was to perform praise, not merely feel it, which is a distinction the modern word has abandoned.",
+    "usage": "She was lauded at the ceremony with a thoroughness that suggested they had been planning it for some time."
   },
   {
     "word": "lee",
@@ -1690,6 +2050,15 @@
     "definition": "A physician or healer; one skilled in the medical arts; a doctor before that word carried its current authority.",
     "lost": "We kept leech only as the worm — lost the healer, kept the parasite, which says something about how medicine evolved.",
     "usage": "The leech came at dawn and spent an hour in silence before pronouncing, unhelpfully, that time would tell."
+  },
+  {
+    "word": "leeway",
+    "pronunciation": "LEE-way",
+    "era": "Early Modern English",
+    "category": "The Nautical",
+    "definition": "The sideways drift of a ship caused by wind and current; the distance a vessel is set off her course by forces she cannot control. Hence: the margin of freedom allowed within constraints.",
+    "lost": "The phrase 'give me leeway' survives; the origin drowns. A ship making leeway is being pushed sideways off her course by wind and tide — she is going where she pointed but also somewhere else, which is an exact description of most human plans.",
+    "usage": "He needed leeway on the deadline, he said, which was nautically honest — he knew which direction he was meant to go, he just couldn't control what was pushing him sideways."
   },
   {
     "word": "leveret",
@@ -1746,6 +2115,15 @@
     "usage": "She moved with a lissom ease through the rigging that made the new hands stare."
   },
   {
+    "word": "litany",
+    "pronunciation": "LIT-ə-nee",
+    "era": "Middle English",
+    "category": "The Ceremonial",
+    "definition": "A series of petitions recited by a leader with responses from a congregation; any tedious, prolonged recitation — the sacred and the exasperated using the same word.",
+    "lost": "Named the call-and-response structure of formal prayer — a litany has rhythm, repetition, and a specific relationship between one voice and many, which is both liturgical technique and, eventually, a term for anything that goes on too long.",
+    "usage": "His complaints had become a litany she could have recited herself, which was how she knew it was time to make a change."
+  },
+  {
     "word": "logodaedaly",
     "pronunciation": "log-oh-DEED-ah-lee",
     "era": "Early Modern English",
@@ -1753,6 +2131,15 @@
     "definition": "Skill or cunning in the use and arrangement of words; verbal craft; the quality of a writer or speaker who shapes language with the same precision a carpenter gives to wood.",
     "lost": "\"Wordsmith\" is a metaphor of manufacture. Logodaedaly names the specific skill — the cunning, the architecture, the knowing use of the instrument.",
     "usage": "His logodaedaly was such that you only noticed, afterward, that you had been led."
+  },
+  {
+    "word": "longueur",
+    "pronunciation": "lon-GER",
+    "era": "Borrowed",
+    "category": "The Wandering",
+    "definition": "A tedious passage; a period of dullness during a journey, performance, or relationship — the stretch where time slows and nothing of consequence happens.",
+    "lost": "Named the boring part precisely — a longueur is not mere boredom but the boring section of something that has better parts, the dead stretch of an otherwise worthwhile journey.",
+    "usage": "The third act had longueurs that the audience endured with varying degrees of grace, and the interval was welcomed with more feeling than was usual."
   },
   {
     "word": "loom",
@@ -1800,6 +2187,15 @@
     "usage": "The footnotes bore all the marks of late lucubration: precise, exhaustive, and slightly unhinged."
   },
   {
+    "word": "lugent",
+    "pronunciation": "LOO-jənt",
+    "era": "Early Modern English",
+    "category": "The Spent",
+    "definition": "Weeping; mourning; in a state of expressed grief — not grief contained but grief made visible in the face and the voice.",
+    "lost": "Named grief at its most legible — lugent is not sorrow kept private but sorrow that shows, that cannot be composed, that has taken over the face and the posture.",
+    "usage": "The lugent faces at the station told the new arrivals what the telegraph had not yet carried to their town."
+  },
+  {
     "word": "lurid",
     "pronunciation": "LYOOR-id",
     "era": "Classical Borrowing",
@@ -1812,19 +2208,37 @@
     "word": "malapert",
     "pronunciation": "MAL-ə-pert",
     "era": "Middle English",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "Presumptuously bold; impudent in a way that exceeds one's station; forward without warrant.",
     "lost": "Named the specific social crime of speaking above yourself — malapert is impudence calibrated to hierarchy, a word that required a class system to mean anything.",
     "usage": "The boy was malapert in a way his father had been too, and the resemblance was not flattering."
   },
   {
+    "word": "malediction",
+    "pronunciation": "mal-ə-DIK-shən",
+    "era": "Classical Borrowing",
+    "category": "The Malicious",
+    "definition": "A spoken curse; the utterance of evil wishes against a person; the formal opposite of a benediction.",
+    "lost": "Named the curse as speech act, the deliberate opposite of blessing — a malediction had the same structure as a prayer but inverted, which gave it a specific kind of weight.",
+    "usage": "The malediction was delivered quietly, which was worse than shouting, because it had clearly been considered."
+  },
+  {
     "word": "malison",
     "pronunciation": "MAL-ih-zən",
     "era": "Middle English",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "A curse; a formal invocation of evil upon a person; the opposite of a benison.",
     "lost": "Named the curse as a performed speech act with moral weight — a malison was not an oath but a prayer directed downward.",
     "usage": "She left without violence, but the malison she whispered at the gate was heard by enough people that it traveled."
+  },
+  {
+    "word": "mangon",
+    "pronunciation": "MANG-ən",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A military engine for hurling large stones; a siege weapon that converted torsion or counterweight into projectile force; the machine that made stone walls negotiable.",
+    "lost": "Named the technology that changed what architecture meant — a mangon made walls temporary things, subject to sufficient patience and the right lever arm. The word is gone but the engineering principle remains in every modern weapon.",
+    "usage": "They brought up three mangons on the third day, which told the castellan that the besiegers had decided on a longer timeline than he had hoped."
   },
   {
     "word": "manumit",
@@ -1843,6 +2257,24 @@
     "definition": "The borderlands between two territories; the disputed or lawless zone where one sovereignty ends and another is uncertain; land defined by its adjacency to elsewhere.",
     "lost": "Named the border as a territory in its own right — the marches were not a line but a region, a zone of ambiguous jurisdiction with its own culture of accommodation and violence.",
     "usage": "In the marches the law of neither kingdom ran with confidence, which suited some residents better than others."
+  },
+  {
+    "word": "maugre",
+    "pronunciation": "MAW-gər",
+    "era": "Middle English",
+    "category": "The Speaking",
+    "definition": "In spite of; notwithstanding; despite — used to acknowledge an obstacle and announce that it does not matter.",
+    "lost": "Despite is apologetic; maugre is defiant. The word acknowledged the opposition directly and dismissed it in the same breath, which is a different rhetorical act.",
+    "usage": "Maugre the weather and the road and the advice of everyone who knew anything about the matter, they went anyway, and arrived."
+  },
+  {
+    "word": "mayhap",
+    "pronunciation": "MAY-hap",
+    "era": "Middle English",
+    "category": "The Speaking",
+    "definition": "Perhaps; it may happen that — a cousin to peradventure, lighter in register, closer to everyday speech.",
+    "lost": "Perhaps arrived from French and pushed out the native stock — mayhap, maybe, mayhaps, haply, peradventure all named possibility with slightly different weights before perhaps consolidated everything into one neutral word.",
+    "usage": "Mayhap she'll come, mayhap she won't, he said, which was either wisdom or evasion and served equally well as both."
   },
   {
     "word": "meander",
@@ -1908,6 +2340,15 @@
     "usage": "The mirk of the close swallowed him before he reached the second door."
   },
   {
+    "word": "misqueme",
+    "pronunciation": "mis-KWEEM",
+    "era": "Middle English",
+    "category": "The Speaking",
+    "definition": "To displease; to offend; to fail to please in a way that carries some moral weight — not merely to disappoint but to fall short of what was owed.",
+    "lost": "Named displeasure as a relational failure — to misqueme someone was to fail them in a specific way, to produce in them a response that your actions had not been adequate to prevent.",
+    "usage": "If I misqueme you in this, I ask only that you say so plainly, which would be more useful than what I suspect you will do instead."
+  },
+  {
     "word": "mizzle",
     "pronunciation": "MIZ-əl",
     "era": "Middle English",
@@ -1924,6 +2365,15 @@
     "definition": "A mole; literally the earth-thrower; the creature that inverts the ground as casually as turning a page.",
     "lost": "Named the mole by what it does rather than what it is — moldwarp understands the animal as verb, as action, as geological force at small scale.",
     "usage": "The lawn was riddled with moldwarp hills by morning, each one a small, perfect uprising."
+  },
+  {
+    "word": "montivagant",
+    "pronunciation": "mon-TIV-ə-gənt",
+    "era": "Early Modern English",
+    "category": "The Wandering",
+    "definition": "Wandering over hills and mountains; one who roams the high ground by preference rather than necessity.",
+    "lost": "Named the upland wanderer by their terrain rather than their motion — a montivagant is defined by where they go, and where they go is high, which implies a relationship to altitude that the word encodes without explaining.",
+    "usage": "He had been montivagant since youth and regarded valleys with the mild suspicion of someone who prefers to see what is coming."
   },
   {
     "word": "moribund",
@@ -1944,6 +2394,15 @@
     "usage": "On the morrow they would go; tonight they ate and did not speak of it."
   },
   {
+    "word": "mowburnt",
+    "pronunciation": "MOH-bernt",
+    "era": "Middle English",
+    "category": "The Weather",
+    "definition": "Of crops or hay, spoiled by becoming overheated in the stack; damaged not by fire from outside but by the slow internal combustion of stored vegetation.",
+    "lost": "Named a specific agricultural disaster — mowburnt hay was ruined from within, by its own heat and moisture, which made it a loss that was hard to see coming and impossible to stop once begun.",
+    "usage": "Half the winter fodder was mowburnt by October, which meant the calculation about the livestock had to be made earlier than anyone wanted."
+  },
+  {
     "word": "mundivagant",
     "pronunciation": "mun-DIV-ah-gant",
     "era": "Classical Borrowing",
@@ -1960,6 +2419,15 @@
     "definition": "Thick darkness and obscuring mist together; weather that is both dark and obscured; the compound failure of light and visibility.",
     "lost": "Darker than fog, colder than dark — murk is the specific atmospheric condition in which you cannot see and cannot trust what you cannot see.",
     "usage": "They waited for the murk to lift, and when it didn't they went anyway, which was when the trouble started."
+  },
+  {
+    "word": "murklins",
+    "pronunciation": "MER-klinz",
+    "era": "Middle English",
+    "category": "The Dark",
+    "definition": "In the dark; blindly; groping through darkness without a light and without certainty of what the darkness contains.",
+    "lost": "Named moving in darkness as a specific mode of travel — murklins is darkness experienced from inside it, the dark as a medium you move through rather than a condition you observe.",
+    "usage": "She went murklins to the kitchen at three in the morning and found, by the sound it made, that the cat had knocked the good glasses from the shelf."
   },
   {
     "word": "murmuration",
@@ -1987,6 +2455,15 @@
     "definition": "A confused, hand-to-hand fight involving many combatants; the breakdown of formation into individual struggle.",
     "lost": "Named the moment when battle stops being tactical and becomes personal — the mêlée is war at its most intimate and most chaotic.",
     "usage": "Once the lines broke it was a mêlée, and in a mêlée training matters less than size and fury."
+  },
+  {
+    "word": "natheless",
+    "pronunciation": "NAY-thə-lis",
+    "era": "Old English",
+    "category": "The Speaking",
+    "definition": "Nevertheless; notwithstanding; none the less — but with more weight, as if the speaker is physically pushing against what has gone before.",
+    "lost": "Nevertheless is a long word doing a modest job; natheless is a short word doing the same job with more force. The length difference reverses the register of the modern word.",
+    "usage": "The evidence was entirely against the proposition; natheless, the jury returned for the defendant, and no one who knew the defendant was surprised."
   },
   {
     "word": "natter",
@@ -2097,6 +2574,15 @@
     "usage": "What the noctuary contained, he never shared with morning company."
   },
   {
+    "word": "nonce",
+    "pronunciation": "nons",
+    "era": "Middle English",
+    "category": "The Reckoning",
+    "definition": "The present time or occasion; the particular moment in question — 'for the nonce' meaning for now, for this specific occasion, without commitment to any other time.",
+    "lost": "Named the moment without extending it — the nonce is this occasion only, with no claim on what comes next. A nonce word is a word made for one specific use and not kept afterward, which is the purest expression of what the word means.",
+    "usage": "For the nonce, they agreed to disagree, which meant the disagreement was simply rescheduled rather than resolved."
+  },
+  {
     "word": "noontide",
     "pronunciation": "NOON-tyd",
     "era": "Old English",
@@ -2124,6 +2610,15 @@
     "usage": "The clearing was numinous in a way that discouraged investigation."
   },
   {
+    "word": "obloquy",
+    "pronunciation": "OB-lə-kwee",
+    "era": "Classical Borrowing",
+    "category": "The Malicious",
+    "definition": "Strong public condemnation; the state of being talked about with contempt; verbal abuse from many directions at once.",
+    "lost": "Named condemnation as a condition you inhabit rather than receive — obloquy is what surrounds a person when the community has turned its mouth against them.",
+    "usage": "She had survived the obloquy and come out the other side somewhat harder and considerably less interested in other people's opinions."
+  },
+  {
     "word": "offing",
     "pronunciation": "OFF-ing",
     "era": "Middle English",
@@ -2131,6 +2626,15 @@
     "definition": "The part of the visible sea beyond the harbour or coastal waters; the deep water a ship must reach before setting a course. In the offing: near enough to be seen, far enough not yet to have arrived.",
     "lost": "The phrase survived and the origin drowned — 'in the offing' means imminent, but the offing was a specific zone of water, the visible horizon of the deep sea, where ships appeared before they entered port. The imminence was literal first.",
     "usage": "A sail in the offing that none of them could identify, holding its distance through the afternoon until the light failed."
+  },
+  {
+    "word": "omen",
+    "pronunciation": "OH-mən",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "An event regarded as a portent of good or evil; a sign read as a message from the future; the world speaking in code.",
+    "lost": "Survived but diminished — omen now implies superstitution, a mild irony. In its original sense it was a serious category of evidence, the world offering information through coincidence and pattern to those trained to read it.",
+    "usage": "He was not a superstitious man, but the omen was so exact in its application that he found himself taking the longer road anyway."
   },
   {
     "word": "oneiric",
@@ -2142,6 +2646,15 @@
     "usage": "The whole morning had an oneiric quality; she checked, twice, that she was actually awake."
   },
   {
+    "word": "opprobrium",
+    "pronunciation": "ə-PROH-bree-əm",
+    "era": "Classical Borrowing",
+    "category": "The Malicious",
+    "definition": "Harsh public criticism; the disgrace attached to shameful conduct; a cause of shame — both the judgment and the condition it produces.",
+    "lost": "Named disgrace as a social verdict rather than a private feeling — opprobrium is what others say about you, which can outlast the act that caused it and attach to a name permanently.",
+    "usage": "The opprobrium attached to his name was still in circulation decades after the event, having by then entirely detached from any specific memory of what he had done."
+  },
+  {
     "word": "oracle",
     "pronunciation": "OR-ə-kəl",
     "era": "Classical Borrowing",
@@ -2149,6 +2662,15 @@
     "definition": "A priest or priestess through whom a deity speaks; the response given; any person or thing regarded as an infallible source of wisdom.",
     "lost": "Named the medium and the message in one word — an oracle is both the mouth and what the mouth says, the institution and its output, which is a useful conflation.",
     "usage": "She had become the oracle of the office in the way that competent people do: by being right often enough that being consulted became a habit."
+  },
+  {
+    "word": "orison",
+    "pronunciation": "OR-ih-zən",
+    "era": "Middle English",
+    "category": "The Ceremonial",
+    "definition": "A prayer; especially a private or personal prayer — not the liturgical form but the individual voice addressing the divine.",
+    "lost": "Prayer is the act; orison was the word — a prayer is a practice, but an orison is a specific utterance, one prayer said once, which is a more intimate and particular thing.",
+    "usage": "She said her orisons in the dark, quickly and without theatre, which seemed to her the more honest way."
   },
   {
     "word": "ossify",
@@ -2203,6 +2725,15 @@
     "definition": "A toad or frog; the amphibian in its older name, before paddock narrowed to mean only an enclosed field.",
     "lost": "The word survived but was evicted from its original meaning — a paddock in a field is now a piece of land, but it was once the creature that lived in the damp corners of it.",
     "usage": "She would not have a paddock killed; she said they kept the garden honest, and no one argued."
+  },
+  {
+    "word": "paean",
+    "pronunciation": "PEE-ən",
+    "era": "Classical Borrowing",
+    "category": "The Ceremonial",
+    "definition": "A song of praise or exultation; a joyful expression of thanks or triumph; originally a hymn to Apollo.",
+    "lost": "Named praise at its most musical and communal — a paean is not one person complimenting another but a collective utterance of joy, praise become a sound the room makes together.",
+    "usage": "The review was a paean to the production and somewhat less useful than something more mixed would have been."
   },
   {
     "word": "palavering",
@@ -2322,6 +2853,15 @@
     "usage": "His pennon was still flying when the rest of the field had broken, which was either courage or obstinacy and possibly both."
   },
   {
+    "word": "penumbra",
+    "pronunciation": "peh-NUM-brə",
+    "era": "Classical Borrowing",
+    "category": "The Luminous",
+    "definition": "The partial shadow at the edge of the total shadow; the zone between full light and full dark; the threshold of the umbra.",
+    "lost": "Named the margin between extremes — the penumbra is not darkness or light but the precise zone of transition, which has its own character and its own quality distinct from either end.",
+    "usage": "He existed in the penumbra of the scandal — not implicated but adjacent, not guilty but not entirely untouched."
+  },
+  {
     "word": "peradventure",
     "pronunciation": "per-ad-VEN-chər",
     "era": "Middle English",
@@ -2329,6 +2869,15 @@
     "definition": "Perhaps; possibly; by chance — a modal word that holds a door open without walking through it.",
     "lost": "Maybe is too casual; perhaps is too neutral; peradventure carried the weight of genuine uncertainty, as if the speaker understood what was at stake in not knowing.",
     "usage": "He had not come, and peradventure would not come, and she began to make her arrangements accordingly."
+  },
+  {
+    "word": "perambulate",
+    "pronunciation": "pər-AM-byoo-layt",
+    "era": "Classical Borrowing",
+    "category": "The Wandering",
+    "definition": "To walk through or around an area; to travel through on foot; to survey a boundary by walking it — the official inspection that becomes the casual stroll.",
+    "lost": "Named walking as a survey — to perambulate was originally to walk a boundary in order to know it, which gave walking the status of a legal and administrative act. The casual perambulation kept the word while losing the purpose.",
+    "usage": "He perambulated the estate each morning in a circuit that had not varied in thirty years, which told you something about both the estate and him."
   },
   {
     "word": "peregrinate",
@@ -2349,13 +2898,49 @@
     "usage": "She met every serious question with persiflage so fluid that you only realized the deflection after she'd left the room."
   },
   {
+    "word": "petrichor",
+    "pronunciation": "PET-rih-kor",
+    "era": "Late Modern English",
+    "category": "The Weather",
+    "definition": "The scent of rain on dry earth; the distinctive smell produced when rain falls on soil that has been dry; the olfactory signal of precipitation arriving.",
+    "lost": "Coined in 1964 from Greek — petros (stone) and ichor (the fluid that flows in the veins of the gods) — but named something ancient and familiar. That a smell this universal had to wait until 1964 for a word suggests how long we spent not attending to it.",
+    "usage": "The petrichor reached them before the rain did, and they had just enough time to bring the chairs in."
+  },
+  {
+    "word": "phantasm",
+    "pronunciation": "FAN-taz-əm",
+    "era": "Classical Borrowing",
+    "category": "The Dark",
+    "definition": "An illusion; a ghost; a mental image of something not present — the thing seen by the mind rather than the eye.",
+    "lost": "Named the image that arrives without an object — a phantasm is a perception without a source, vision producing what isn't there, which is the structure of both hallucination and memory.",
+    "usage": "The face was a phantasm she could not shake — appearing in mirrors, in windows, in the faces of strangers who did not know they were substituting for someone else."
+  },
+  {
     "word": "philippic",
     "pronunciation": "fih-LIP-ik",
     "era": "Classical Borrowing",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "A bitter, sustained verbal attack; a speech of denunciation.",
     "lost": "Named the register of formal verbal assault — a philippic is not an outburst but a prepared instrument.",
     "usage": "He delivered his philippic calmly, which made it considerably worse to receive."
+  },
+  {
+    "word": "philtrum",
+    "pronunciation": "FIL-trəm",
+    "era": "Classical Borrowing",
+    "category": "The Bodied",
+    "definition": "The vertical groove between the nose and upper lip; the specific indentation of the human face that has no modern vernacular name.",
+    "lost": "One of the few body parts that never acquired a common name — the philtrum has only its technical term, which most people don't know, which means there is a feature of every human face that cannot be pointed to with a common word.",
+    "usage": "She had a deep philtrum that made her look, at rest, as if she were about to say something important, which was either a gift or a burden depending on the occasion."
+  },
+  {
+    "word": "phosphorescence",
+    "pronunciation": "fos-foh-RES-əns",
+    "era": "Late Modern English",
+    "category": "The Luminous",
+    "definition": "Light emitted by a substance without combustion; a cold, sustained glow; luminescence that continues after the exciting source has been removed.",
+    "lost": "Named light that persists beyond its cause — phosphorescence is what glows after the energy has passed, light stored and slowly released, which is a different kind of luminosity from fire or electricity.",
+    "usage": "The phosphorescence in the wave crests made the night crossing beautiful in a way that was difficult to describe accurately afterward."
   },
   {
     "word": "pine",
@@ -2442,7 +3027,7 @@
     "word": "posy",
     "pronunciation": "POH-zee",
     "era": "Early Modern English",
-    "category": "The Speaking",
+    "category": "The Ceremonial",
     "definition": "A short motto or verse inscribed inside a ring or on a small gift; a concise text meant to be carried and reread.",
     "lost": "Named the personal inscription as a literary form — a posy was a poem reduced to its most portable size, intended to travel inside a piece of jewelry.",
     "usage": "The ring had a posy worn almost smooth: something beginning 'whilst I live' and ending with her name."
@@ -2520,6 +3105,15 @@
     "usage": "The psithurism was constant enough that it had taken on the quality of a voice just below comprehension."
   },
   {
+    "word": "puissant",
+    "pronunciation": "PYOO-ih-sənt",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "Powerful; of great force or authority; having strength that is recognized and respected rather than merely possessed.",
+    "lost": "Powerful describes capacity; puissant describes acknowledgment. A puissant lord was one whose power was known and understood by those who felt it.",
+    "usage": "He had once been puissant enough that people stood when he entered; what remained now was the habit of expecting it."
+  },
+  {
     "word": "pulchritude",
     "pronunciation": "PUL-krih-tyood",
     "era": "Classical Borrowing",
@@ -2541,7 +3135,7 @@
     "word": "quean",
     "pronunciation": "kween",
     "era": "Old English",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "An impudent or badly behaved girl or woman; a bold, forward female — not a queen, but its older, rougher cognate.",
     "lost": "Queen and quean were once two spellings of related words; queen rose and quean fell, which tells you everything about which qualities were rewarded.",
     "usage": "She was called a quean for the same behavior that would have earned a man a reputation for spirit."
@@ -2655,6 +3249,15 @@
     "usage": "He waited years for requital; when it came, it was more quiet than he had imagined."
   },
   {
+    "word": "revenant",
+    "pronunciation": "REV-ə-nənt",
+    "era": "Late Modern English",
+    "category": "The Dark",
+    "definition": "A person who returns from a long absence as if from the dead; a ghost; one who comes back changed enough that they seem to belong to neither world properly.",
+    "lost": "Named the return that disturbs — a revenant is not merely someone who went away and came back, but someone whose return is uncanny, who carries the elsewhere in them visibly.",
+    "usage": "He came back from the war a revenant — present in the house but not quite in the room, looking at things from a distance that no rearrangement of furniture could close."
+  },
+  {
     "word": "rheum",
     "pronunciation": "room",
     "era": "Middle English",
@@ -2736,6 +3339,15 @@
     "usage": "They made three sallies in the first week; by the fourth they lacked the men for it."
   },
   {
+    "word": "salutation",
+    "pronunciation": "sal-yoo-TAY-shən",
+    "era": "Classical Borrowing",
+    "category": "The Ceremonial",
+    "definition": "A gesture or utterance of greeting; the formal acknowledgment of another person's presence; hello understood as a ceremony.",
+    "lost": "Named greeting as a performed act — a salutation is not casual acknowledgment but a formal recognition, the meeting of two people conducted according to rules that say the meeting matters.",
+    "usage": "He gave the salutation of the order, which the stranger returned correctly, which changed the nature of the conversation entirely."
+  },
+  {
     "word": "sanative",
     "pronunciation": "SAN-ə-tiv",
     "era": "Classical Borrowing",
@@ -2752,6 +3364,15 @@
     "definition": "Blood-red in color; also: optimistic, confident, of a hopeful temperament — from the belief that blood was the humor of cheerfulness.",
     "lost": "Held the color and the character in the same word because they were once believed to share a cause — the loss of that connection drained both meanings.",
     "usage": "He was sanguine about the delay in a way that suggested he knew something the rest of them didn't."
+  },
+  {
+    "word": "saunter",
+    "pronunciation": "SAWN-tər",
+    "era": "Early Modern English",
+    "category": "The Wandering",
+    "definition": "To walk in a slow, idle manner without purpose or urgency; to move through space as if space were not the point. Thoreau derived it from 'sainte terre' — holy land — the pilgrim who walks toward something sacred.",
+    "lost": "Whether Thoreau's etymology is correct or not, it changed what the word meant — a saunterer became, in his reading, someone walking toward rather than without destination, which is either a beautiful redemption of aimlessness or an imposition of purpose where none existed.",
+    "usage": "He sauntered across the plaza in a way that suggested he had either nowhere to be or somewhere very good to be, and she couldn't tell which."
   },
   {
     "word": "scantling",
@@ -2826,6 +3447,15 @@
     "usage": "The collar of his coat was dusted with scurf, which he either hadn't noticed or had decided not to."
   },
   {
+    "word": "scurrility",
+    "pronunciation": "skuh-RIL-ih-tee",
+    "era": "Classical Borrowing",
+    "category": "The Malicious",
+    "definition": "Grossly offensive language; crude insult; low, foul verbal abuse that descends below the register of wit into something more basic.",
+    "lost": "Named insult at its least refined — scurrility is the verbal equivalent of throwing mud, abuse that has given up on being clever and just wants to soil.",
+    "usage": "The pamphlet descended into scurrility by the third page, which lost it what little authority the first two had established."
+  },
+  {
     "word": "sempiternal",
     "pronunciation": "sem-pih-TUR-nal",
     "era": "Middle English",
@@ -2833,6 +3463,15 @@
     "definition": "Everlasting, eternal — but with emphasis on temporal continuity rather than spatial extension; what has always been and will continue being, regardless of what else changes.",
     "lost": "\"Eternal\" is spatial — it goes on. Sempiternal emphasizes the temporal — it precedes you and will outlast you.",
     "usage": "The sempiternal indifference of the mountain was, in its own way, a comfort."
+  },
+  {
+    "word": "senescence",
+    "pronunciation": "sih-NES-əns",
+    "era": "Classical Borrowing",
+    "category": "The Bodied",
+    "definition": "The process of growing old; the biological deterioration that accompanies age; ageing understood as an active process rather than a passive accumulation of years.",
+    "lost": "Named ageing as something the body does — senescence is not the mere passage of time but the cellular and physiological change that time produces, which makes it more honest and more precise than simply 'growing old.'",
+    "usage": "The senescence of the building matched his own so exactly that he had stopped distinguishing between the two."
   },
   {
     "word": "sennight",
@@ -2851,6 +3490,15 @@
     "definition": "Of or suggestive of a tomb; hollow and deep in sound; gloomy with the specific gravity of burial.",
     "lost": "Named a quality of atmosphere that takes the tomb as its reference point — sepulchral darkness is not merely dim but specifically deathly, enclosed, resonant with what it contains.",
     "usage": "His voice had a sepulchral quality that was either naturally deep or carefully cultivated; the result was the same."
+  },
+  {
+    "word": "serein",
+    "pronunciation": "suh-RAN",
+    "era": "Borrowed",
+    "category": "The Weather",
+    "definition": "Fine rain falling from a clear sky; rain that falls in the evening from a sky with no visible cloud — the impossible precipitation.",
+    "lost": "Named rain's most uncanny form — serein falls without a source, drizzles from nothing, makes you wet from a sky that offers no explanation. The French word for calm evening air somehow attached itself to this paradox.",
+    "usage": "They sat outside in a serein so light it was more felt than seen, a dampness arriving from the cloudless sky above them."
   },
   {
     "word": "shambles",
@@ -2934,6 +3582,15 @@
     "usage": "A snell easterly had been blowing since morning, and by afternoon it had emptied the market square."
   },
   {
+    "word": "sojourn",
+    "pronunciation": "SOH-jern",
+    "era": "Middle English",
+    "category": "The Wandering",
+    "definition": "A temporary stay; a brief residence in a place that is not home; to dwell for a time without putting down roots.",
+    "lost": "Named the stay that knows it is temporary — a sojourn is defined by its own transience, which gives it a quality that residence lacks. You know when you arrive at a sojourn that you will leave it.",
+    "usage": "His sojourn in the city lasted eleven years, which by any reasonable measure had ceased to be temporary, but he continued to treat it as such."
+  },
+  {
     "word": "solivagant",
     "pronunciation": "sol-IH-vah-gant",
     "era": "Classical Borrowing",
@@ -2950,6 +3607,24 @@
     "definition": "Truth; reality as it actually is; what is genuinely the case, as opposed to what is said or believed.",
     "lost": "We kept sooth only in soothsayer — the truth-teller, the person who has access to sooth — which means we kept the specialist but lost the thing they specialise in.",
     "usage": "In sooth he had known for months; what he lacked was not knowledge but a way to act on it."
+  },
+  {
+    "word": "soothfast",
+    "pronunciation": "SOOTH-fast",
+    "era": "Old English",
+    "category": "The Knowing",
+    "definition": "Truthful; faithful to the truth; firmly anchored in what is real — not merely honest by policy but by nature.",
+    "lost": "Named truth as a quality you hold rather than a rule you follow — soothfast people are truthful because they cannot be otherwise, which is different from choosing not to lie.",
+    "usage": "He was known as soothfast, which meant that what he said could be relied upon, and also that he said things other people would have thought better of."
+  },
+  {
+    "word": "soothsayer",
+    "pronunciation": "SOOTH-say-ər",
+    "era": "Old English",
+    "category": "The Knowing",
+    "definition": "One who foretells the future; a prophet or diviner — literally one who says sooth, who speaks truth about what has not yet happened.",
+    "lost": "Named the prophet by what they do rather than what they are — a soothsayer says the sooth, tells the truth, which implies that prophecy is not invention but revelation, not imagination but knowledge.",
+    "usage": "The soothsayer in the market charged less than the physician and was, on balance, about as useful."
   },
   {
     "word": "sorel",
@@ -3114,6 +3789,15 @@
     "usage": "The swifts arrived on the same date they always did, screaming low over the rooftops in a way that meant summer had decided."
   },
   {
+    "word": "swink",
+    "pronunciation": "swink",
+    "era": "Old English",
+    "category": "The Spent",
+    "definition": "To toil; to labour with the body; to work until the work has taken something from you that rest does not fully restore.",
+    "lost": "Work is neutral; swink is not. To swink is to spend yourself in labour, which implies a cost the word does not minimize or celebrate.",
+    "usage": "They had swinked since before light and the field was half-done, which was either encouraging or not depending on the weather."
+  },
+  {
     "word": "swoon",
     "pronunciation": "swoon",
     "era": "Middle English",
@@ -3121,6 +3805,15 @@
     "definition": "To faint; a sudden loss of consciousness; the body's surrender to an overload it cannot process upright.",
     "lost": "Named the body's retreat with more dignity than 'faint' allows — a swoon implies you were feeling something worth losing consciousness over.",
     "usage": "She did not swoon at the news; she went very still, which was more alarming."
+  },
+  {
+    "word": "taedium vitae",
+    "pronunciation": "TY-dee-əm VEE-ty",
+    "era": "Classical Borrowing",
+    "category": "The Spent",
+    "definition": "Weariness of life; the exhaustion of existence itself; not depression exactly but the fatigue of continuing, the specific tiredness of someone who has been alive long enough.",
+    "lost": "Named the weariness that is not illness but experience — taedium vitae is what happens when the world has shown you enough of itself that novelty no longer arrives, and what remains is the effort of continuing to pay attention.",
+    "usage": "He was not unhappy exactly; it was more a taedium vitae, a sense that the menu was familiar and he had lost his appetite."
   },
   {
     "word": "tallow",
@@ -3184,6 +3877,15 @@
     "definition": "Muscular strength; the visible quality of bodily power; sinew and vigor as a physical presence.",
     "lost": "Gave strength a texture — thew is not an abstract capacity but something you can see in the shoulders of someone who has it.",
     "usage": "He had the thew of someone who had carried things for a living, and it showed in the way he stood."
+  },
+  {
+    "word": "thole",
+    "pronunciation": "thohl",
+    "era": "Old English",
+    "category": "The Spent",
+    "definition": "To endure; to bear suffering patiently; to put up with without flinching and without complaint.",
+    "lost": "Endure implies that the suffering is finite — you will get through it. Thole makes no such promise. To thole is to bear without expectation of an end, which is a different and heavier act.",
+    "usage": "She had tholed three winters of it without saying anything that would have been useful to say, and by the fourth she had stopped counting."
   },
   {
     "word": "thrall",
@@ -3315,7 +4017,7 @@
     "word": "twit",
     "pronunciation": "twit",
     "era": "Old English",
-    "category": "The Speaking",
+    "category": "The Malicious",
     "definition": "To reproach or taunt with a past fault; to remind someone of something they would rather forget, with the intent of shaming.",
     "lost": "We kept twit only as 'fool' — lost the verb that named a specific verbal act, the calculated reminder of failure designed to wound rather than instruct.",
     "usage": "He twitted her with the letter for years, producing it whenever he needed to end an argument, until it had lost all effect through overuse."
@@ -3328,6 +4030,15 @@
     "definition": "A sustained wail or howl; a rising, modulated cry that carries intensity itself rather than any specific emotion — the vocal form of extremity, equally available to grief and ecstasy.",
     "lost": "\"Wailing\" implies grief. Ululation names the sound — the intensity that precedes and outlasts whatever specific feeling produced it.",
     "usage": "The ululation rose from somewhere in the lower city and did not stop until dawn."
+  },
+  {
+    "word": "umbra",
+    "pronunciation": "UM-brə",
+    "era": "Classical Borrowing",
+    "category": "The Dark",
+    "definition": "The fully shadowed region of an eclipse where no light reaches; the darkest part of any shadow; darkness as a precise geometric fact.",
+    "lost": "Named darkness with scientific exactness — the umbra is not any shadow but the shadow where the source is completely blocked, total darkness as a calculable phenomenon rather than an atmospheric condition.",
+    "usage": "They had driven three hundred miles to stand in the umbra for four minutes, which was long enough."
   },
   {
     "word": "umbral",
@@ -3355,6 +4066,15 @@
     "definition": "The cry of a newborn; the first sound made at the opening of a life.",
     "lost": "Named the cry that begins everything — the only sound with no precedent in the life that produces it.",
     "usage": "A vagitus from the back room told him the ordeal was over."
+  },
+  {
+    "word": "valediction",
+    "pronunciation": "val-ə-DIK-shən",
+    "era": "Classical Borrowing",
+    "category": "The Ceremonial",
+    "definition": "A farewell; the words spoken at a departure; the formal act of saying goodbye in a way that acknowledges what is being left.",
+    "lost": "Goodbye is a single word; valediction is a speech act — the formal ceremony of departure, the thing you say when leaving requires more than a word.",
+    "usage": "His valediction ran to twenty minutes and nobody left early, which was the best thing that could be said about it."
   },
   {
     "word": "vambrace",
@@ -3402,6 +4122,24 @@
     "usage": "The hillside was virid in a way that felt aggressive after months of grey."
   },
   {
+    "word": "vituperation",
+    "pronunciation": "vy-tyoo-pər-AY-shən",
+    "era": "Classical Borrowing",
+    "category": "The Malicious",
+    "definition": "Bitter and sustained verbal abuse; prolonged fault-finding delivered with maximum unpleasantness; the full deployment of language as a weapon.",
+    "lost": "Named abuse as a practice rather than an outburst — vituperation is not a moment of anger but a sustained campaign of hostile speech, which requires its own word.",
+    "usage": "The letter was three pages of vituperation so precise that it seemed to have been drafted over several days, which made it considerably worse to receive."
+  },
+  {
+    "word": "vixen",
+    "pronunciation": "VIK-sən",
+    "era": "Middle English",
+    "category": "The Creaturely",
+    "definition": "A female fox; also an ill-tempered or quarrelsome woman — the fox's character attributed to certain women as an insult that contained a grudging recognition of sharpness.",
+    "lost": "One of the few animal words that transferred its gendered sense into human usage — a vixen is specifically female, specifically fox, specifically attributed with a kind of cunning that the word doesn't quite condemn.",
+    "usage": "The vixen denned under the shed each year and was left to it, being considered more useful than the alternative."
+  },
+  {
     "word": "wainscot",
     "pronunciation": "WAYN-skət",
     "era": "Middle English",
@@ -3420,6 +4158,15 @@
     "usage": "He returned wan and said almost nothing for the first week."
   },
   {
+    "word": "wanderlust",
+    "pronunciation": "WON-dər-lust",
+    "era": "Late Modern English",
+    "category": "The Wandering",
+    "definition": "A strong innate desire to rove or travel; the compulsion to keep moving borrowed from German into English in the early twentieth century.",
+    "lost": "The German Wanderlust is more precise than the English use allows — it is specifically the lust, the desire, not the act of wandering but the wanting-to, which is a different and more restless condition.",
+    "usage": "The wanderlust that had served her well at twenty had become, by forty, something she had to negotiate with her mortgage rather than indulge."
+  },
+  {
     "word": "wanhope",
     "pronunciation": "WAN-hohp",
     "era": "Middle English",
@@ -3427,6 +4174,15 @@
     "definition": "Despair; the complete failure of hope; hopelessness not as absence but as its own presence — hope that has gone wan.",
     "lost": "Named despair by what it does to hope rather than what hope's absence feels like — wanhope is hope surviving in a damaged form, which is worse than its simple absence.",
     "usage": "He had not arrived at wanhope suddenly; it had come on like winter, degree by degree, until he realised the light was gone."
+  },
+  {
+    "word": "wanion",
+    "pronunciation": "WON-ee-ən",
+    "era": "Middle English",
+    "category": "The Dark",
+    "definition": "Ill luck; misfortune; the plague — used in imprecations: 'with a wanion' meaning to your sorrow, with ill consequences.",
+    "lost": "Named bad luck as a force that could be wished upon someone — to send someone off with a wanion was to curse them with a politeness that made the curse worse.",
+    "usage": "Take yourself off, with a wanion to you, and don't come back while any of us remember your face."
   },
   {
     "word": "wassail",
@@ -3465,6 +4221,24 @@
     "usage": "He had served the weal his whole career and was surprised to find it had not returned the favour."
   },
   {
+    "word": "weed",
+    "pronunciation": "weed",
+    "era": "Old English",
+    "category": "The Bodied",
+    "definition": "A garment, especially a widow's mourning dress; the outfit worn to signal a specific grief to the world — before 'weeds' became merely an archaic word for clothing generally.",
+    "lost": "We have widow's weeds in the phrase but lost the singular — a weed was a single garment of grief, the specific cloth of loss that the body wore so the world would know what it carried.",
+    "usage": "She had worn the weed for a year as custom required, and then put it away, which people noticed and drew their own conclusions from."
+  },
+  {
+    "word": "weigh anchor",
+    "pronunciation": "way ANG-kər",
+    "era": "Middle English",
+    "category": "The Nautical",
+    "definition": "To raise the anchor from the seabed in preparation for departure; to leave a mooring. Not to throw the anchor overboard but to lift it back up — the phrase is perpetually misunderstood.",
+    "lost": "Named the act of departure by its preparation — weighing anchor is not the sailing but the making-ready-to-sail, the retrieval of the thing that held you. The confusion with 'dropping anchor' is so common that the phrase now carries the wrong meaning in most people's minds.",
+    "usage": "They weighed anchor before dawn, the capstan grinding in the dark, and were through the heads before the town was awake."
+  },
+  {
     "word": "weird",
     "pronunciation": "weerd",
     "era": "Old English",
@@ -3483,6 +4257,24 @@
     "usage": "The birds rose until the welkin swallowed them whole."
   },
   {
+    "word": "wellaway",
+    "pronunciation": "WEL-ə-way",
+    "era": "Old English",
+    "category": "The Sounding",
+    "definition": "An exclamation of grief or lamentation; alas — but with more body than alas, more duration, as if the word itself is a sound wrung from the chest.",
+    "lost": "Alas is literary; wellaway is vocal. The word was a cry before it was a word, and it kept that quality — saying wellaway meant producing a sound, not writing one.",
+    "usage": "Wellaway, she said, and meant it entirely, and sat down in the road where she was and did not get up for some time."
+  },
+  {
+    "word": "weltschmerz",
+    "pronunciation": "VELT-shmerts",
+    "era": "Borrowed",
+    "category": "The Spent",
+    "definition": "World-pain; the depression that comes from comparing the world as it is with the world as it should be — borrowed from German because English has no equivalent.",
+    "lost": "Named the specific grief of idealism disappointed — Weltschmerz is not the pain of personal loss but the pain of a world that doesn't measure up to what you believed it could be, which requires its own word because it is its own condition.",
+    "usage": "The Weltschmerz had settled in sometime during his thirties and showed no signs of lifting, which he had come to regard as a reasonable response to the available evidence."
+  },
+  {
     "word": "wen",
     "pronunciation": "wen",
     "era": "Old English",
@@ -3499,6 +4291,15 @@
     "definition": "Blood-price; the monetary compensation owed to a family for the killing of one of their kin.",
     "lost": "Encoded the radical idea that a life has a calculable social value — not sentimental, but precise and public.",
     "usage": "The wergild was paid in silver over three years, and after the third payment, the feud was formally ended."
+  },
+  {
+    "word": "whilom",
+    "pronunciation": "WHY-ləm",
+    "era": "Old English",
+    "category": "The Reckoning",
+    "definition": "Formerly; once upon a time; at some past period now remote enough to feel like another world.",
+    "lost": "Formerly is a date; whilom is a distance. The word understood that some things in the past are not merely earlier but genuinely elsewhere — another world that happened to be this one.",
+    "usage": "The whilom greatness of the building was visible in the bones of it, in the height of the ceilings and the quality of the ironwork, which the rest had not maintained."
   },
   {
     "word": "winsome",
@@ -3546,6 +4347,15 @@
     "usage": "Withinside the walls, the silence was complete; outside, the city continued its business without interest in what the walls contained."
   },
   {
+    "word": "wood",
+    "pronunciation": "wood",
+    "era": "Old English",
+    "category": "The Dark",
+    "definition": "Mad; insane; wild with passion or fury — the Old English adjective that named mental disorder before lunacy, madness, or derangement arrived to replace it.",
+    "lost": "Named madness as a state of wildness rather than illness — to be wood was to have gone beyond reason into something animal and dangerous, which is a different understanding of mental disorder than the clinical vocabulary that replaced it.",
+    "usage": "The storm had driven them all a little wood by the third day; by the fourth, no one was surprised by anything anyone did."
+  },
+  {
     "word": "wraith",
     "pronunciation": "rayth",
     "era": "Middle English",
@@ -3573,6 +4383,15 @@
     "usage": "He had stopped fighting his wyrd by the time the messenger arrived."
   },
   {
+    "word": "wyvern",
+    "pronunciation": "WY-vərn",
+    "era": "Middle English",
+    "category": "The Creaturely",
+    "definition": "A dragon with two legs and wings rather than four legs; a heraldic beast; the lesser dragon of the English imagination.",
+    "lost": "Named the specific heraldic creature that is not quite a dragon — a wyvern has two legs where a dragon has four, which matters in heraldry and in the taxonomy of things that don't exist but need to be precisely described.",
+    "usage": "The crest showed a wyvern rampant on a field of blue, which was either a statement of territorial ambition or the eccentric choice of an ancestor nobody could now consult."
+  },
+  {
     "word": "xenodochial",
     "pronunciation": "zen-oh-DOH-kee-əl",
     "era": "Classical Borrowing",
@@ -3580,6 +4399,24 @@
     "definition": "Hospitable to strangers; welcoming of the unknown guest.",
     "lost": "Named a virtue the modern world has largely stopped aspiring to — xenodochial hospitality assumes the stranger deserves welcome before they've earned it.",
     "usage": "The village had a xenodochial tradition older than its church: the road through meant the gate was open."
+  },
+  {
+    "word": "yare",
+    "pronunciation": "yair",
+    "era": "Old English",
+    "category": "The Bodied",
+    "definition": "Ready; nimble; quick and easily handled — of a vessel: quick to the helm, responsive. Of a person: alert and prepared.",
+    "lost": "Ready is passive; yare is active. To be yare is to be already in motion toward what is needed, not merely available for it.",
+    "usage": "The boat was yare in a way that larger vessels couldn't manage, answering the helm before the helmsman had finished the thought."
+  },
+  {
+    "word": "yede",
+    "pronunciation": "yeed",
+    "era": "Old English",
+    "category": "The Wandering",
+    "definition": "Went; went away; the archaic past tense of 'to go' — a verb that became so irregular it disappeared, leaving 'went' (from 'wend') to do double duty.",
+    "lost": "Named going with an Old English directness — yede was the simple past of motion, before the language borrowed 'went' from 'wend' and let yede fall silent. The word is gone; the act remains.",
+    "usage": "He yede before dawn without word to anyone, and was not seen in that part of the country again."
   },
   {
     "word": "yore",
