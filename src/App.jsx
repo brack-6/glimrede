@@ -29,6 +29,11 @@ const C = {
 
 const FONT_DEFAULTS = { display: "Fraunces", body: "Instrument Serif", mono: "Share Tech Mono" };
 
+// Module-level fallbacks (used by sub-components; overridden inside main component)
+const mono    = "var(--font-mono, 'Share Tech Mono', monospace)";
+const display = "var(--font-display, 'Fraunces', serif)";
+const body    = "var(--font-body, 'Instrument Serif', serif)";
+
 const HOARD_KEY = "glimrede-saved-words";
 
 // ── Small components ──────────────────────────────────────────────────────────
@@ -136,15 +141,13 @@ export default function Glimrede() {
     } catch { return { display: "Fraunces", body: "Instrument Serif", mono: "Share Tech Mono" }; }
   });
 
-  // Derive font CSS strings from state
-  const mono    = `'${fonts.mono}', 'Courier New', monospace`;
-  const display = `'${fonts.display}', 'Times New Roman', serif`;
-  const body    = `'${fonts.body}', 'Georgia', serif`;
-
   // Persist font choices
   useEffect(() => {
     try { localStorage.setItem("glimrede-fonts", JSON.stringify(fonts)); } catch {}
-    // Inject Google Fonts link dynamically
+    const root = document.documentElement;
+    root.style.setProperty("--font-display", `'${fonts.display}', 'Times New Roman', serif`);
+    root.style.setProperty("--font-body",    `'${fonts.body}', 'Georgia', serif`);
+    root.style.setProperty("--font-mono",    `'${fonts.mono}', 'Courier New', monospace`);
     const id = "glimrede-dynamic-fonts";
     let link = document.getElementById(id);
     if (!link) { link = document.createElement("link"); link.id = id; link.rel = "stylesheet"; document.head.appendChild(link); }
