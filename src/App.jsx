@@ -268,7 +268,7 @@ export default function Glimrede() {
       </div>
 
       {/* ── CATEGORY STRIP ── */}
-      <div style={{ borderBottom:`1px solid ${C.border}`, display:"flex", overflowX:"auto", scrollbarWidth:"none", background:C.bgPanel, flexShrink:0 }}>
+      <div style={{ borderBottom:`1px solid ${C.border}`, display:"flex", flexWrap:"wrap", background:C.bgPanel, flexShrink:0 }}>
         {CATEGORIES.map(cat => {
           const active = activeCat===cat;
           return (

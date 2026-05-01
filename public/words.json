@@ -54,6 +54,15 @@
     "usage": "The ambry in the kitchen wall held the salt and the good knives and a small flask of something that had been there since before anyone could remember."
   },
   {
+    "word": "anamnesis",
+    "pronunciation": "an-am-NEE-sis",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "Recollection; the Platonic doctrine that learning is really remembering — that the soul knew everything before birth and knowledge is the recovery of what was forgotten.",
+    "lost": "Named memory as the structure of all knowledge — anamnesis is not a theory of learning but a theory of what learning is made of, and the word carries the full weight of that claim.",
+    "usage": "The melody produced anamnesis so complete that she could not tell if she remembered the song or the summer, or if the distinction mattered."
+  },
+  {
     "word": "anon",
     "pronunciation": "ə-NON",
     "era": "Old English",
@@ -81,6 +90,15 @@
     "usage": "He was known for his apophthegms; people collected them the way others collect wounds."
   },
   {
+    "word": "aporia",
+    "pronunciation": "ə-POR-ee-ə",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "A state of radical doubt; an impasse in reasoning where the way forward is genuinely unclear; the point at which thought arrives at its own limit.",
+    "lost": "Named the productive dead end — aporia is not mere confusion but the specific experience of having followed an argument honestly to a place where it stops, which Socrates considered the beginning of real thinking.",
+    "usage": "The committee had reached a genuine aporia by noon, and the decision to adjourn was a way of not admitting it."
+  },
+  {
     "word": "apotropaic",
     "pronunciation": "ap-oh-troh-PAY-ik",
     "era": "Classical Borrowing",
@@ -88,6 +106,15 @@
     "definition": "Having the power to ward off evil or bad luck; designed to avert malevolent forces; the quality of objects kept for protection.",
     "lost": "Named a function that objects can perform — apotropaic things are not decorative or useful in any material sense but are kept because they are believed to push something bad away.",
     "usage": "The horseshoe above the door was apotropaic rather than decorative, which she knew because it had been there before she was born and would stay there after she was gone."
+  },
+  {
+    "word": "appanage",
+    "pronunciation": "AP-ə-nij",
+    "era": "Middle English",
+    "category": "The Bound",
+    "definition": "A provision of land or other resources granted to younger sons of royalty; a natural accompaniment or perquisite of a position.",
+    "lost": "Named the consolation prize of the dynastic system — the appanage was what younger sons received instead of the throne, enough to maintain status without power, which was either generous or cruel depending on the recipient.",
+    "usage": "The conference room was the marketing department's appanage — not quite territory, not quite borrowed, but understood by everyone to be theirs."
   },
   {
     "word": "apricity",
@@ -225,6 +252,15 @@
     "usage": "Something wailed in the chimney all night that the adults attributed to wind and the children knew was not wind."
   },
   {
+    "word": "behemoth",
+    "pronunciation": "beh-HEE-moth",
+    "era": "Classical Borrowing",
+    "category": "The Creaturely",
+    "definition": "A huge or monstrous creature; from the Book of Job — a beast of enormous power whose description has never been definitively identified; institutional scale made animal.",
+    "lost": "Named the animal that exceeds categories — behemoth is not any specific creature but the class of creature that is simply too large to be dealt with by ordinary means, which is why the word transferred so readily to corporations and governments.",
+    "usage": "The merger had produced a behemoth that nobody had entirely intended and nobody now knew how to govern."
+  },
+  {
     "word": "beholden",
     "pronunciation": "bih-HOL-dən",
     "era": "Middle English",
@@ -241,6 +277,15 @@
     "definition": "An old woman; originally grandmother (belle dame); later: a hag, a witch, a fearsome old woman whose age has given her a power that frightens.",
     "lost": "Traced the trajectory from grandmother to witch — beldam shows the cultural anxiety about older women, the way age and female knowledge became threatening over the same century the word changed meaning.",
     "usage": "A beldam at the crossroads who claimed to know which road was passable and whose advice they eventually decided was worth the coin she asked."
+  },
+  {
+    "word": "beleaguer",
+    "pronunciation": "beh-LEE-gər",
+    "era": "Early Modern English",
+    "category": "The Martial",
+    "definition": "To surround with military forces; to besiege; to lay siege to — the beleaguered are those inside the ring that cannot be broken.",
+    "lost": "Named the condition of being surrounded — to be beleaguered is not to be attacked but to be enclosed, which is a different and in some ways worse condition, because the threat is present and continuous rather than arriving and departing.",
+    "usage": "The beleaguered garrison had been holding for six weeks on steadily diminishing supplies, which was its own kind of arithmetic."
   },
   {
     "word": "belike",
@@ -367,6 +412,15 @@
     "definition": "A blunt thick needle for drawing tape or ribbon through a hem; also a small pointed instrument for piercing cloth; a hairpin of bone or ivory.",
     "lost": "Named three different objects with the same word because they shared a shape — pointed, slender, made for threading or piercing — which is a different approach to categorisation than modern naming practice uses.",
     "usage": "She threaded the ribbon with a bodkin in the time it would have taken him to find the bodkin, which was the efficient division of labour."
+  },
+  {
+    "word": "bolster",
+    "pronunciation": "BOHL-stər",
+    "era": "Old English",
+    "category": "The Domestic",
+    "definition": "A long cylindrical pillow placed across the full width of a bed; to support or strengthen — the pillow gave the verb its meaning.",
+    "lost": "Named the support that was also furniture — a bolster was the pillow you slept on when you weren't sleeping alone, the structural element of the shared bed that gave the verb its meaning. We kept the verb and nearly lost the thing.",
+    "usage": "The bolster divided the bed with a democracy that satisfied neither party and was retained for reasons nobody examined."
   },
   {
     "word": "boon",
@@ -558,6 +612,15 @@
     "usage": "The chevauchée had left the valley stripped to the soil, which was the point — the army that wintered here would find nothing to live on."
   },
   {
+    "word": "chimera",
+    "pronunciation": "ky-MEER-ə",
+    "era": "Classical Borrowing",
+    "category": "The Creaturely",
+    "definition": "A fire-breathing monster of Greek mythology with a lion's head, a goat's body, and a serpent's tail; an impossible or foolish fantasy; a thing made of incompatible parts.",
+    "lost": "Named the impossible assemblage — a chimera is not merely a fantasy but a specific kind of fantasy that combines real things in ways that can't cohere, which is why biology borrowed it for organisms with cells from different genetic sources.",
+    "usage": "The proposed solution was a chimera — each component drawn from a real system, none of them compatible with the others."
+  },
+  {
     "word": "choler",
     "pronunciation": "KOL-ər",
     "era": "Middle English",
@@ -711,6 +774,15 @@
     "usage": "Three corbies settled on the gate before dawn, which the old woman said was sufficient to cancel the journey."
   },
   {
+    "word": "cordial",
+    "pronunciation": "KOR-dee-əl",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A sweet fruit drink; originally a medicine believed to stimulate the heart; warm and friendly in manner — the drink and the disposition named by the same organ.",
+    "lost": "Named the medicine that became the drink — a cordial was first a heart medicine, then a restorative, then a fruit syrup. The warmth in 'cordial behaviour' comes from the same root: cor, the heart. The drink and the disposition were once the same prescription.",
+    "usage": "She offered a glass of elderflower cordial with the warmth of someone who had been waiting for a chance to offer it."
+  },
+  {
     "word": "corpse-light",
     "pronunciation": "KORPS-lyt",
     "era": "Middle English",
@@ -763,6 +835,15 @@
     "definition": "The brief, specific moment of twilight — neither day nor night, the threshold state. A temporal condition of radical uncertainty.",
     "lost": "\"Dusk\" is the result. Crepuscule is the event, with all its instability intact.",
     "usage": "He always made his approach at crepuscule, when shapes were still uncertain."
+  },
+  {
+    "word": "curfew",
+    "pronunciation": "KER-fyoo",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "Originally: a bell rung at a fixed hour as a signal to extinguish fires and lights; from the French couvre-feu — cover the fire. The domestic precursor to the political restriction.",
+    "lost": "Named the fire management that became political control — curfew began as a domestic safety measure, the nightly instruction to bank the hearth, and kept the word when it became the requirement to be indoors. The fire is long gone from the etymology.",
+    "usage": "The curfew bell had been rung from that tower for six hundred years, and the town had long since forgotten what covering fires had to do with it."
   },
   {
     "word": "cut and run",
@@ -844,6 +925,15 @@
     "definition": "An object that caused a person's death, legally forfeit to the crown as an offering to God.",
     "lost": "Held objects morally accountable in a way modern law refuses — a deodand is a thing that owes a debt.",
     "usage": "The coroner declared the millwheel a deodand; it was sold and the price given to the church."
+  },
+  {
+    "word": "descant",
+    "pronunciation": "DES-kant",
+    "era": "Middle English",
+    "category": "The Sounding",
+    "definition": "A melody sung or played above a basic melody; a discourse or comment on a theme; to talk at length and freely.",
+    "lost": "Named the voice above the voice — a descant is not the melody but what happens above it, the extra thread that the harmony makes possible. As a verb it means to expatiate, to run freely above a fixed theme, which is the same act in prose.",
+    "usage": "He descanted on the subject for twenty minutes while the rest of the table waited with varying degrees of patience."
   },
   {
     "word": "destrier",
@@ -1026,6 +1116,15 @@
     "usage": "The encomium ran to forty minutes and the subject of it sat looking increasingly uncomfortable."
   },
   {
+    "word": "enervate",
+    "pronunciation": "EN-ər-vayt",
+    "era": "Classical Borrowing",
+    "category": "The Spent",
+    "definition": "To weaken; to drain of energy or vitality; to make feeble — not the sharp exhaustion of effort but the slow draining of what makes effort possible.",
+    "lost": "Named the process of vitality's departure — to enervate is to remove the nerves from something, metaphorically, to take out the animating principle and leave the structure. Chronic rather than acute, gradual rather than sudden.",
+    "usage": "The climate was enervating in a way that didn't show up as tiredness until you tried to do something and found there was nothing behind it."
+  },
+  {
     "word": "enfeoff",
     "pronunciation": "en-FEF",
     "era": "Middle English",
@@ -1062,6 +1161,15 @@
     "usage": "He consulted the ephemeris each morning not from any navigational need but from the same impulse that made some people read the news — a desire to know what position the world had reached."
   },
   {
+    "word": "epiphany",
+    "pronunciation": "eh-PIF-ə-nee",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "A moment of sudden revelation or insight; the manifestation of a divine or spiritual reality; Joyce's term for the moment when the whatness of a thing reveals itself.",
+    "lost": "Originally a religious feast — the manifestation of Christ to the Magi. Joyce secularised it into the literary term for the moment of sudden understanding, which is arguably the most productive theft in English literary history.",
+    "usage": "The epiphany, when it came, was not dramatic — just a small click of understanding that rearranged everything that had preceded it."
+  },
+  {
     "word": "errantry",
     "pronunciation": "EH-rant-ree",
     "era": "Middle English",
@@ -1078,6 +1186,15 @@
     "definition": "At a former time; belonging to the past — carrying the specific quality of something that was genuinely present and substantial and is now absent; a former state that was real.",
     "lost": "\"Former\" is administrative. Erstwhile implies the loss of the thing has changed the landscape around it.",
     "usage": "Her erstwhile certainty had been replaced by something more functional but less comforting."
+  },
+  {
+    "word": "escheat",
+    "pronunciation": "es-CHEET",
+    "era": "Middle English",
+    "category": "The Bound",
+    "definition": "The reversion of property to the state when a person dies without heirs; the legal mechanism by which property without an owner returns to the crown.",
+    "lost": "Named the state's claim on what human connections have failed to hold — escheat is property falling through the net of family and obligation back into the common fund, which encodes a specific theory of ownership.",
+    "usage": "The estate fell to escheat after the last of the line died intestate, which the county had been quietly expecting for several years."
   },
   {
     "word": "eventide",
@@ -1764,6 +1881,15 @@
     "usage": "The evidence was thin, howbeit sufficient for the purposes of the court."
   },
   {
+    "word": "hullabaloo",
+    "pronunciation": "hul-ə-bə-LOO",
+    "era": "Early Modern English",
+    "category": "The Sounding",
+    "definition": "A commotion; a loud confused noise; an uproar of voices all speaking at once without resolution.",
+    "lost": "Named noise at its most social and least musical — hullabaloo is the sound of a group that has lost its ability to take turns, which produces a specific texture of audio chaos distinct from any of its individual components.",
+    "usage": "The hullabaloo from the street below made concentration impossible and eavesdropping unnecessary."
+  },
+  {
     "word": "ides",
     "pronunciation": "ydz",
     "era": "Classical Borrowing",
@@ -1789,6 +1915,24 @@
     "definition": "A spoken curse; the act of calling down evil or harm through deliberate utterance.",
     "lost": "Distinguished the curse as a performative speech act from the harm it invokes — an imprecation is a thing you do with your mouth.",
     "usage": "She left without violence, but the imprecation she murmured at the threshold was heard by three people."
+  },
+  {
+    "word": "imprimatur",
+    "pronunciation": "im-prih-MAH-tər",
+    "era": "Classical Borrowing",
+    "category": "The Bound",
+    "definition": "Official approval; a licence to print a book, originally granted by church authority; the mark that says a thing is permitted to exist.",
+    "lost": "Named the permission that preceded publication — 'let it be printed' was the phrase, and its withdrawal was censorship. The secular use retains the meaning: official approval granted by whoever has the authority to grant it.",
+    "usage": "The project had the director's imprimatur, which meant it could be discussed openly, which meant it had already been decided."
+  },
+  {
+    "word": "incandescent",
+    "pronunciation": "in-kan-DES-ənt",
+    "era": "Classical Borrowing",
+    "category": "The Luminous",
+    "definition": "Glowing white or brilliantly with heat; emitting light as a result of being heated; also: of performance or emotion: brilliantly vivid.",
+    "lost": "Named light as a product of heat rather than chemistry — incandescent light is made by making something hot enough to shine, which is a different and more violent relationship between energy and illumination.",
+    "usage": "The incandescent rage she felt was visible to everyone in the room as a quality of stillness rather than movement."
   },
   {
     "word": "incantation",
@@ -1818,6 +1962,15 @@
     "usage": "Standing there in the rain, she seemed to be grief incarnate, stripped of everything incidental."
   },
   {
+    "word": "indenture",
+    "pronunciation": "in-DEN-chər",
+    "era": "Middle English",
+    "category": "The Bound",
+    "definition": "A contract binding an apprentice to a master for a fixed term; a deed with indented edges, cut in duplicate so each party held a matching piece.",
+    "lost": "Named the contract by its physical form — the indented cut proved authenticity, the two pieces only matching their original partner. To be indentured was to be bound by a document as well as by a relationship.",
+    "usage": "He had served his full indenture before anyone realised the master had nothing left to teach him, which had been the case for some time."
+  },
+  {
     "word": "indite",
     "pronunciation": "in-DYT",
     "era": "Middle English",
@@ -1825,6 +1978,24 @@
     "definition": "To compose or write; to set down in literary form; to dictate the terms of a written text.",
     "lost": "Named writing as a compositional act distinct from mere transcription — to indite is to give form, not just to record.",
     "usage": "She indited the letter herself, which was unusual, and the handwriting showed it."
+  },
+  {
+    "word": "ineffable",
+    "pronunciation": "in-EF-ə-bəl",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "Too great or extreme to be expressed in words; beyond the reach of language; the experience that survives the attempt to describe it.",
+    "lost": "Named the limit of the sayable — ineffable things are not merely difficult to describe but constitutively beyond description, things for which words are structurally inadequate rather than just insufficient.",
+    "usage": "The view was ineffable in the strict sense — she tried three times on three different postcards and threw them all away."
+  },
+  {
+    "word": "inglenook",
+    "pronunciation": "ING-gəl-nook",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A corner or alcove beside a large open fireplace; the sheltered recess where the hearth is warmest and the wall cuts the draught.",
+    "lost": "Named the best seat in the house — the inglenook was where the old sat and the young were sent when they were ill, the warmest corner of the warmest room in a building that was otherwise cold.",
+    "usage": "He had claimed the inglenook so completely over the years that the chair in it had developed a permanent lean in his direction."
   },
   {
     "word": "interdict",
@@ -1843,6 +2014,15 @@
     "definition": "To speak or write against with great bitterness; to rail; to pour sustained verbal hostility onto a subject.",
     "lost": "Named criticism at the level of sustained attack — inveigh is not a complaint or a critique but a campaign, speech as siege.",
     "usage": "He inveighed against the proposal for forty minutes and convinced no one, which he had expected."
+  },
+  {
+    "word": "inversion",
+    "pronunciation": "in-VER-zhən",
+    "era": "Classical Borrowing",
+    "category": "The Weather",
+    "definition": "A temperature inversion; a layer of warm air trapping cold air below — weather made upside down, the normal relationship between height and temperature reversed.",
+    "lost": "Named the atmosphere's reversal — in a normal day cold air rises and warm air sinks, but an inversion traps everything, creates fog, traps pollution, makes cities choke. Weather as a failure of the usual order.",
+    "usage": "An inversion had settled over the valley for three days, and the city below was invisible from the ridge above it."
   },
   {
     "word": "invocation",
@@ -1998,6 +2178,15 @@
     "usage": "The admiral's lanthorn burned all night, and the fleet steered by it, and when it was extinguished at dawn the lookouts knew to find another reference."
   },
   {
+    "word": "larder",
+    "pronunciation": "LAR-dər",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A cool room or cupboard for storing food; originally a room for storing lard and cured meats; the household's food reserve made architectural.",
+    "lost": "Named the food store by its original contents — a larder was first a place for lard, then for all preserved meats, then for food in general, losing its specific meaning as refrigeration made the cool room unnecessary.",
+    "usage": "The larder was a small north-facing room that stayed cold through summer, which was its whole purpose and the reason the house had been built facing that way."
+  },
+  {
     "word": "lares",
     "pronunciation": "LAH-rayz",
     "era": "Classical Borrowing",
@@ -2068,6 +2257,15 @@
     "definition": "A young hare in its first year; a hare still carrying the smallness and vulnerability of its first season.",
     "lost": "Named age in an animal with a precision we reserved for very few species — the leveret is a hare that hasn't yet become what it will be.",
     "usage": "She found a leveret in the long grass, close-huddled and convinced that stillness was invisibility."
+  },
+  {
+    "word": "leviathan",
+    "pronunciation": "leh-VY-ə-thən",
+    "era": "Classical Borrowing",
+    "category": "The Creaturely",
+    "definition": "A sea monster of immense size; the great beast of the deep; Hobbes's name for the state — the creature that is made of all the people who agree to constitute it.",
+    "lost": "Named the monster of political philosophy — Hobbes used leviathan because the state he was describing was a creature of human parts assembled into something with its own life and power, larger and more frightening than any of the components.",
+    "usage": "The Leviathan of the regulatory system had grown so large that nobody inside it could see its own shape."
   },
   {
     "word": "lief",
@@ -2205,6 +2403,15 @@
     "usage": "A lurid cast to his skin that the others noticed but did not mention, waiting to see if it resolved on its own."
   },
   {
+    "word": "lye",
+    "pronunciation": "ly",
+    "era": "Old English",
+    "category": "The Domestic",
+    "definition": "A strongly alkaline solution leached from wood ash; used for making soap and for cleaning; the domestic chemical that made cleanliness possible before industrial manufacture.",
+    "lost": "Named the substance that enabled hygiene before chemistry named its ingredients — lye was made from fireplace ash soaked in water, which means the fire that heated the house also provided the means to wash it.",
+    "usage": "She made the soap from lye and tallow as her mother had taught her, which took two days and produced a result that cleaned better than anything the shop sold."
+  },
+  {
     "word": "malapert",
     "pronunciation": "MAL-ə-pert",
     "era": "Middle English",
@@ -2257,6 +2464,15 @@
     "definition": "The borderlands between two territories; the disputed or lawless zone where one sovereignty ends and another is uncertain; land defined by its adjacency to elsewhere.",
     "lost": "Named the border as a territory in its own right — the marches were not a line but a region, a zone of ambiguous jurisdiction with its own culture of accommodation and violence.",
     "usage": "In the marches the law of neither kingdom ran with confidence, which suited some residents better than others."
+  },
+  {
+    "word": "marplot",
+    "pronunciation": "MAR-plot",
+    "era": "Early Modern English",
+    "category": "The Martial",
+    "definition": "A person who ruins a plan by meddling; one who spoils a scheme through interfering at the wrong moment.",
+    "lost": "Named the ruiner by what they do to plans — a marplot is not an enemy but someone on your own side who intervenes at exactly the wrong moment and with exactly the wrong information.",
+    "usage": "There was always a marplot in these operations — someone with good intentions and poor timing who undid in minutes what had taken weeks to arrange."
   },
   {
     "word": "maugre",
@@ -2538,6 +2754,15 @@
     "usage": "He was called nithing in the assembly, and after that he had no standing to object to anything that was done to him."
   },
   {
+    "word": "noblesse oblige",
+    "pronunciation": "noh-BLES oh-BLEEZH",
+    "era": "Borrowed",
+    "category": "The Bound",
+    "definition": "The obligation of honourable, generous behaviour associated with high rank or birth; the inescapable duty that privilege creates.",
+    "lost": "Named the binding condition of inherited advantage — noblesse oblige is the claim that power comes with obligation, that what you were born to requires something of you. Its irony is that those who most need the reminder are least likely to apply it.",
+    "usage": "He performed his noblesse oblige with the thoroughness of a man who understood it as a transaction rather than a virtue."
+  },
+  {
     "word": "noctiluca",
     "pronunciation": "nok-tih-LOO-kə",
     "era": "Classical Borrowing",
@@ -2590,6 +2815,15 @@
     "definition": "The middle of the day; noon understood as a tide — a high point from which the day will ebb in either direction.",
     "lost": "Noon is a number; noontide is a moment with properties — the word understands midday as a turning point rather than merely a position on the clock.",
     "usage": "At noontide the market was at its fullest and the light was directly overhead and flattering to nothing."
+  },
+  {
+    "word": "noumenon",
+    "pronunciation": "NOO-meh-non",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "A thing as it is in itself, independent of perception; the object beyond all possible experience — Kant's name for what we cannot know but cannot stop trying to.",
+    "lost": "Named the unknowable thing that generates the knowable appearance — the noumenon is what is there when nobody is looking, which we cannot know because looking is all we have.",
+    "usage": "He had spent forty years in philosophy and arrived at the conviction that the noumenon was not a limitation of knowledge but knowledge's most honest description of itself."
   },
   {
     "word": "numbles",
@@ -2889,6 +3123,15 @@
     "usage": "He had peregrinated through four countries before settling, briefly, in a village that forgot him almost immediately."
   },
   {
+    "word": "peregrination",
+    "pronunciation": "peh-reg-rih-NAY-shən",
+    "era": "Classical Borrowing",
+    "category": "The Wandering",
+    "definition": "The act of travelling through foreign places; a journey, especially a long and wandering one through unfamiliar territory.",
+    "lost": "Named long travel as its own category of experience — a peregrination is not a trip or a journey but an extended engagement with foreign ground, travel that goes on long enough to change the traveller.",
+    "usage": "His peregrination through four countries over two years had produced a manuscript and a reluctance to sleep indoors that took another year to resolve."
+  },
+  {
     "word": "persiflage",
     "pronunciation": "PER-sih-flahzh",
     "era": "Late Modern English",
@@ -2898,6 +3141,15 @@
     "usage": "She met every serious question with persiflage so fluid that you only realized the deflection after she'd left the room."
   },
   {
+    "word": "perturbation",
+    "pronunciation": "per-ter-BAY-shən",
+    "era": "Classical Borrowing",
+    "category": "The Spent",
+    "definition": "Anxiety; mental unease; disturbance of the mind caused by uncertainty or concern — also: a deviation in a system caused by an external force.",
+    "lost": "Named anxiety as a disturbance — perturbation is the word physics uses for the way a system is thrown off its regular motion by an outside force, and also the word for what that force does to a person's peace of mind. Both uses are honest.",
+    "usage": "He concealed his perturbation well enough that only people who knew him well saw it, and only then in the way he held his hands."
+  },
+  {
     "word": "petrichor",
     "pronunciation": "PET-rih-kor",
     "era": "Late Modern English",
@@ -2905,6 +3157,15 @@
     "definition": "The scent of rain on dry earth; the distinctive smell produced when rain falls on soil that has been dry; the olfactory signal of precipitation arriving.",
     "lost": "Coined in 1964 from Greek — petros (stone) and ichor (the fluid that flows in the veins of the gods) — but named something ancient and familiar. That a smell this universal had to wait until 1964 for a word suggests how long we spent not attending to it.",
     "usage": "The petrichor reached them before the rain did, and they had just enough time to bring the chairs in."
+  },
+  {
+    "word": "pewter",
+    "pronunciation": "PYOO-tər",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "A grey alloy of tin with small amounts of copper and antimony; the everyday tableware of the medieval household — not silver, not clay, but the middle register of domestic dignity.",
+    "lost": "Named the metal that democratised the table — pewter was what households used when they couldn't afford silver but had risen above wooden trenchers. Its dull grey surface held the fingerprints of everyone who had used it, which is its own kind of record.",
+    "usage": "The pewter had been in the family longer than anything else, and its history showed in the worn spots where three generations of thumbs had held it."
   },
   {
     "word": "phantasm",
@@ -2941,6 +3202,15 @@
     "definition": "Light emitted by a substance without combustion; a cold, sustained glow; luminescence that continues after the exciting source has been removed.",
     "lost": "Named light that persists beyond its cause — phosphorescence is what glows after the energy has passed, light stored and slowly released, which is a different kind of luminosity from fire or electricity.",
     "usage": "The phosphorescence in the wave crests made the night crossing beautiful in a way that was difficult to describe accurately afterward."
+  },
+  {
+    "word": "pilgrimage",
+    "pronunciation": "PIL-grih-mij",
+    "era": "Middle English",
+    "category": "The Wandering",
+    "definition": "A journey to a sacred place as an act of devotion; travel with a destination that is also a purpose; movement that is already an arrival.",
+    "lost": "Named the journey that is also the practice — a pilgrimage is not travel toward something sacred but travel that is itself sacred, the walking as meaningful as the destination, which is either the most serious or the most honest approach to distance.",
+    "usage": "The pilgrimage took six weeks and she arrived at the shrine with blisters and a clarity about certain things that she had not expected the walking to produce."
   },
   {
     "word": "pine",
@@ -3096,6 +3366,15 @@
     "usage": "He woke at prime not from piety but from habit, and lay listening to the birds make their own office before rising."
   },
   {
+    "word": "primogeniture",
+    "pronunciation": "pry-moh-JEN-ih-chər",
+    "era": "Classical Borrowing",
+    "category": "The Bound",
+    "definition": "The right of the firstborn to inherit the whole estate; the legal principle that makes birth order into destiny.",
+    "lost": "Named the system that organised inheritance and therefore organised everything — primogeniture was not merely a rule about property but a rule about which children mattered, which shaped families and societies for centuries.",
+    "usage": "The younger sons had all the ability and none of the inheritance, which primogeniture had arranged with its customary indifference to merit."
+  },
+  {
     "word": "psithurism",
     "pronunciation": "SITH-yoo-riz-um",
     "era": "Classical Borrowing",
@@ -3121,6 +3400,15 @@
     "definition": "Physical beauty, especially of a striking or exceptional kind.",
     "lost": "Gave beauty a blunt, almost clinical weight — pulchritude is beauty stated as a fact, not admired from a distance.",
     "usage": "His pulchritude was the kind that photographs never quite caught, which meant it was entirely in the movement."
+  },
+  {
+    "word": "pusillanimous",
+    "pronunciation": "pyoo-sih-LAN-ih-məs",
+    "era": "Classical Borrowing",
+    "category": "The Spent",
+    "definition": "Showing a lack of courage or determination; timid; faint-hearted — lacking the soul for what the situation requires.",
+    "lost": "Named cowardice as a smallness of spirit rather than an absence of nerve — pusillanimous literally means small-souled, which is a different indictment than merely being afraid. It implies that the spirit itself is undersized.",
+    "usage": "The decision was pusillanimous in a way that disappointed everyone who had expected better, including some who had not expected much."
   },
   {
     "word": "puttock",
@@ -3157,6 +3445,15 @@
     "definition": "To give life to; the moment a fetus first moves in the womb; to become alive.",
     "lost": "Named the specific threshold between not-yet-living and living — quicken is the moment, not the state, and that distinction is irreplaceable.",
     "usage": "She felt it quicken on a Tuesday, and afterward the whole pregnancy was different."
+  },
+  {
+    "word": "quiddity",
+    "pronunciation": "KWID-ih-tee",
+    "era": "Classical Borrowing",
+    "category": "The Knowing",
+    "definition": "The essential nature of a thing; the quality that makes it what it is rather than anything else; the whatness of something.",
+    "lost": "Named the philosophical question 'what is it?' as a noun — the quiddity of a thing is the answer to that question, the irreducible quality that you would lose if you removed it and still had the thing.",
+    "usage": "She couldn't name the quiddity of the place, only that its absence would have made it somewhere else entirely."
   },
   {
     "word": "quidnunc",
@@ -3231,6 +3528,15 @@
     "usage": "A reek rose from the wet cobbles as the afternoon sun finally reached them, the street breathing out its stored rain."
   },
   {
+    "word": "refulgent",
+    "pronunciation": "reh-FUL-jənt",
+    "era": "Classical Borrowing",
+    "category": "The Luminous",
+    "definition": "Shining brightly; radiant; casting a warm and brilliant light that seems to pour from within.",
+    "lost": "Cousin to fulgent and effulgent — the family of Latin fulgere words that named different qualities of shine. Refulgent is brightness that reflects and returns, light bounced back into the world.",
+    "usage": "A refulgent morning after a week of rain that made everything look as if it had been recently invented."
+  },
+  {
     "word": "repine",
     "pronunciation": "rih-PYN",
     "era": "Early Modern English",
@@ -3247,6 +3553,15 @@
     "definition": "Payment in kind; the return of a deed, whether good or ill, in equivalent measure.",
     "lost": "Held both revenge and gratitude as the same structural act — requital is balance restored, not emotion expressed.",
     "usage": "He waited years for requital; when it came, it was more quiet than he had imagined."
+  },
+  {
+    "word": "resplendent",
+    "pronunciation": "reh-SPLEN-dənt",
+    "era": "Classical Borrowing",
+    "category": "The Luminous",
+    "definition": "Shining brilliantly; dazzlingly colourful and impressive; radiating light and splendour.",
+    "lost": "Named the dazzle that demands attention — resplendent things are not merely bright but commanding, light deployed as authority.",
+    "usage": "The resplendent absurdity of the ceremonial uniform made it impossible to take the wearer seriously, which was perhaps the point."
   },
   {
     "word": "revenant",
@@ -3535,6 +3850,24 @@
     "definition": "Oracular, mysteriously prophetic; of or resembling a sibyl.",
     "lost": "Encoded the specific register of feminine prophecy — not wild, but precise and deeply inconvenient.",
     "usage": "Her answer was sibylline enough that everyone in the room found a different warning in it."
+  },
+  {
+    "word": "sinecure",
+    "pronunciation": "SY-nih-kyoor",
+    "era": "Classical Borrowing",
+    "category": "The Bound",
+    "definition": "A position that requires little or no work but provides income or honour; an office without cure of souls — without pastoral responsibility.",
+    "lost": "Named the reward without the obligation — a sinecure is a position stripped of its actual function while retaining its benefits, which the church invented and the state perfected.",
+    "usage": "The post had become a sinecure over the decades, the actual work distributed quietly to others while the title and salary remained."
+  },
+  {
+    "word": "sirocco",
+    "pronunciation": "sih-ROK-oh",
+    "era": "Borrowed",
+    "category": "The Weather",
+    "definition": "A hot, oppressive wind blowing from North Africa across the Mediterranean; a wind that carries heat and dust and a specific kind of exhaustion.",
+    "lost": "Named the wind that travels — the sirocco crosses the sea and arrives on southern European shores still carrying the Sahara in it, hot and dry and laden with fine red dust that settles on everything and makes people irrational.",
+    "usage": "A sirocco had been blowing for four days and everyone's nerves were raw in the specific way that wind produces."
   },
   {
     "word": "sithence",
@@ -3843,6 +4176,15 @@
     "usage": "She sat in the tenebrae of the nave long after the candles had been extinguished one by one."
   },
   {
+    "word": "tenebrism",
+    "pronunciation": "TEN-ə-briz-əm",
+    "era": "Early Modern English",
+    "category": "The Luminous",
+    "definition": "The painting technique of extreme contrast between light and dark; Caravaggio's method of placing intense illumination against near-total darkness.",
+    "lost": "Named a way of seeing rather than a way of painting — tenebrism understood that the most revealing light is the light that shows you what darkness contains, which is an epistemology as much as an aesthetic.",
+    "usage": "The scene had a natural tenebrism to it — one lamp, the rest of the room in complete dark, the faces lit from below."
+  },
+  {
     "word": "tenebrous",
     "pronunciation": "TEN-eh-brus",
     "era": "Middle English",
@@ -3949,6 +4291,15 @@
     "definition": "Sluggish, dormant, numbed to sensation; the state of a creature in winter suspension.",
     "lost": "Named the specific quality of hibernation-in-humans — torpid is not tired, it is the system slowing to minimum.",
     "usage": "He spent the winter months torpid, emerging only when the cold required it."
+  },
+  {
+    "word": "tourney",
+    "pronunciation": "TER-nee",
+    "era": "Middle English",
+    "category": "The Martial",
+    "definition": "A medieval tournament; a series of jousting and martial contests organised as spectacle, competition, and military training.",
+    "lost": "Named the war game that was also entertainment — the tourney was violence made safe enough to be watched by ladies, which required specific rules about what could and couldn't be done to a dismounted knight.",
+    "usage": "The tourney had drawn knights from four counties, and the prize was enough to make the journey worthwhile even for those who expected to lose."
   },
   {
     "word": "tramontane",
@@ -4059,6 +4410,15 @@
     "usage": "His umbratic disposition made him excellent at correspondence and useless on any kind of expedition."
   },
   {
+    "word": "usufruct",
+    "pronunciation": "YOO-zoo-frukt",
+    "era": "Classical Borrowing",
+    "category": "The Bound",
+    "definition": "The right to enjoy the use and benefits of another's property without damaging or diminishing it; stewardship without ownership.",
+    "lost": "Named the middle ground between ownership and tenancy — usufruct is the right to use without the right to dispose, which encodes a specific relationship between people and property that modern law has mostly replaced with simpler categories.",
+    "usage": "She had usufruct of the house during her lifetime, after which it passed to the trust — a distinction that mattered enormously and was invisible to everyone who visited."
+  },
+  {
     "word": "vagitus",
     "pronunciation": "va-JY-təs",
     "era": "Classical Borrowing",
@@ -4104,6 +4464,15 @@
     "usage": "The old man would vaticinate from the steps each morning, and the fishermen had long since stopped laughing."
   },
   {
+    "word": "victuals",
+    "pronunciation": "VIT-əlz",
+    "era": "Middle English",
+    "category": "The Domestic",
+    "definition": "Food and provisions; sustenance — spelled as if Latin but pronounced as if the word knows better.",
+    "lost": "The spelling-pronunciation gap is the word's most interesting feature — victuals looks learned but sounds vernacular, which is the trace of a pronunciation shift the spelling never followed. The word was always more honest in the mouth than on the page.",
+    "usage": "They had victuals enough for a week if they were careful, and the kind of people who are careful about victuals generally are."
+  },
+  {
     "word": "villein",
     "pronunciation": "VIL-in",
     "era": "Middle English",
@@ -4111,6 +4480,15 @@
     "definition": "A serf; a person bound to the land and to the service of a lord; one whose labor is owned rather than chosen.",
     "lost": "Named the bound person with more precision than 'serf' — a villein had specific legal status, specific obligations, specific rights within that subjection. The word carried the whole system.",
     "usage": "He was born a villein and his children would be born villein; this was not cruelty but law, which made it worse."
+  },
+  {
+    "word": "virga",
+    "pronunciation": "VER-gə",
+    "era": "Classical Borrowing",
+    "category": "The Weather",
+    "definition": "Streaks of precipitation that evaporate before reaching the ground; rain that falls from cloud but never arrives; a visible promise the sky fails to keep.",
+    "lost": "Named the failed rain — virga is precipitation in process, rain that begins to fall and then is absorbed by dry air before it completes the journey. From below it looks like the cloud is crying without tears reaching anything.",
+    "usage": "Virga hung from the clouds all afternoon, trailing grey streaks over the desert that made the air smell of rain without providing any."
   },
   {
     "word": "virid",
